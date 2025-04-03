@@ -4,22 +4,22 @@ ASA
 Proxy Firewall  
 Bastion Host (Reverse Proxy)  
 NGFW (Next Generation Firewall)  
-	intrusion protection  
-	application awareness  
-	threat intelligence  
-	telemetry  
+	- intrusion protection  
+	- application awareness  
+	- threat intelligence  
+	- telemetry  
 UTM (Unified Threat Management)  
-	single security appliance  
-	multi functionality, single point in network  
+	- single security appliance  
+	- multi functionality, single point in network  
 Zone Based Firewalls  
 Security Level Firewalls  
 Stateless Firewalls  
-	Legacy  
-	Not aware of traffic patterns  
+	- Legacy  
+	- Not aware of traffic patterns  
 Stateful Firewalls  
-	Introduced by checkpoint 1994  
-	monitors active connections  
-	inspection tables or state table  
+	- Introduced by checkpoint 1994  
+	- monitors active connections  
+	- inspection tables or state table  
 
 **ASA Firewall Overview and Architecture**  
 Stateful firewall with vpn capabilities  
@@ -34,7 +34,7 @@ Features
 
 **Exam Note**  
 Command: Nameif  
-	not case sensitive, but preserve the case on exam  
+	- not case sensitive, but preserve the case on exam  
 
 ---
 
@@ -43,37 +43,37 @@ ASA ACLs - normal mask, not inverse
 
 **Through Traffic**  
 High Security Level to Low Security Level  
-	All TCP/UDP allowed from H 2 L  
-	show connection - stateful inspection entries  
+	- All TCP/UDP allowed from H 2 L  
+	- show connection - stateful inspection entries  
 Low to High  
-	Blocked by default  
-	Need to explicitly allow  
-	Packet flow - check conn table first -> ACL -> Default Behavior  
+	- Blocked by default  
+	- Need to explicitly allow  
+	- Packet flow - check conn table first -> ACL -> Default Behavior  
 Same Security Level  
-	S 2 S - blocked, even with explicit ACL  
-	same-security-traffic permit inter-interface  
+	- S 2 S - blocked, even with explicit ACL  
+	- same-security-traffic permit inter-interface  
  
 **Remote Management**  
 Telnet  
-	Cannot be configured on security level 0 interface  
-	enabled on interface, with allowed IPs  
-	need password  
-	config:
+	- Cannot be configured on security level 0 interface  
+	- enabled on interface, with allowed IPs  
+	- need password  
+	- config:
 		
 		telnet 10.1.1.1 255.255.255.255 inside
 		password C1sco123
 		
 SSH
-	any interface
-	enabled on interface with allowed ip
-	requires RSA key
-	requires username/password - LOCAL or AAA
-	config:
+	- any interface
+	- enabled on interface with allowed ip
+	- requires RSA key
+	- requires username/password - LOCAL or AAA
+	- config:
 	
 		ssh 10.1.1.1 255.255.255.255 inside
 		
 ASDM
-	config:
+	- config:
 	
 		http server enable
 		http 0.0.0.0 0.0.0.0 mgmt

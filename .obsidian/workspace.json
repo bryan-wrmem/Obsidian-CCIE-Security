@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Notes"
             }
           }
         ]
@@ -177,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ba848967611fae",
+  "active": "394dd464a6d33bbc",
   "lastOpenFiles": [
+    "README.md",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Screenshots",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
     "OE",
@@ -186,7 +187,6 @@
     "OE/Section 2 - ASA/2 - ASA Basics Lab",
     "OE/Section 2 - ASA/1 - ASA Basics/Screenshots/Pasted image 20250402230046.png",
     "OE/Section 2 - ASA/1 - ASA Basics/Screenshots/Pasted image 20250402213156.png",
-    "README.md",
     "Section 1 - Introduction/Pasted image 20250402142621.png",
     "Section 1 - Introduction/Pasted image 20250402142421.png",
     "Section 1 - Introduction/Pasted image 20250402142354.png",
