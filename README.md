@@ -1,2 +1,2 @@
 # CCIE Security Notes
-Welcome to my Obsidian Notebook for my CCIE Security Journal
+Welcome to my Obsidian notes for my CCIE Security journey
