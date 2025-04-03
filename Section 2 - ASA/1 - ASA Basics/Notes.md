@@ -1,7 +1,7 @@
 ASA
 
 **Types of Firewalls**  
-Proxy FIrewall  
+Proxy Firewall  
 Bastion Host (Reverse Proxy)  
 NGFW (Next Generation Firewall)  
 	intrusion protection  
@@ -27,7 +27,7 @@ Based on linux
 Linkable format program - LINA  
 
 Features  
-
+  
 ![[Pasted image 20250402230046.png]]
 
 ---
