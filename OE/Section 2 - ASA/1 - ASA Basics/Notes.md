@@ -2,20 +2,27 @@
 
 ## **Types of Firewalls**  
 Proxy Firewall  
+
 Bastion Host (Reverse Proxy)  
+
 NGFW (Next Generation Firewall)  
 - intrusion protection  
 - application awareness  
 - threat intelligence  
 - telemetry  
+
 UTM (Unified Threat Management)  
 - single security appliance  
 - multi functionality, single point in network  
+
 Zone Based Firewalls  
+
 Security Level Firewalls  
+
 Stateless Firewalls  
 - Legacy  
 - Not aware of traffic patterns  
+
 Stateful Firewalls  
 - Introduced by checkpoint 1994  
 - monitors active connections  
