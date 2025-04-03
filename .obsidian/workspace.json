@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "9b13454570a2424c",
+    "type": "split",
+    "children": [
+      {
+        "id": "75c94fe36ca8a304",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "394dd464a6d33bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 2 - ASA/1 - ASA Basics/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "167e7cb951e424dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c37d0e8cdd588bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8ba848967611fae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "58524bd765398fca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2cad07530fd57ba9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5
+  },
+  "right": {
+    "id": "4bde3fc496e1b661",
+    "type": "split",
+    "children": [
+      {
+        "id": "2be2f37339c09aaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dad83460d5f27369",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7faf10820f382b16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "38be0effe1357aa7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b219877f7fc31893",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e52941af8f4eee53",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d8ba848967611fae",
+  "lastOpenFiles": [
+    "Section 2 - ASA/1 - ASA Basics/Screnshots/Pasted image 20250402230046.png",
+    "2025-04-02.md",
+    "Section 2 - ASA/1 - ASA Basics/Notes.md",
+    "Section 2 - ASA/1 - ASA Basics/Screnshots/Pasted image 20250402213156.png",
+    "Section 2 - ASA/1 - ASA Basics/Screnshots",
+    "Section 1 - Introduction/1-1 OE Introduction.md",
+    "Section 2 - ASA/1 - ASA Basics",
+    "Section 2 - ASA",
+    "Welcome.md",
+    "Section 1 - Introduction/Pasted image 20250402142621.png",
+    "Section 1 - Introduction/Pasted image 20250402142421.png",
+    "Section 1 - Introduction/Pasted image 20250402142354.png",
+    "Section 1 - Introduction"
+  ]
+}
