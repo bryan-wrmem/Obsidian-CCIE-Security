@@ -1,6 +1,6 @@
 ASA
 
-**Types of Firewalls**
+**Types of Firewalls**  
 Proxy FIrewall  
 Bastion Host (Reverse Proxy)  
 NGFW (Next Generation Firewall)  
@@ -74,6 +74,7 @@ SSH
 		
 ASDM
 	config:
+	
 		http server enable
 		http 0.0.0.0 0.0.0.0 mgmt
 		username cisco password C1sco privilege 15
