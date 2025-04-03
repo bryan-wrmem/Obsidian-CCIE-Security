@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Notes"
             }
+          },
+          {
+            "id": "42526954f44a6612",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "OE/Section 2 - ASA/1 - ASA Basics/Screenshots/Pasted image 20250402230046.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250402230046"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,17 +190,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "394dd464a6d33bbc",
+  "active": "d8ba848967611fae",
   "lastOpenFiles": [
+    "OE/Section 2 - ASA/1 - ASA Basics/Screenshots/Pasted image 20250402213156.png",
+    "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
+    "OE/Section 2 - ASA/1 - ASA Basics/Screenshots/Pasted image 20250402230046.png",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
     "README.md",
-    "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Screenshots",
     "OE",
     "OE/Section 2 - ASA/2 - ASA Basics Lab",
-    "OE/Section 2 - ASA/1 - ASA Basics/Screenshots/Pasted image 20250402230046.png",
-    "OE/Section 2 - ASA/1 - ASA Basics/Screenshots/Pasted image 20250402213156.png",
     "Section 1 - Introduction/Pasted image 20250402142621.png",
     "Section 1 - Introduction/Pasted image 20250402142421.png",
     "Section 1 - Introduction/Pasted image 20250402142354.png",

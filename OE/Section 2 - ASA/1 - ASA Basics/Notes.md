@@ -35,7 +35,7 @@ Linkable format program - LINA
 
 ### Features  
   
-![[Pasted image 20250402230046.png]]
+
 
 ---
 
