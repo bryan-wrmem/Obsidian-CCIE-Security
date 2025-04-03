@@ -25,12 +25,14 @@
             "id": "42526954f44a6612",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/1 - ASA Basics/Screenshots/Pasted image 20250402230046.png"
+                "file": "OE/Section 1 - Introduction/Introduction/1-1 OE Introduction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250402230046"
+              "icon": "lucide-file",
+              "title": "1-1 OE Introduction"
             }
           }
         ],
@@ -190,33 +192,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ba848967611fae",
+  "active": "42526954f44a6612",
   "lastOpenFiles": [
-    "OE/Section 2 - ASA/1 - ASA Basics/Screenshots/Pasted image 20250402213156.png",
+    "OE/Section 1 - Introduction/Media/Pasted image 20250402142354.png",
+    "OE/Section 1 - Introduction/Introduction/1-1 OE Introduction.md",
+    "media",
+    "OE/Section 2 - ASA/1 - ASA Basics/Media/Pasted image 20250402230046.png",
+    "OE/Section 2 - ASA/1 - ASA Basics/Media/Pasted image 20250402213156.png",
     "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
-    "OE/Section 2 - ASA/1 - ASA Basics/Screenshots/Pasted image 20250402230046.png",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
     "README.md",
-    "OE/Section 2 - ASA/2 - ASA Basics Lab/Screenshots",
+    "OE/Section 2 - ASA/2 - ASA Basics Lab/Media",
     "OE",
     "OE/Section 2 - ASA/2 - ASA Basics Lab",
     "Section 1 - Introduction/Pasted image 20250402142621.png",
     "Section 1 - Introduction/Pasted image 20250402142421.png",
     "Section 1 - Introduction/Pasted image 20250402142354.png",
     "Section 1 - Introduction/1-1 OE Introduction.md",
-    "OE/Section 1 - Introduction/Introduction/1-1 OE Introduction.md",
     "OE/Section 1 - Introduction/Introduction",
-    "OE/Section 1 - Introduction/Screenshots/Pasted image 20250402142421.png",
-    "OE/Section 1 - Introduction/Screenshots",
+    "OE/Section 1 - Introduction/Media/Pasted image 20250402142421.png",
+    "OE/Section 1 - Introduction/Media",
     "Section 1 - Introduction/Untitled.md",
     "2025-04-02.md",
-    "OE/Section 2 - ASA/1 - ASA Basics/Screenshots",
+    "OE/Section 2 - ASA/1 - ASA Basics/Media",
     "OE/Section 2 - ASA/1 - ASA Basics",
     "OE/Section 2 - ASA",
     "Welcome.md",
-    "OE/Section 1 - Introduction/Screenshots/Pasted image 20250402142621.png",
-    "OE/Section 1 - Introduction/Screenshots/Pasted image 20250402142354.png",
+    "OE/Section 1 - Introduction/Media/Pasted image 20250402142621.png",
     "OE/Section 1 - Introduction"
   ]
 }
