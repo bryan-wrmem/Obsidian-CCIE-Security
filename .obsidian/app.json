@@ -1,4 +1,6 @@
 {
   "showLineNumber": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "Media",
+  "useMarkdownLinks": true
 }
