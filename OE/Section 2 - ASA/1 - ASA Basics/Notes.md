@@ -35,8 +35,7 @@ Linkable format program - LINA
 
 ### Features  
   
-![[../../../Media/Pasted image 20250403195226.png|Pasted image 20250403195226.png]]
-
+ ![Pasted image 2020250403195226.png](../../../Media/Pasted%20image%2020250403195226.png)
 ---
 
 **Exam Note**  
