@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
+                "file": "OE/Lab Info/Passwords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Passwords"
             }
           }
         ],
@@ -194,8 +194,10 @@
   },
   "active": "42526954f44a6612",
   "lastOpenFiles": [
-    "Media/Pasted image 20250403201129.png",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
+    "OE/Lab Info/Passwords.md",
+    "OE/Lab Info",
+    "Media/Pasted image 20250403201129.png",
     "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
     "Media/Pasted image 20250403201028.png",
     "Pasted image 20250403200808.png",
@@ -221,7 +223,6 @@
     "2025-04-02.md",
     "OE/Section 2 - ASA/1 - ASA Basics/Media",
     "OE/Section 2 - ASA/1 - ASA Basics",
-    "OE/Section 2 - ASA",
     "Welcome.md"
   ]
 }
