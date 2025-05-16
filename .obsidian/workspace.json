@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Passwords"
             }
-          },
-          {
-            "id": "5db91df173c32a9e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,13 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5db91df173c32a9e",
+  "active": "42526954f44a6612",
   "lastOpenFiles": [
-    "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
+    "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
     "OE/Lab Info/Passwords.md",
+    "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
     "OE/Lab Info",
     "Media/Pasted image 20250403201129.png",
-    "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
     "Media/Pasted image 20250403201028.png",
     "Pasted image 20250403200808.png",
     "OE/Section 1 - Introduction/Introduction/Notes.md",
