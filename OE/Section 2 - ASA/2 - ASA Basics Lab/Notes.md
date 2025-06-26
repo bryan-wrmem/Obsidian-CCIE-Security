@@ -6,3 +6,14 @@ Get DMZ interfaces to talk to each other:
 ```
 same-security-traffic permit inter-interface
 ```
+
+---
+
+When ping doesn't work on an ASA - make sure we're inspecting icmp or explicit allowing it via ACL
+
+```
+policy-map global_policy
+ class inspection_default
+  inspect icmp
+```
+
