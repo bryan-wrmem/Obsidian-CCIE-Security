@@ -17,3 +17,18 @@ policy-map global_policy
   inspect icmp
 ```
 
+---
+
+If you encounter these types of errors connecting to ASA during the lab
+
+R1#
+*Jun 26 18:47:26.960: %SSH-3-NO_MATCH: No matching kex algorithm found: clie
+nt diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1 server dif
+fie-hellman-group14-sha256,kex-strict-s-v00@openssh.com
+R1#
+
+Change the key exchange:
+
+```
+ssh key-exchange group dh-group14-sha1
+```
