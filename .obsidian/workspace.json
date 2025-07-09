@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
+                "file": "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 200
   },
   "right": {
     "id": "4bde3fc496e1b661",
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,13 +193,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "42526954f44a6612",
+  "active": "d8ba848967611fae",
   "lastOpenFiles": [
+    "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
+    "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
+    "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication",
     "Media/Pasted image 20250402142621.png",
     "Media/Pasted image 20250402142421.png",
     "Media/Pasted image 20250402142354.png",
     "Media/84a61663ff783804d4b228ac132dbe6f_MD5.jpeg",
-    "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
     "Media/Pasted image 20250626134500.png",
     "Media/Pasted image 20250626134245.png",
     "OE/Lab Info/Passwords.md",
@@ -212,7 +214,6 @@
     "Media/Pasted image 20250403195226.png",
     "README.md",
     "Media",
-    "OE/Section 2 - ASA/1 - ASA Basics/Media/Pasted image 20250402230046.png",
     "media",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Media",
@@ -224,7 +225,6 @@
     "Section 1 - Introduction/Untitled.md",
     "2025-04-02.md",
     "OE/Section 2 - ASA/1 - ASA Basics/Media",
-    "OE/Section 2 - ASA/1 - ASA Basics",
     "Welcome.md"
   ]
 }
