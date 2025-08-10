@@ -133,6 +133,21 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "9d9af846a93dd658",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes"
+            }
           }
         ],
         "currentTab": 2
