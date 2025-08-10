@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
+                "file": "OE/Section 2 - ASA/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Test"
             }
           }
         ]
@@ -163,12 +163,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "6756ce4580268240",
   "lastOpenFiles": [
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
+    "OE/Section 2 - ASA/Test.md",
     "Media/43e2f3b4b69f3b1e09a6cbcc278e31c8_MD5.jpeg",
     "Media/Pasted image 20250708221340.png",
     "Media/22d9c86c1db4dce18ef62c94fb748a02_MD5.jpeg",
