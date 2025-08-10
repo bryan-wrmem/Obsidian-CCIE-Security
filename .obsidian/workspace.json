@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/Test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "README"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -140,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of README"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,8 +172,8 @@
   },
   "active": "6756ce4580268240",
   "lastOpenFiles": [
+    "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Test.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
-    "OE/Section 2 - ASA/Test.md",
     "Media/43e2f3b4b69f3b1e09a6cbcc278e31c8_MD5.jpeg",
     "Media/Pasted image 20250708221340.png",
     "Media/22d9c86c1db4dce18ef62c94fb748a02_MD5.jpeg",
