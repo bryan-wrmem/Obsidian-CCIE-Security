@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c8ffe6d1c635cb5",
+        "id": "c4e228ebc3de7187",
         "type": "tabs",
         "children": [
           {
-            "id": "6756ce4580268240",
+            "id": "e4da63f2733fe821",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ],
@@ -170,10 +165,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "6756ce4580268240",
+  "active": "e4da63f2733fe821",
   "lastOpenFiles": [
-    "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Test.md",
     "README.md",
+    "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Test.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
     "Media/43e2f3b4b69f3b1e09a6cbcc278e31c8_MD5.jpeg",
     "Media/Pasted image 20250708221340.png",
