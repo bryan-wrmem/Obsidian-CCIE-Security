@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
+                "file": "OE/Section 2 - ASA/4 - ASA Routing Protocols Lab/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.5
   },
   "right": {
     "id": "4bde3fc496e1b661",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
+                "file": "OE/Section 2 - ASA/4 - ASA Routing Protocols Lab/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,9 +172,11 @@
   },
   "active": "e4da63f2733fe821",
   "lastOpenFiles": [
+    "OE/Section 2 - ASA/4 - ASA Routing Protocols Lab",
+    "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
+    "OE/Section 2 - ASA/4 - ASA Routing Protocols Lab/Notes.md",
     "README.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Test.md",
-    "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
     "Media/43e2f3b4b69f3b1e09a6cbcc278e31c8_MD5.jpeg",
     "Media/Pasted image 20250708221340.png",
     "Media/22d9c86c1db4dce18ef62c94fb748a02_MD5.jpeg",
