@@ -18,6 +18,11 @@ network 10.20.20.0 0.0.0.255 area 0
 interface configs:
 ip ospf network point-to-point
 
+authentication:
+int e0/0
+ip ospf authentication message-digest
+ip ospf message-digest-key 200 md5 test123
+
 # BGP
 ASA Outside
 gi0/0
