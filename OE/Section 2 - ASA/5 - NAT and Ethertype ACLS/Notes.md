@@ -1,4 +1,4 @@
-### NAT Types
+# NAT Types
 
 NAT Types
 	Dynamic NAT (aka object nat, auto nat)
@@ -83,3 +83,66 @@ object network remote-router
 	nat(outside,dmz) static 10.200.2.254
 ```
 
+## Dynamic PAT
+Multiple source IPs need to be translated to a single or pool of ips
+ip/port combos kept in table 
+port conflict resolution - can change source ports to ensure uniqueness
+
+```
+object network Inside-Hosts
+	subnet 192.168.1.0 255.255.255.0
+	nat(inside,outside) dynamic 202.100.234.123
+```
+
+Interface PAT
+```
+object network Inside-Hosts
+	subnet 192.168.1.0 255.255.255.0
+	nat(inside,outside) dynamic interface
+```
+
+PAT Pool
+```
+object network LAN
+	subnet 10.1.1.0 255.255.255.0
+	nat (inside,outside) dynamic pat-pool PATPOOL-GROUP
+```
+
+## Static PAT
+port forwarding
+internal devices need a fixed ip address on internet but have limited number of public ips.
+ex access dmz webserver on the internet over port 443 - 1.1.1.1:443 
+then access a different dmz smtp webserver over the same ip but different port 25 - 1.1.1.1:25
+
+## Policy NAT
+translate based on the flow of traffic
+considers both source and destination
+configured outside of objects in global config
+
+```
+object network remote-mf-private
+	host 192.168.10.2
+
+object network remote-mf-public
+	host 59.234.123.153
+
+object network local-mf-private
+	host 10.1.1.2
+
+object network local-mf-public
+	host 209.234.201.123
+	
+
+nat (dmz,outside) source static local-mf-private local-mf-public destination static remote-mf-private remote-mf-public
+```
+
+# Ethertype ACLs
+ACLs that specify an ethertype
+16-bit hexadecimal 
+implicit deny at end of ethertype acl does not affect ip traffic or arp
+```
+access-list ETHER ethertype permit 0x1234
+access-list ETHER ethertype permit mpls-unicast
+
+access-group ETHER in interface outside
+```
