@@ -62,3 +62,24 @@ not commonly used
 use when a local not routable device needs to communicate with a remote device
 remote device ip translates to a local ip
 
+Want remote IP (199.1.1.1) to communicate with a local router of 10.200.2.2 so you nat it as 10.200.2.254
+
+First:
+
+local router
+```
+object network local-router
+	host 10.200.2.2
+	nat(dmz,outside) static 202.263.96.10
+```
+
+Second:
+
+remote router, coming in from outside, need to translate to a 10.200.2.254 so that it can talk to local router
+
+```
+object network remote-router
+	host 199.1.1.1
+	nat(outside,dmz) static 10.200.2.254
+```
+
