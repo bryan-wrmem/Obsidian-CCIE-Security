@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4cd1e88ef7699c75",
+        "id": "daeb34f8de8c6db1",
         "type": "tabs",
         "children": [
           {
-            "id": "622e1a7486cf3146",
+            "id": "dd3e7e45643676ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes"
             }
           }
         ]
@@ -168,10 +172,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "622e1a7486cf3146",
+  "active": "dd3e7e45643676ae",
   "lastOpenFiles": [
-    "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS/Notes.md",
     "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
+    "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS/Notes.md",
     "Media/55147e21fda186914e41be4d0980cd73_MD5.jpeg",
     "Media/Pasted image 20260105193545.png",
     "OE/Section 2 - ASA/6 - ASA Destination NAT",
