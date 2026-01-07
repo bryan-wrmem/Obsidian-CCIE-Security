@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
+                "file": "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -175,6 +175,8 @@
   "active": "dd3e7e45643676ae",
   "lastOpenFiles": [
     "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
+    "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL/Notes.md",
+    "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL",
     "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS/Notes.md",
     "Media/55147e21fda186914e41be4d0980cd73_MD5.jpeg",
     "Media/Pasted image 20260105193545.png",
@@ -204,7 +206,6 @@
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Media",
     "OE",
-    "OE/Section 2 - ASA/2 - ASA Basics Lab",
     "Section 1 - Introduction/1-1 OE Introduction.md",
     "Section 1 - Introduction/Untitled.md",
     "2025-04-02.md",
