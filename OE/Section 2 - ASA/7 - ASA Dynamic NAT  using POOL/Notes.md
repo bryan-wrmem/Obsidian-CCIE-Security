@@ -18,3 +18,6 @@ object network INTNET_10.20.20.0
 	nat (inside,outside) dynamic ISPPOOL
 
 ```
+
+Note: ping was not working through the ASA by default. Needed to enable icmp inspection in the global policy map/class inspection.
+
