@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98e8fc08fbabf443",
+        "id": "4ce13ff66e839b7f",
         "type": "tabs",
         "children": [
           {
-            "id": "1fa2e9e9c7214de2",
+            "id": "f237b4a40b202aba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -172,11 +168,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1fa2e9e9c7214de2",
+  "active": "f237b4a40b202aba",
   "lastOpenFiles": [
-    "Media/3c49bb9ed78d4969b5f63bc7b36a7582_MD5.jpeg",
-    "Media/Pasted image 20260107140308.png",
+    "OE/Section 2 - ASA/9 - ASA Dynamic PAT using Interface/Notes.md",
+    "Media/Pasted image 20260107142103.png",
     "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP/Notes.md",
+    "Media/3c49bb9ed78d4969b5f63bc7b36a7582_MD5.jpeg",
+    "OE/Section 2 - ASA/9 - ASA Dynamic PAT using Interface",
+    "Media/Pasted image 20260107140308.png",
     "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL/Notes.md",
     "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP",
     "Media/9e4dd8f064cb8c9d758d86be55c40074_MD5.jpeg",
@@ -196,10 +195,8 @@
     "Media/43e2f3b4b69f3b1e09a6cbcc278e31c8_MD5.jpeg",
     "Media/Pasted image 20250708221340.png",
     "Media/22d9c86c1db4dce18ef62c94fb748a02_MD5.jpeg",
-    "Media/Pasted image 20250708221223.png",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication",
-    "Media/Pasted image 20250402142621.png",
     "OE/Lab Info/Passwords.md",
     "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
     "OE/Lab Info",
@@ -207,7 +204,6 @@
     "Media",
     "media",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
-    "OE/Section 2 - ASA/2 - ASA Basics Lab/Media",
     "Section 1 - Introduction/1-1 OE Introduction.md",
     "Section 1 - Introduction/Untitled.md",
     "2025-04-02.md",
