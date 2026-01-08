@@ -11,10 +11,14 @@
             "id": "f237b4a40b202aba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes"
             }
           }
         ]
@@ -170,7 +174,12 @@
   },
   "active": "f237b4a40b202aba",
   "lastOpenFiles": [
+    "Media/83db7e07983b058c477c812c5a535cf9_MD5.jpeg",
+    "Media/Pasted image 20260108143803.png",
     "OE/Section 2 - ASA/9 - ASA Dynamic PAT using Interface/Notes.md",
+    "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
+    "OE/Section 2 - ASA/10 - ASA Static NAT",
+    "OE/Section 2 - ASA/Untitled.md",
     "Media/Pasted image 20260107142103.png",
     "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP/Notes.md",
     "Media/3c49bb9ed78d4969b5f63bc7b36a7582_MD5.jpeg",
@@ -194,7 +203,6 @@
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Test.md",
     "Media/43e2f3b4b69f3b1e09a6cbcc278e31c8_MD5.jpeg",
     "Media/Pasted image 20250708221340.png",
-    "Media/22d9c86c1db4dce18ef62c94fb748a02_MD5.jpeg",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication",
     "OE/Lab Info/Passwords.md",
@@ -202,7 +210,6 @@
     "OE/Lab Info",
     "OE/Section 1 - Introduction/Introduction/Notes.md",
     "Media",
-    "media",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
     "Section 1 - Introduction/1-1 OE Introduction.md",
     "Section 1 - Introduction/Untitled.md",
