@@ -32,3 +32,10 @@ access-list outside line 1 extended permit tcp any host 172.16.1.2
 access-list outside permit tcp any host 172.17.30.1
 access-list outside permit tcp any host 172.17.31.1
 ```
+
+Note: i ran into issues with outside to dmz traffic, i had created the outside acl but never attached it to the interface. Attach acl to interface with the access-group command
+
+```
+access-group outside in interface outside
+```
+
