@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ce13ff66e839b7f",
+        "id": "7ac1b20070a4e4f2",
         "type": "tabs",
         "children": [
           {
-            "id": "f237b4a40b202aba",
+            "id": "069cc7c4558fc4e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -172,12 +168,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f237b4a40b202aba",
+  "active": "069cc7c4558fc4e6",
   "lastOpenFiles": [
+    "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
     "Media/83db7e07983b058c477c812c5a535cf9_MD5.jpeg",
     "Media/Pasted image 20260108143803.png",
     "OE/Section 2 - ASA/9 - ASA Dynamic PAT using Interface/Notes.md",
-    "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
     "OE/Section 2 - ASA/10 - ASA Static NAT",
     "OE/Section 2 - ASA/Untitled.md",
     "Media/Pasted image 20260107142103.png",
@@ -202,7 +198,6 @@
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Test.md",
     "Media/43e2f3b4b69f3b1e09a6cbcc278e31c8_MD5.jpeg",
-    "Media/Pasted image 20250708221340.png",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication",
     "OE/Lab Info/Passwords.md",
