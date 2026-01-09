@@ -10,9 +10,18 @@ Create network objects
 ```
 object network payrollserver
 	host 172.17.32.1
-	nat (dmz,outside) static 192.1.1.80 service tcp 8080 50
+	nat (dmz,outside) static 192.1.1.80 service tcp telnet 50
 	
 object network crmserver
 	host 172.17.33.1
-	nat (dmz,outside) static 192.1.1.80 service tcp 8080 51
+	nat (dmz,outside) static 192.1.1.80 service tcp telnet 51
+```
+
+Note: be sure your outside ACL allows that traffic inbound (and also that the access-list your editing is applied to the correct interface)
+
+```
+access-list outside permit tcp any host 172.17.32.1 eq 23
+access-list outside permit tcp any host 172.17.33.1 eq 23
+
+access-group outside in interface outside
 ```
