@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
+                "file": "OE/Section 2 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,7 +174,11 @@
   },
   "active": "069cc7c4558fc4e6",
   "lastOpenFiles": [
+    "Media/2625875d60b958559706c538a59224f8_MD5.jpeg",
+    "Media/Pasted image 20260109145527.png",
     "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
+    "OE/Section 2 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
+    "OE/Section 2 - ASA/11 - ASA Static PAT or Port Forwarding",
     "Media/83db7e07983b058c477c812c5a535cf9_MD5.jpeg",
     "Media/Pasted image 20260108143803.png",
     "OE/Section 2 - ASA/9 - ASA Dynamic PAT using Interface/Notes.md",
@@ -201,14 +205,12 @@
     "OE/Section 2 - ASA/4 - ASA Routing Protocols Lab",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Test.md",
-    "Media/43e2f3b4b69f3b1e09a6cbcc278e31c8_MD5.jpeg",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication",
     "OE/Lab Info/Passwords.md",
     "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
     "OE/Lab Info",
     "OE/Section 1 - Introduction/Introduction/Notes.md",
-    "Media",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
     "Section 1 - Introduction/1-1 OE Introduction.md",
     "Section 1 - Introduction/Untitled.md",
