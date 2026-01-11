@@ -41,3 +41,20 @@ Requirement - internal server 1 (10.20.10.1) needs to be translated to 192.1.1.4
 
 Requirement - internal server 2 (10.20.20.1) needs to be translated to 192.1.1.41 when communicating with the 3.3.3.0/24 external network
 
+Create network objects
+
+```
+object network internalserver1
+	host 10.20.10.1
+	
+object network internalserver2
+	host 10.20.20.1
+	
+object network EXT-2.2.2.0
+	subnet 2.2.2.0 255.255.255.0
+	
+object network EXT-3.3.3.0
+	subnet 3.3.3.0 255.255.255.0
+
+```
+
