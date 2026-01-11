@@ -50,6 +50,12 @@ object network internalserver1
 object network internalserver2
 	host 10.20.20.1
 	
+object network public-server1
+	host 192.1.1.40
+
+object network public-server2
+	host 192.1.1.41
+
 object network EXT-2.2.2.0
 	subnet 2.2.2.0 255.255.255.0
 	
@@ -58,3 +64,10 @@ object network EXT-3.3.3.0
 
 ```
 
+This translation will need to go in the global nat policy
+
+```
+nat (inside,outside) source static internalserver1 public-server1 destination static EXT-2.2.2.0 EXT-2.2.2.0
+
+nat (inside,outside) source static internalserver2 public-server2 destination static EXT-3.3.3.0 EXT-3.3.3.0
+```
