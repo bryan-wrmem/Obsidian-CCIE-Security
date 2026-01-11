@@ -35,6 +35,9 @@ nat (dmz,outside) source static R3-inside R3-outside dest static outside-dummy o
 
 ---
 
-Double NAT / Policy NAT
+Policy NAT
 
-Requirement - internal server 1 (10.20.10.1) 
+Requirement - internal server 1 (10.20.10.1) needs to be translated to 192.1.1.40 when communicating with the 2.2.2.0/24 external network
+
+Requirement - internal server 2 (10.20.20.1) needs to be translated to 192.1.1.41 when communicating with the 3.3.3.0/24 external network
+
