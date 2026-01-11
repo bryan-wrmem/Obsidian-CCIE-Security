@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
+                "file": "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,12 @@
   },
   "active": "069cc7c4558fc4e6",
   "lastOpenFiles": [
-    "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
+    "Media/ec50d477022dc02012aa698682310ae0_MD5.jpeg",
+    "Media/Pasted image 20260111094645.png",
     "OE/Section 2 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
+    "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
+    "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT",
+    "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
     "Media/2625875d60b958559706c538a59224f8_MD5.jpeg",
     "Media/Pasted image 20260109145527.png",
     "OE/Section 2 - ASA/11 - ASA Static PAT or Port Forwarding",
@@ -196,7 +200,6 @@
     "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
     "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL",
     "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS/Notes.md",
-    "Media/55147e21fda186914e41be4d0980cd73_MD5.jpeg",
     "OE/Section 2 - ASA/6 - ASA Destination NAT",
     "README.md",
     "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS",
@@ -208,7 +211,6 @@
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication",
     "OE/Lab Info/Passwords.md",
     "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
-    "OE/Lab Info",
     "OE/Section 1 - Introduction/Introduction/Notes.md",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
     "Section 1 - Introduction/1-1 OE Introduction.md",
