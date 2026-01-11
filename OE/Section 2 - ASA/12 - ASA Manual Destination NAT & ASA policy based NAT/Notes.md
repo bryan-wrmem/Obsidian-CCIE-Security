@@ -26,3 +26,9 @@ outside-remote
 outside-dummy
 	host 172.16.1.80
 ```
+
+Manual destination NAT needs to be configured in the global policy, not in an object
+
+```
+nat (dmz,outside) source static R3-inside R3-outside dest static outside-dummy outside-remote
+```
