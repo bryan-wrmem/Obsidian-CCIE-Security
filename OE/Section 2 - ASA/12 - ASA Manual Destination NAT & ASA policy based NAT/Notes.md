@@ -32,3 +32,9 @@ Manual destination NAT needs to be configured in the global policy, not in an ob
 ```
 nat (dmz,outside) source static R3-inside R3-outside dest static outside-dummy outside-remote
 ```
+
+---
+
+Double NAT / Policy NAT
+
+Requirement - internal server 1 (10.20.10.1) 
