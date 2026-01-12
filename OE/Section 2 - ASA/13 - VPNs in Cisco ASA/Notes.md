@@ -91,3 +91,6 @@ interface e0/0
 
 show crypto ipsec sa
 ```
+
+Note: Be sure your access list allows esp, icmp, etc.
+
