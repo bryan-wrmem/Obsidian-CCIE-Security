@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ac1b20070a4e4f2",
+        "id": "762cd29eaa226e3e",
         "type": "tabs",
         "children": [
           {
-            "id": "069cc7c4558fc4e6",
+            "id": "074feb9116a63afe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 2 - ASA/13 - VPNs in Cisco ASA/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -172,12 +168,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "069cc7c4558fc4e6",
+  "active": "074feb9116a63afe",
   "lastOpenFiles": [
+    "OE/Section 2 - ASA/13 - VPNs in Cisco ASA/Notes.md",
     "Media/d4c8e76cb26204e487fa5a45a45299c6_MD5.jpeg",
     "Media/Pasted image 20260112142552.png",
     "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
-    "OE/Section 2 - ASA/13 - VPNs in Cisco ASA/Notes.md",
     "OE/Section 2 - ASA/13 - VPNs in Cisco ASA",
     "Media/ec50d477022dc02012aa698682310ae0_MD5.jpeg",
     "Media/Pasted image 20260111094645.png",
@@ -196,7 +192,6 @@
     "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP/Notes.md",
     "Media/3c49bb9ed78d4969b5f63bc7b36a7582_MD5.jpeg",
     "OE/Section 2 - ASA/9 - ASA Dynamic PAT using Interface",
-    "Media/Pasted image 20260107140308.png",
     "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL/Notes.md",
     "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP",
     "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
