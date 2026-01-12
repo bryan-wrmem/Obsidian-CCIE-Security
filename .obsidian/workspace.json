@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
+                "file": "OE/Section 2 - ASA/13 - VPNs in Cisco ASA/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,14 @@
   },
   "active": "069cc7c4558fc4e6",
   "lastOpenFiles": [
+    "Media/d4c8e76cb26204e487fa5a45a45299c6_MD5.jpeg",
+    "Media/Pasted image 20260112142552.png",
+    "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
+    "OE/Section 2 - ASA/13 - VPNs in Cisco ASA/Notes.md",
+    "OE/Section 2 - ASA/13 - VPNs in Cisco ASA",
     "Media/ec50d477022dc02012aa698682310ae0_MD5.jpeg",
     "Media/Pasted image 20260111094645.png",
     "OE/Section 2 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
-    "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
     "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT",
     "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
     "Media/2625875d60b958559706c538a59224f8_MD5.jpeg",
@@ -195,8 +199,6 @@
     "Media/Pasted image 20260107140308.png",
     "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL/Notes.md",
     "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP",
-    "Media/9e4dd8f064cb8c9d758d86be55c40074_MD5.jpeg",
-    "Media/Pasted image 20260106200903.png",
     "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
     "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL",
     "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS/Notes.md",
@@ -208,7 +210,6 @@
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Test.md",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Notes.md",
-    "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication",
     "OE/Lab Info/Passwords.md",
     "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
     "OE/Section 1 - Introduction/Introduction/Notes.md",
