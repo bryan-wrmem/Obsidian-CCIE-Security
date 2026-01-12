@@ -74,7 +74,8 @@ crypto isakmp key key123 address 1.1.1.1
 
 crypto ipsec transform-set TS esp-aes esp-sha-hmac
 
-access-list 101 permit ip 172.16.2.0 255.255.255.0 172.16.1.0 255.255.0
+# configure ACL, REMEMBER WILD CARD BITS!
+access-list 101 permit ip 172.16.2.0 0.0.0.255 172.16.1.0 0.0.0.255
 
 # configure crypto map
 
