@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5dac8cf8f54afb7e",
+        "id": "d0dd6a7f9799bb09",
         "type": "tabs",
         "children": [
           {
-            "id": "e52eb88bbab04684",
+            "id": "bb0ce4f584514d39",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,8 +168,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e52eb88bbab04684",
+  "active": "bb0ce4f584514d39",
   "lastOpenFiles": [
+    "OE/Section 2 - ASA/15 - ASA Interface Redundancy/Notes.md",
+    "OE/Section 2 - ASA/15 - ASA Interface Redundancy",
     "OE/Section 2 - ASA/14 - ASA Transparent mode/Notes.md",
     "Media/1fa3f9bd306b85db1cd9a3d37f22db39_MD5.jpeg",
     "Media/Pasted image 20260113115638.png",
@@ -201,7 +203,6 @@
     "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS/Notes.md",
     "OE/Section 2 - ASA/6 - ASA Destination NAT",
     "README.md",
-    "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS",
     "OE/Section 2 - ASA/4 - ASA Routing Protocols Lab/Notes.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Test.md",
