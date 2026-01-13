@@ -69,3 +69,4 @@ router ospf 1
 	network 12.12.12.0 0.0.0.255 area 0
 	network 13.13.13.0 0.0.0.255 area 0
 ```
+
