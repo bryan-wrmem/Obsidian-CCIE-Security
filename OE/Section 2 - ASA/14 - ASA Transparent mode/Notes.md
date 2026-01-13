@@ -53,9 +53,19 @@ Configure OSPF to allow R1/R2 to exchange routes to loopback networks
 
 ```
 R1
-
-
-
+router ospf 1
+	router-id 0.0.0.1
+	network 172.16.1.0 0.0.0.255 area 0
+	network 14.14.14.0 0.0.0.255 area 0
+	network 15.15.15.0 0.0.0.255 area 0
+	network 16.16.16.0 0.0.0.255 area 0
 
 R2
+
+router ospf 1
+	router-id 0.0.0.2
+	network 172.16.1.0 0.0.0.255 area 0
+	network 11.11.11.0 0.0.0.255 area 0
+	network 12.12.12.0 0.0.0.255 area 0
+	network 13.13.13.0 0.0.0.255 area 0
 ```
