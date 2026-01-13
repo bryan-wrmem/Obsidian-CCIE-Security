@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "762cd29eaa226e3e",
+        "id": "5dac8cf8f54afb7e",
         "type": "tabs",
         "children": [
           {
-            "id": "074feb9116a63afe",
+            "id": "e52eb88bbab04684",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 2 - ASA/14 - ASA Transparent mode/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "d2bdcad5e703b605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 2 - ASA/14 - ASA Transparent mode/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +168,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d2bdcad5e703b605",
+  "active": "e52eb88bbab04684",
   "lastOpenFiles": [
+    "OE/Section 2 - ASA/14 - ASA Transparent mode/Notes.md",
     "Media/1fa3f9bd306b85db1cd9a3d37f22db39_MD5.jpeg",
     "Media/Pasted image 20260113115638.png",
     "Media/721b3c0235c02e1334e9e2c5390dc9c7_MD5.jpeg",
@@ -197,14 +179,12 @@
     "Media/Pasted image 20260113115039.png",
     "Media/3331be64782a76aaafc1e27601562b4e_MD5.jpeg",
     "Media/Pasted image 20260113115013.png",
-    "OE/Section 2 - ASA/14 - ASA Transparent mode/Notes.md",
     "OE/Section 2 - ASA/14 - ASA Transparent mode",
     "OE/Section 2 - ASA/13 - VPNs in Cisco ASA/Notes.md",
     "Media/d4c8e76cb26204e487fa5a45a45299c6_MD5.jpeg",
     "Media/Pasted image 20260112142552.png",
     "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
     "OE/Section 2 - ASA/13 - VPNs in Cisco ASA",
-    "Media/ec50d477022dc02012aa698682310ae0_MD5.jpeg",
     "OE/Section 2 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
     "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT",
     "OE/Section 2 - ASA/10 - ASA Static NAT/Notes.md",
