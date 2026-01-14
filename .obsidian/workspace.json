@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d0dd6a7f9799bb09",
+        "id": "f291c8ffe242c84c",
         "type": "tabs",
         "children": [
           {
-            "id": "bb0ce4f584514d39",
+            "id": "f8525ae3dcd93ad7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 2 - ASA/15 - ASA Interface Redundancy/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -172,22 +168,23 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "bb0ce4f584514d39",
+  "active": "f8525ae3dcd93ad7",
   "lastOpenFiles": [
+    "OE/Section 2 - ASA/16 - ASA Port-Channel/Notes.md",
+    "OE/Section 2 - ASA/15 - ASA Interface Redundancy/Notes.md",
+    "OE/Section 2 - ASA/16 - ASA Port-Channel",
     "Media/dc5055b7a6a32dc59e85d1f0ffb2ccf6_MD5.jpeg",
     "Media/Pasted image 20260114124819.png",
     "Media/0fdd8dd7c4f68351c110a6ee647225c8_MD5.jpeg",
     "Media/Pasted image 20260114124534.png",
     "Media/d8f31157df77d6930724bd5931f29b1c_MD5.jpeg",
     "Media/Pasted image 20260114124522.png",
-    "OE/Section 2 - ASA/15 - ASA Interface Redundancy/Notes.md",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy",
     "OE/Section 2 - ASA/14 - ASA Transparent mode/Notes.md",
     "Media/1fa3f9bd306b85db1cd9a3d37f22db39_MD5.jpeg",
     "Media/Pasted image 20260113115638.png",
     "Media/721b3c0235c02e1334e9e2c5390dc9c7_MD5.jpeg",
     "Media/Pasted image 20260113115100.png",
-    "Media/80d18a15dfba18a331a325fc3e79934e_MD5.jpeg",
     "OE/Section 2 - ASA/14 - ASA Transparent mode",
     "OE/Section 2 - ASA/13 - VPNs in Cisco ASA/Notes.md",
     "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
@@ -206,7 +203,6 @@
     "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
     "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL",
     "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS/Notes.md",
-    "OE/Section 2 - ASA/6 - ASA Destination NAT",
     "README.md",
     "OE/Section 2 - ASA/4 - ASA Routing Protocols Lab/Notes.md",
     "OE/Section 2 - ASA/3 - ASA Routing Protocols & Authentication/Notes.md",
