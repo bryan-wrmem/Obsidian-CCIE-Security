@@ -11,10 +11,14 @@
             "id": "f8525ae3dcd93ad7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OE/Section 2 - ASA/16 - ASA Port-Channel/Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes"
             }
           }
         ]
@@ -170,6 +174,12 @@
   },
   "active": "f8525ae3dcd93ad7",
   "lastOpenFiles": [
+    "Media/dd9dd356f31bf8f5a52daf78e037660b_MD5.jpeg",
+    "Media/Pasted image 20260116140743.png",
+    "Media/43c9060b35f9712f69fa53b3b46a3b03_MD5.jpeg",
+    "Media/Pasted image 20260116140729.png",
+    "Media/b97d66ae80a8a346632ded5df676f2a9_MD5.jpeg",
+    "Media/Pasted image 20260116140430.png",
     "OE/Section 2 - ASA/16 - ASA Port-Channel/Notes.md",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy/Notes.md",
     "OE/Section 2 - ASA/16 - ASA Port-Channel",
@@ -178,13 +188,8 @@
     "Media/0fdd8dd7c4f68351c110a6ee647225c8_MD5.jpeg",
     "Media/Pasted image 20260114124534.png",
     "Media/d8f31157df77d6930724bd5931f29b1c_MD5.jpeg",
-    "Media/Pasted image 20260114124522.png",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy",
     "OE/Section 2 - ASA/14 - ASA Transparent mode/Notes.md",
-    "Media/1fa3f9bd306b85db1cd9a3d37f22db39_MD5.jpeg",
-    "Media/Pasted image 20260113115638.png",
-    "Media/721b3c0235c02e1334e9e2c5390dc9c7_MD5.jpeg",
-    "Media/Pasted image 20260113115100.png",
     "OE/Section 2 - ASA/14 - ASA Transparent mode",
     "OE/Section 2 - ASA/13 - VPNs in Cisco ASA/Notes.md",
     "OE/Section 2 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
@@ -214,7 +219,6 @@
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
     "Section 1 - Introduction/1-1 OE Introduction.md",
     "Section 1 - Introduction/Untitled.md",
-    "2025-04-02.md",
-    "Welcome.md"
+    "2025-04-02.md"
   ]
 }
