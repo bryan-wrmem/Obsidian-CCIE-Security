@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/16 - ASA Port-Channel/Notes.md",
+                "file": "OE/Section 2 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,20 +174,22 @@
   },
   "active": "f8525ae3dcd93ad7",
   "lastOpenFiles": [
+    "Media/5d03e0bcfbe3f8c908d4aa818aa59572_MD5.jpeg",
+    "Media/Pasted image 20260116191543.png",
+    "Media/189966d1488aa87543c55f7d548bd3e1_MD5.jpeg",
+    "Media/Pasted image 20260116191437.png",
+    "OE/Section 2 - ASA/16 - ASA Port-Channel/Notes.md",
+    "OE/Section 2 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
+    "OE/Section 2 - ASA/17 - ASA Context using  Physical Interfaces",
     "Media/dd9dd356f31bf8f5a52daf78e037660b_MD5.jpeg",
     "Media/Pasted image 20260116140743.png",
     "Media/43c9060b35f9712f69fa53b3b46a3b03_MD5.jpeg",
     "Media/Pasted image 20260116140729.png",
     "Media/b97d66ae80a8a346632ded5df676f2a9_MD5.jpeg",
     "Media/Pasted image 20260116140430.png",
-    "OE/Section 2 - ASA/16 - ASA Port-Channel/Notes.md",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy/Notes.md",
     "OE/Section 2 - ASA/16 - ASA Port-Channel",
     "Media/dc5055b7a6a32dc59e85d1f0ffb2ccf6_MD5.jpeg",
-    "Media/Pasted image 20260114124819.png",
-    "Media/0fdd8dd7c4f68351c110a6ee647225c8_MD5.jpeg",
-    "Media/Pasted image 20260114124534.png",
-    "Media/d8f31157df77d6930724bd5931f29b1c_MD5.jpeg",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy",
     "OE/Section 2 - ASA/14 - ASA Transparent mode/Notes.md",
     "OE/Section 2 - ASA/14 - ASA Transparent mode",
@@ -206,7 +208,6 @@
     "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL/Notes.md",
     "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP",
     "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
-    "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL",
     "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS/Notes.md",
     "README.md",
     "OE/Section 2 - ASA/4 - ASA Routing Protocols Lab/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 1 - Introduction/Introduction/Notes.md",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
     "Section 1 - Introduction/1-1 OE Introduction.md",
-    "Section 1 - Introduction/Untitled.md",
-    "2025-04-02.md"
+    "Section 1 - Introduction/Untitled.md"
   ]
 }
