@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f291c8ffe242c84c",
+        "id": "2b2e537f0c0b51ae",
         "type": "tabs",
         "children": [
           {
-            "id": "f8525ae3dcd93ad7",
+            "id": "6a339c1426fe4bf5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 2 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -172,8 +168,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f8525ae3dcd93ad7",
+  "active": "d8ba848967611fae",
   "lastOpenFiles": [
+    "OE/Section 2 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
+    "OE/Section 2 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
+    "OE/Section 2 - ASA/18 - ASA Context using Subinterfaces",
     "Media/43ff136ca66bf5d73901bc9f1f889359_MD5.jpeg",
     "Media/Pasted image 20260116192207.png",
     "Media/5d03e0bcfbe3f8c908d4aa818aa59572_MD5.jpeg",
@@ -181,13 +180,11 @@
     "Media/189966d1488aa87543c55f7d548bd3e1_MD5.jpeg",
     "Media/Pasted image 20260116191437.png",
     "OE/Section 2 - ASA/16 - ASA Port-Channel/Notes.md",
-    "OE/Section 2 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
     "OE/Section 2 - ASA/17 - ASA Context using  Physical Interfaces",
     "Media/dd9dd356f31bf8f5a52daf78e037660b_MD5.jpeg",
     "Media/Pasted image 20260116140743.png",
     "Media/43c9060b35f9712f69fa53b3b46a3b03_MD5.jpeg",
     "Media/Pasted image 20260116140729.png",
-    "Media/b97d66ae80a8a346632ded5df676f2a9_MD5.jpeg",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy/Notes.md",
     "OE/Section 2 - ASA/16 - ASA Port-Channel",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy",
@@ -206,7 +203,6 @@
     "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP/Notes.md",
     "OE/Section 2 - ASA/9 - ASA Dynamic PAT using Interface",
     "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL/Notes.md",
-    "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP",
     "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
     "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS/Notes.md",
     "README.md",
