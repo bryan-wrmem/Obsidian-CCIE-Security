@@ -3,3 +3,7 @@
 
 
 
+# Lab
+
+[Open: Pasted image 20260116192207.png](../../../Media/43ff136ca66bf5d73901bc9f1f889359_MD5.jpeg)
+![](../../../Media/43ff136ca66bf5d73901bc9f1f889359_MD5.jpeg)
