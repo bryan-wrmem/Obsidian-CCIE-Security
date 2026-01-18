@@ -11,10 +11,14 @@
             "id": "6a339c1426fe4bf5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OE/Section 2 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes"
             }
           }
         ]
@@ -170,6 +174,8 @@
   },
   "active": "6a339c1426fe4bf5",
   "lastOpenFiles": [
+    "Media/36f468f1c4eef2b285f2cb6fd621b5ea_MD5.jpeg",
+    "Media/Pasted image 20260118132130.png",
     "OE/Section 2 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
     "OE/Section 2 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
     "OE/Section 2 - ASA/18 - ASA Context using Subinterfaces",
@@ -184,7 +190,6 @@
     "Media/dd9dd356f31bf8f5a52daf78e037660b_MD5.jpeg",
     "Media/Pasted image 20260116140743.png",
     "Media/43c9060b35f9712f69fa53b3b46a3b03_MD5.jpeg",
-    "Media/Pasted image 20260116140729.png",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy/Notes.md",
     "OE/Section 2 - ASA/16 - ASA Port-Channel",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy",
@@ -214,7 +219,6 @@
     "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
     "OE/Section 1 - Introduction/Introduction/Notes.md",
     "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
-    "Section 1 - Introduction/1-1 OE Introduction.md",
-    "Section 1 - Introduction/Untitled.md"
+    "Section 1 - Introduction/1-1 OE Introduction.md"
   ]
 }
