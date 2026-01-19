@@ -36,4 +36,29 @@ context hr
 	config-url flash:hr.cfg
 	
 
+# changeto contexts and configure interfaces
+
+changeto context mark
+int inside
+	ip address 172.16.1.1 255.255.255.0 standby 172.16.1.2
+	nameif Inside
+	no shut
+
+int outside
+	ip address 1.1.1.1 255.255.255.0 standby 1.1.1.2
+	nameif Outside
+	no shut
+	
+changeto context hr
+int inside
+	ip address 172.16.2.1 255.255.255.0 standby 172.16.2.2
+	nameif Inside
+	no shut
+
+int outside
+	ip address 1.1.1.1 255.255.255.0 standby 1.1.1.2
+	nameif Outside
+	no shut
+	
+
 ```
