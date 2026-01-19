@@ -12,7 +12,7 @@ Configure 2 HA Links. Failover LAN and Failover Link.
 ```
 # Active Config
 
-# Configure Failover Intefaces (LAN and State)
+# Configure Failover Intefaces (LAN)
 int gi0/2
 	no shut
 	
@@ -33,4 +33,19 @@ failover interface ip  FAIL 192.168.1.1 255.255.255.0 standby 192.168.1.2
 failover lan unit secondary 
 failover key cisco123
 failover
+```
+
+```
+# Active Config
+
+# Configure Failover Intefaces (State)
+int gi0/3
+	no shut
+	
+failover link STATE gi0/3
+failover interface ip STATE 192.168.20.1 255.255.255.0 standby 192.168.20.2
+
+# State config will replicate to standby due to the previous LAN failover link
+
+
 ```
