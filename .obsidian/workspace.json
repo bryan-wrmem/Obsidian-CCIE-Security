@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
+                "file": "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,12 +174,14 @@
   },
   "active": "6a339c1426fe4bf5",
   "lastOpenFiles": [
+    "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
+    "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
+    "OE/Section 02 - ASA/21 - ASA Clustering",
     "Media/be4157d420a6aa4ecd023cfa236ad478_MD5.jpeg",
     "Media/Pasted image 20260119100615.png",
     "Media/dbcd6ce1f98e6de4c8cd5c0be799a098_MD5.jpeg",
     "Media/Pasted image 20260119100510.png",
     "OE/Section 02 - ASA/19 - ASA HA active passive/Notes.md",
-    "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
     "OE/Section 02 - ASA/20 - ASA Active Active",
     "Media/8eb81951f38d70f71e1e508ac8602ba7_MD5.jpeg",
     "Media/Pasted image 20260119085608.png",
@@ -191,7 +193,6 @@
     "Media/Pasted image 20260118132130.png",
     "OE/Section 02 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
     "OE/Section 02 - ASA/18 - ASA Context using Subinterfaces",
-    "Media/43ff136ca66bf5d73901bc9f1f889359_MD5.jpeg",
     "OE/Section 02 - ASA/16 - ASA Port-Channel/Notes.md",
     "OE/Section 02 - ASA/17 - ASA Context using  Physical Interfaces",
     "OE/Section 02 - ASA/15 - ASA Interface Redundancy/Notes.md",
@@ -205,7 +206,6 @@
     "OE/Section 02 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
     "OE/Section 02 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT",
     "OE/Section 02 - ASA/10 - ASA Static NAT/Notes.md",
-    "OE/Section 02 - ASA/11 - ASA Static PAT or Port Forwarding",
     "OE/Section 02 - ASA/09 - ASA Dynamic PAT using Interface/Notes.md",
     "OE/Section 2 - ASA/Untitled.md",
     "OE/Section 02 - ASA/08 - ASA Dynamic PAT using IP/Notes.md",
