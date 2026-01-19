@@ -7,8 +7,8 @@ Active/Active only supported in multi context mode
 
 Create multiple contexts, i.e. HR-Context and IT-Context
 
-ASA1 is active for the HR-Context, standby for IT
-ASA2 is active for IT-Context, standby for HR
+ASA1 is active for the HR-Context, standby for Marketing
+ASA2 is active for Marketing-Context, standby for HR
 
 This way both ASAs are "active" and passing traffic
 
@@ -19,3 +19,4 @@ This way both ASAs are "active" and passing traffic
 
 Note: Use same interface for both LAN/STATE (eth3)
 
+Put 
