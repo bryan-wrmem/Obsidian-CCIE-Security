@@ -56,9 +56,36 @@ int inside
 	no shut
 
 int outside
-	ip address 1.1.1.1 255.255.255.0 standby 1.1.1.2
+	# ip address needs to be unique, can't overlap with mark context IPs
+	ip address 1.1.1.3 255.255.255.0 standby 1.1.1.4
 	nameif Outside
 	no shut
 	
+```
 
+Configure Failover
+
+```
+changeto context system
+
+failover lan interface FAIL eth3
+failover interface ip FAIL 192.168.1.1 255.255.255.0 192.168.1.2
+failover lan unit primary
+failover key cisco123
+failover link FAIL eth3
+
+# configure failover groups
+failover group 1
+primary
+preempt
+
+failover group 2
+secondary
+preempt
+
+context mark
+join-failover-group 1
+
+context hr
+join-failover-group 2
 ```
