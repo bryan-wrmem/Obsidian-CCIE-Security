@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 2 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
+                "file": "OE/Section 2 - ASA/19 - ASA HA active passive/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,9 +174,15 @@
   },
   "active": "6a339c1426fe4bf5",
   "lastOpenFiles": [
+    "Media/8eb81951f38d70f71e1e508ac8602ba7_MD5.jpeg",
+    "Media/Pasted image 20260119085608.png",
+    "Media/f1f92e294106d61b68c9ad5d0ec54844_MD5.jpeg",
+    "Media/Pasted image 20260119085514.png",
+    "OE/Section 2 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
+    "OE/Section 2 - ASA/19 - ASA HA active passive/Notes.md",
+    "OE/Section 2 - ASA/19 - ASA HA active passive",
     "Media/36f468f1c4eef2b285f2cb6fd621b5ea_MD5.jpeg",
     "Media/Pasted image 20260118132130.png",
-    "OE/Section 2 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
     "OE/Section 2 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
     "OE/Section 2 - ASA/18 - ASA Context using Subinterfaces",
     "Media/43ff136ca66bf5d73901bc9f1f889359_MD5.jpeg",
@@ -184,12 +190,8 @@
     "Media/5d03e0bcfbe3f8c908d4aa818aa59572_MD5.jpeg",
     "Media/Pasted image 20260116191543.png",
     "Media/189966d1488aa87543c55f7d548bd3e1_MD5.jpeg",
-    "Media/Pasted image 20260116191437.png",
     "OE/Section 2 - ASA/16 - ASA Port-Channel/Notes.md",
     "OE/Section 2 - ASA/17 - ASA Context using  Physical Interfaces",
-    "Media/dd9dd356f31bf8f5a52daf78e037660b_MD5.jpeg",
-    "Media/Pasted image 20260116140743.png",
-    "Media/43c9060b35f9712f69fa53b3b46a3b03_MD5.jpeg",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy/Notes.md",
     "OE/Section 2 - ASA/16 - ASA Port-Channel",
     "OE/Section 2 - ASA/15 - ASA Interface Redundancy",
@@ -206,7 +208,6 @@
     "OE/Section 2 - ASA/10 - ASA Static NAT",
     "OE/Section 2 - ASA/Untitled.md",
     "OE/Section 2 - ASA/8 - ASA Dynamic PAT using IP/Notes.md",
-    "OE/Section 2 - ASA/9 - ASA Dynamic PAT using Interface",
     "OE/Section 2 - ASA/7 - ASA Dynamic NAT  using POOL/Notes.md",
     "OE/Section 2 - ASA/6 - ASA Destination NAT/Notes.md",
     "OE/Section 2 - ASA/5 - NAT and Ethertype ACLS/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Lab Info/Passwords.md",
     "OE/Section 2 - ASA/1 - ASA Basics/Notes.md",
     "OE/Section 1 - Introduction/Introduction/Notes.md",
-    "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md",
-    "Section 1 - Introduction/1-1 OE Introduction.md"
+    "OE/Section 2 - ASA/2 - ASA Basics Lab/Test.md"
   ]
 }
