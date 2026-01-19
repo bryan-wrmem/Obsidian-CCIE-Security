@@ -9,3 +9,8 @@ Configure 2 HA Links. Failover LAN and Failover Link.
 [Open: Pasted image 20260119085608.png](../../../Media/8eb81951f38d70f71e1e508ac8602ba7_MD5.jpeg)
 ![](../../../Media/8eb81951f38d70f71e1e508ac8602ba7_MD5.jpeg)
 
+```
+# Active/Standby Config
+
+
+```
