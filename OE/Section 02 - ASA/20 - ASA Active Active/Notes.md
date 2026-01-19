@@ -19,4 +19,21 @@ This way both ASAs are "active" and passing traffic
 
 Note: Use same interface for both LAN/STATE (eth3)
 
-Put 
+```
+# create Mark context, allocate interfaces
+
+context mark
+	allocate-interface eth2 inside
+	allocate-interface eth0 outside
+	config-url flash:mark.cfg
+	
+
+# create HR context, allocate interfaces
+
+context hr
+	allocate-interface eth1 inside
+	allocate-interface eth0 outside
+	config-url flash:hr.cfg
+	
+
+```
