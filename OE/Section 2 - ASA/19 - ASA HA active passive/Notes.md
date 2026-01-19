@@ -10,7 +10,27 @@ Configure 2 HA Links. Failover LAN and Failover Link.
 ![](../../../Media/8eb81951f38d70f71e1e508ac8602ba7_MD5.jpeg)
 
 ```
-# Active/Standby Config
+# Active Config
 
+# Configure Failover Intefaces (LAN and State)
+int gi0/2
+	no shut
+	
+failover lan interface FAIL gi0/2
+failover interface ip  FAIL 192.168.1.1 255.255.255.0 standby 192.168.1.2
+failover lan unit primary 
+failover key cisco123
+failover
 
+# Standy Config
+
+# Configure Failover Intefaces
+int g0/2
+	no shut
+	
+failover lan interface FAIL gi0/2
+failover interface ip  FAIL 192.168.1.1 255.255.255.0 standby 192.168.1.2
+failover lan unit secondary 
+failover key cisco123
+failover
 ```
