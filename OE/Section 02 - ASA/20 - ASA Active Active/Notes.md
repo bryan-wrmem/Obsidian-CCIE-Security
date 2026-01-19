@@ -75,6 +75,16 @@ failover key cisco123
 failover link FAIL eth3
 failover
 
+# on secondary
+
+failover lan interface FAIL eth3
+failover interface ip FAIL 192.168.1.1 255.255.255.0 192.168.1.2
+failover lan unit secondary
+failover key cisco123
+failover link FAIL eth3
+failover
+
+
 # configure failover groups
 failover group 1
 primary
