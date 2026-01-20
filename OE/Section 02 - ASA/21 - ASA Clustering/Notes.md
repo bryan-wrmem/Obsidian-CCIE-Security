@@ -8,3 +8,18 @@ Connect to switch with port-channel
 [Open: Pasted image 20260120182456.png](../../../Media/428057f0e818cec2ebe17f00713f9429_MD5.jpeg)
 ![](../../../Media/428057f0e818cec2ebe17f00713f9429_MD5.jpeg)
 
+Cluster config
+
+```
+# check cluster status
+
+show cluster info
+
+# check if interfaces are in span or individual interface mode
+
+show cluster interface-mode
+
+# configure asa to be in cluster interface span mode
+
+cluster interface-mode spanned 
+```
