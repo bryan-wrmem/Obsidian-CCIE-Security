@@ -21,5 +21,34 @@ show cluster interface-mode
 
 # configure asa to be in cluster interface span mode
 
-cluster interface-mode spanned 
+cluster interface-mode spanned
+
+# configure cluster group, name the local unit, and assign cluster interface
+
+cluster group LAB
+local-unit ASA2
+cluster-interface e0 ip 192.168.1.1 255.255.255.0
+key cisco123
+# lower priority is preffered
+priority 5
+enable
+
+# repeat commands for other ASA
+
+cluster interface-mode spanned
+cluster group LAB
+local-unit ASA2
+cluster-interface e0 ip 192.168.1.2 255.255.255.0
+key cisco123
+priority 10
+enable
+
+# configure interfaces
+
+int eth1
+	channel-group 1
+	
+int po1
+	
+
 ```
