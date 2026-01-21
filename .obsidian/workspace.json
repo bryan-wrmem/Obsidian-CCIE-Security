@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b2e537f0c0b51ae",
+        "id": "4038ffa35dec7faf",
         "type": "tabs",
         "children": [
           {
-            "id": "6a339c1426fe4bf5",
+            "id": "480ed5bea8d9b431",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -172,14 +168,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "6a339c1426fe4bf5",
+  "active": "480ed5bea8d9b431",
   "lastOpenFiles": [
+    "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
     "Media/428057f0e818cec2ebe17f00713f9429_MD5.jpeg",
     "Media/Pasted image 20260120182456.png",
     "Media/09aad7209d4e8b46b43ff970a9d0bd35_MD5.jpeg",
     "Media/Pasted image 20260120182322.png",
     "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
-    "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
     "OE/Section 02 - ASA/21 - ASA Clustering",
     "Media/be4157d420a6aa4ecd023cfa236ad478_MD5.jpeg",
     "Media/Pasted image 20260119100615.png",
@@ -189,7 +185,6 @@
     "OE/Section 02 - ASA/20 - ASA Active Active",
     "Media/8eb81951f38d70f71e1e508ac8602ba7_MD5.jpeg",
     "Media/Pasted image 20260119085608.png",
-    "Media/f1f92e294106d61b68c9ad5d0ec54844_MD5.jpeg",
     "OE/Section 02 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
     "OE/Section 02 - ASA/19 - ASA HA active passive",
     "OE/Section 02 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
