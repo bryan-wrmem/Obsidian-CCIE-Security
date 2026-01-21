@@ -45,10 +45,13 @@ enable
 
 # configure interfaces
 
-int eth1
-	channel-group 1
+int eth2
+	channel-group 1 mode active
 	
 int po1
+	port-channel span-cluster
+	nameif Inside
+	ip address ...
 	
 
 ```
