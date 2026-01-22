@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4038ffa35dec7faf",
+        "id": "5029a83992873b7f",
         "type": "tabs",
         "children": [
           {
-            "id": "480ed5bea8d9b431",
+            "id": "69c82ba42d7a8cbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes"
             }
           }
         ]
@@ -168,8 +172,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "480ed5bea8d9b431",
+  "active": "69c82ba42d7a8cbc",
   "lastOpenFiles": [
+    "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
+    "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN",
     "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
     "Media/428057f0e818cec2ebe17f00713f9429_MD5.jpeg",
     "Media/Pasted image 20260120182456.png",
@@ -200,7 +206,6 @@
     "OE/Section 02 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
     "OE/Section 02 - ASA/13 - VPNs in Cisco ASA",
     "OE/Section 02 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
-    "OE/Section 02 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT",
     "OE/Section 02 - ASA/10 - ASA Static NAT/Notes.md",
     "OE/Section 02 - ASA/09 - ASA Dynamic PAT using Interface/Notes.md",
     "OE/Section 2 - ASA/Untitled.md",
