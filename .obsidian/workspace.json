@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
+                "file": "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,10 @@
   },
   "active": "69c82ba42d7a8cbc",
   "lastOpenFiles": [
-    "OE/Section 02 - ASA/13 - VPNs in Cisco ASA/Notes.md",
     "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
+    "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
+    "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN",
+    "OE/Section 02 - ASA/13 - VPNs in Cisco ASA/Notes.md",
     "Media/3a350b10503346e6ce933b73799a1a97_MD5.jpeg",
     "Media/Pasted image 20260201183252.png",
     "Media/9e5fadaa04641b96165673b248eb662d_MD5.jpeg",
@@ -204,7 +206,6 @@
     "OE/Section 02 - ASA/14 - ASA Transparent mode/Notes.md",
     "OE/Section 02 - ASA/14 - ASA Transparent mode",
     "OE/Section 02 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
-    "OE/Section 02 - ASA/13 - VPNs in Cisco ASA",
     "OE/Section 02 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
     "OE/Section 02 - ASA/10 - ASA Static NAT/Notes.md",
     "OE/Section 02 - ASA/09 - ASA Dynamic PAT using Interface/Notes.md",
