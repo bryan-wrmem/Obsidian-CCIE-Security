@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
+                "file": "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,6 +174,11 @@
   },
   "active": "69c82ba42d7a8cbc",
   "lastOpenFiles": [
+    "Media/830e526f480f89a13586d2c974dd5af3_MD5.jpeg",
+    "Media/Pasted image 20260203135121.png",
+    "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
+    "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
+    "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN",
     "Media/af4810a0d749576a442bd1b333b800b1_MD5.jpeg",
     "Media/Pasted image 20260202201026.png",
     "Media/1ff902acd1b9742b7adf9156b54bc34d_MD5.jpeg",
@@ -183,10 +188,7 @@
     "Media/8dddd588561c47dfd14904efcb73910c_MD5.jpeg",
     "Media/Pasted image 20260202191327.png",
     "Media/cf84f7218a8e8494883147eb029bd77e_MD5.jpeg",
-    "Media/Pasted image 20260202191254.png",
-    "Media/939943004461aeabeae349d7c0b81a51_MD5.jpeg",
     "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
-    "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
     "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN",
     "OE/Section 02 - ASA/13 - VPNs in Cisco ASA/Notes.md",
     "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN",
@@ -205,7 +207,6 @@
     "OE/Section 02 - ASA/16 - ASA Port-Channel",
     "OE/Section 02 - ASA/15 - ASA Interface Redundancy",
     "OE/Section 02 - ASA/14 - ASA Transparent mode/Notes.md",
-    "OE/Section 02 - ASA/14 - ASA Transparent mode",
     "OE/Section 02 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
     "OE/Section 02 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
     "OE/Section 02 - ASA/10 - ASA Static NAT/Notes.md",
@@ -218,7 +219,6 @@
     "README.md",
     "OE/Section 02 - ASA/04 - ASA Routing Protocols Lab/Notes.md",
     "OE/Section 02 - ASA/03 - ASA Routing Protocols & Authentication/Notes.md",
-    "OE/Section 02 - ASA/03 - ASA Routing Protocols & Authentication/Test.md",
-    "OE/Section 02 - ASA/02 - ASA Basics Lab/Notes.md"
+    "OE/Section 02 - ASA/03 - ASA Routing Protocols & Authentication/Test.md"
   ]
 }
