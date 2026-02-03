@@ -40,7 +40,10 @@ It's often easiest to use the AnyConnect VPN to get the baseline configuration g
 ![](../../../Media/8dddd588561c47dfd14904efcb73910c_MD5.jpeg)
 
 [Open: Pasted image 20260202191453.png](../../../Media/0dfc1887414a90d79a443d62a1daccab_MD5.jpeg)
-![](../../../Media/0dfc1887414a90d79a443d62a1daccab_MD5.jpeg)
+[Open: Pasted image 20260202191819.png](../../../Media/1ff902acd1b9742b7adf9156b54bc34d_MD5.jpeg)
+![](../../../Media/1ff902acd1b9742b7adf9156b54bc34d_MD5.jpeg)
+
+
 
 
 
