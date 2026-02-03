@@ -43,6 +43,15 @@ It's often easiest to use the AnyConnect VPN to get the baseline configuration g
 [Open: Pasted image 20260202191819.png](../../../Media/1ff902acd1b9742b7adf9156b54bc34d_MD5.jpeg)
 ![](../../../Media/1ff902acd1b9742b7adf9156b54bc34d_MD5.jpeg)
 
+Note: my wizard died half way through. Needed to cli and enable annyconnect
+
+```
+webvpn
+	anyconnect enable
+```
+
+[Open: Pasted image 20260202201026.png](../../../Media/af4810a0d749576a442bd1b333b800b1_MD5.jpeg)
+![](../../../Media/af4810a0d749576a442bd1b333b800b1_MD5.jpeg)
 
 
 
