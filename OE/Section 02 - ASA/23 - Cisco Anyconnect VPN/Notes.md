@@ -33,3 +33,14 @@ http 0.0.0.0 0.0.0.0 Mgmt
 [Open: Pasted image 20260202190319.png](../../../Media/939943004461aeabeae349d7c0b81a51_MD5.jpeg)
 ![](../../../Media/939943004461aeabeae349d7c0b81a51_MD5.jpeg)
 
+It's often easiest to use the AnyConnect VPN to get the baseline configuration going.
+
+[Open: Pasted image 20260202191254.png](../../../Media/cf84f7218a8e8494883147eb029bd77e_MD5.jpeg)
+[Open: Pasted image 20260202191327.png](../../../Media/8dddd588561c47dfd14904efcb73910c_MD5.jpeg)
+![](../../../Media/8dddd588561c47dfd14904efcb73910c_MD5.jpeg)
+
+[Open: Pasted image 20260202191453.png](../../../Media/0dfc1887414a90d79a443d62a1daccab_MD5.jpeg)
+![](../../../Media/0dfc1887414a90d79a443d62a1daccab_MD5.jpeg)
+
+
+
