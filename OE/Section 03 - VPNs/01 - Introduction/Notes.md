@@ -59,3 +59,6 @@ Creat vpn pool for sales 172.16.10.20 - 172.16.10.30
 [Open: Pasted image 20260208102950.png](../../../Media/11f0e80a6d977c60a31e2c5d45ffa76d_MD5.jpeg)
 ![](../../../Media/11f0e80a6d977c60a31e2c5d45ffa76d_MD5.jpeg)
 
+[Open: Pasted image 20260208103412.png](../../../Media/60f687abc8f5c6dbb65092ab554bf8ba_MD5.jpeg)
+![](../../../Media/60f687abc8f5c6dbb65092ab554bf8ba_MD5.jpeg)
+
