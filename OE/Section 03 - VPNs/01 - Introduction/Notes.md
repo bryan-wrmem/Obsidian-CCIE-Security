@@ -26,3 +26,6 @@ Create a certificate named ciscoasa and use encryption 2048
 ensure that your anyconnect vpn is split tunnel and running IKE/IPSEC 
 Creat vpn pool for sales 172.16.10.20 - 172.16.10.30
 
+[Open: Pasted image 20260208094548.png](../../../Media/44f5acd9a2c8743cfe641ce27820b95d_MD5.jpeg)
+![](../../../Media/44f5acd9a2c8743cfe641ce27820b95d_MD5.jpeg)
+
