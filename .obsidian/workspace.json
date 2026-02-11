@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Notes"
             }
+          },
+          {
+            "id": "d77cbad8d083bb57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +187,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "69c82ba42d7a8cbc",
+  "active": "d77cbad8d083bb57",
   "lastOpenFiles": [
+    "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
+    "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN",
     "Media/04759fa2ed80ad39717d8af406333e9a_MD5.jpeg",
     "Media/Pasted image 20260208105639.png",
     "Media/60f687abc8f5c6dbb65092ab554bf8ba_MD5.jpeg",
@@ -184,7 +201,6 @@
     "Media/Pasted image 20260208102643.png",
     "Media/4fbf0daa65d7d0db79ff98e858ee83bc_MD5.jpeg",
     "Media/Pasted image 20260208102525.png",
-    "Media/1ed0bc8665132d522c1eacb6218ad26f_MD5.jpeg",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction",
@@ -205,7 +221,6 @@
     "OE/Section 02 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
     "OE/Section 02 - ASA/18 - ASA Context using Subinterfaces",
     "OE/Section 02 - ASA/16 - ASA Port-Channel/Notes.md",
-    "OE/Section 02 - ASA/17 - ASA Context using  Physical Interfaces",
     "OE/Section 02 - ASA/15 - ASA Interface Redundancy/Notes.md",
     "OE/Section 02 - ASA/14 - ASA Transparent mode/Notes.md",
     "OE/Section 02 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
