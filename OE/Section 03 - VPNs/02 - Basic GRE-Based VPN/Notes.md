@@ -29,3 +29,12 @@ interface tunnel 200
 	ip address 172.16.10.2 255.255.255.0
 ```
 
+Next, add routing protocol to advertise networks on each router
+
+Saudi router
+
+```
+router ospf 1
+	router-id 0.0.0.1
+	
+```
