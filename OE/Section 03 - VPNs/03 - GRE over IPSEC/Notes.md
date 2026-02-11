@@ -12,5 +12,59 @@ Use IPSEC to secure the GRE Tunnel (never run gre tunnel unencrypted over the in
 Saudi Arabia Config
 
 ```
+# Configure Phase 1 - ISAKMP
 
+crypto isakmp policy 12
+	authentication pre-share
+	hash sha
+	group 14
+	encryption aes
+	
+# Configure pre share key
+
+crypto isakmp key cisco123 address 2.1.1.2	
+	
+# Configure Phase 2 - IPSEC
+
+crypto ipsec transform-set TS esp-aes esp-sha-hmac
+
+# Create profile to apply to interface
+
+crypto ipsec profile GREPROFILE
+	set transform-set TS
+	
+# apply to tunnel interface
+
+interface tunnel 100
+	tunnel protection ipsec profile GREPROFILE
+```
+
+Australia Config
+
+```
+# Configure Phase 1 - ISAKMP
+
+crypto isakmp policy 12
+	authentication pre-share
+	hash sha
+	group 14
+	encryption aes
+	
+# Configure pre share key
+
+crypto isakmp key cisco123 address 1.1.1.2	
+	
+# Configure Phase 2 - IPSEC
+
+crypto ipsec transform-set TS esp-aes esp-sha-hmac
+
+# Create profile to apply to interface
+
+crypto ipsec profile GREPROFILE
+	set transform-set TS
+	
+# apply to tunnel interface
+
+interface tunnel 200
+	tunnel protection ipsec profile GREPROFILE
 ```
