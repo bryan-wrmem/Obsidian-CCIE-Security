@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
+                "file": "OE/Section 03 - VPNs/03 - GRE over IPSEC/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,7 +174,13 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "Media/bf0a0e9729d588d878408480d024724f_MD5.jpeg",
+    "Media/Pasted image 20260211133535.png",
+    "Media/263798cd8a83590eaebed3a94862c9a3_MD5.jpeg",
+    "Media/Pasted image 20260211133340.png",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
+    "OE/Section 03 - VPNs/03 - GRE over IPSEC/Notes.md",
+    "OE/Section 03 - VPNs/03 - GRE over IPSEC",
     "Media/2b24061c8b0b44a84a335d79589bee74_MD5.jpeg",
     "Media/Pasted image 20260210190346.png",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN",
@@ -183,9 +189,6 @@
     "Media/60f687abc8f5c6dbb65092ab554bf8ba_MD5.jpeg",
     "Media/Pasted image 20260208103412.png",
     "Media/11f0e80a6d977c60a31e2c5d45ffa76d_MD5.jpeg",
-    "Media/Pasted image 20260208102950.png",
-    "Media/971b1320be733bdfbb7c010685421647_MD5.jpeg",
-    "Media/Pasted image 20260208102643.png",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction",
@@ -204,7 +207,6 @@
     "OE/Section 02 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
     "OE/Section 02 - ASA/19 - ASA HA active passive",
     "OE/Section 02 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
-    "OE/Section 02 - ASA/18 - ASA Context using Subinterfaces",
     "OE/Section 02 - ASA/16 - ASA Port-Channel/Notes.md",
     "OE/Section 02 - ASA/15 - ASA Interface Redundancy/Notes.md",
     "OE/Section 02 - ASA/14 - ASA Transparent mode/Notes.md",
@@ -217,7 +219,6 @@
     "OE/Section 02 - ASA/07 - ASA Dynamic NAT  using POOL/Notes.md",
     "OE/Section 02 - ASA/06 - ASA Destination NAT/Notes.md",
     "OE/Section 02 - ASA/05 - NAT and Ethertype ACLS/Notes.md",
-    "README.md",
-    "OE/Section 02 - ASA/04 - ASA Routing Protocols Lab/Notes.md"
+    "README.md"
   ]
 }
