@@ -14,7 +14,15 @@ Use **Transport Mode** when both endpoints are performing encryption/decryption 
 Saudi Arabia config
 
 ```
-interface tunnel 100
-	
+crypto ipsec transform-set TS esp-aes esp-sha-hmac
+	mode transport
+```
+
+Australia config
 
 ```
+crypto ipsec transform-set TS esp-aes esp-sha-hmac
+	mode transport
+```
+
+
