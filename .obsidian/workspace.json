@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
+                "file": "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,12 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
+    "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
+    "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN",
     "Media/ccec6f0e44d69a2306eb745d23392819_MD5.jpeg",
     "Media/Pasted image 20260217193143.png",
     "OE/Section 03 - VPNs/03 - GRE over IPSEC/Notes.md",
-    "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode",
     "Media/Pasted image 20260211135706.png",
     "Media/bf0a0e9729d588d878408480d024724f_MD5.jpeg",
@@ -190,7 +192,6 @@
     "Media/Pasted image 20260210190346.png",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN",
     "Media/04759fa2ed80ad39717d8af406333e9a_MD5.jpeg",
-    "Media/Pasted image 20260208105639.png",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction",
@@ -205,7 +206,6 @@
     "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
     "OE/Section 02 - ASA/21 - ASA Clustering",
     "OE/Section 02 - ASA/19 - ASA HA active passive/Notes.md",
-    "OE/Section 02 - ASA/20 - ASA Active Active",
     "OE/Section 02 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
     "OE/Section 02 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
     "OE/Section 02 - ASA/16 - ASA Port-Channel/Notes.md",
