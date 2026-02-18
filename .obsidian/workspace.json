@@ -174,6 +174,8 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "Media/00286315827df2e10aa5731a0247e9ea_MD5.jpeg",
+    "Media/Pasted image 20260218174904.png",
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
     "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
     "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN",
@@ -191,7 +193,6 @@
     "Media/2b24061c8b0b44a84a335d79589bee74_MD5.jpeg",
     "Media/Pasted image 20260210190346.png",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN",
-    "Media/04759fa2ed80ad39717d8af406333e9a_MD5.jpeg",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction",
@@ -218,7 +219,6 @@
     "OE/Section 2 - ASA/Untitled.md",
     "OE/Section 02 - ASA/08 - ASA Dynamic PAT using IP/Notes.md",
     "OE/Section 02 - ASA/07 - ASA Dynamic NAT  using POOL/Notes.md",
-    "OE/Section 02 - ASA/06 - ASA Destination NAT/Notes.md",
-    "OE/Section 02 - ASA/05 - NAT and Ethertype ACLS/Notes.md"
+    "OE/Section 02 - ASA/06 - ASA Destination NAT/Notes.md"
   ]
 }
