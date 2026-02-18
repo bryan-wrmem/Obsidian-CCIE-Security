@@ -68,3 +68,7 @@ crypto ipsec profile GREPROFILE
 interface tunnel 200
 	tunnel protection ipsec profile GREPROFILE
 ```
+
+[Open: Pasted image 20260211135706.png](../../../Media/9b99e724868ac82aa1867b8a8b7db286_MD5.jpeg)
+![](../../../Media/9b99e724868ac82aa1867b8a8b7db286_MD5.jpeg)
+
