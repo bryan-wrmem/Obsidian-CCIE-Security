@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
+                "file": "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,14 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "Media/9353da1ec0e7c96fb453c88e3da2faeb_MD5.jpeg",
+    "Media/Pasted image 20260219102914.png",
+    "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
+    "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
+    "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN",
     "Media/00286315827df2e10aa5731a0247e9ea_MD5.jpeg",
     "Media/Pasted image 20260218174904.png",
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
-    "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
     "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN",
     "Media/ccec6f0e44d69a2306eb745d23392819_MD5.jpeg",
     "Media/Pasted image 20260217193143.png",
@@ -190,8 +194,6 @@
     "Media/Pasted image 20260211133340.png",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
     "OE/Section 03 - VPNs/03 - GRE over IPSEC",
-    "Media/2b24061c8b0b44a84a335d79589bee74_MD5.jpeg",
-    "Media/Pasted image 20260210190346.png",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction/Notes.md",
@@ -205,7 +207,6 @@
     "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN",
     "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
     "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
-    "OE/Section 02 - ASA/21 - ASA Clustering",
     "OE/Section 02 - ASA/19 - ASA HA active passive/Notes.md",
     "OE/Section 02 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
     "OE/Section 02 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 02 - ASA/09 - ASA Dynamic PAT using Interface/Notes.md",
     "OE/Section 2 - ASA/Untitled.md",
     "OE/Section 02 - ASA/08 - ASA Dynamic PAT using IP/Notes.md",
-    "OE/Section 02 - ASA/07 - ASA Dynamic NAT  using POOL/Notes.md",
-    "OE/Section 02 - ASA/06 - ASA Destination NAT/Notes.md"
+    "OE/Section 02 - ASA/07 - ASA Dynamic NAT  using POOL/Notes.md"
   ]
 }
