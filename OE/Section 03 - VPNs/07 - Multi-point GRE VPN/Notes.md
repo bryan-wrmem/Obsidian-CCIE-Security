@@ -158,3 +158,6 @@ interface tunnel 1
 	no ip split-horizon eigrp 1
 ```
 
+[Open: Pasted image 20260221172704.png](../../../Media/2f953b1795220228ed131d12cb6a4f13_MD5.jpeg)
+![](../../../Media/2f953b1795220228ed131d12cb6a4f13_MD5.jpeg)
+
