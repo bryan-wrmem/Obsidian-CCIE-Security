@@ -174,6 +174,8 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "Media/77ac6dca4cdcd653babd299ff610d071_MD5.jpeg",
+    "Media/Pasted image 20260221144106.png",
     "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN",
@@ -193,7 +195,6 @@
     "Media/Pasted image 20260211135706.png",
     "Media/bf0a0e9729d588d878408480d024724f_MD5.jpeg",
     "Media/Pasted image 20260211133535.png",
-    "Media/263798cd8a83590eaebed3a94862c9a3_MD5.jpeg",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
     "OE/Section 03 - VPNs/03 - GRE over IPSEC",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN",
@@ -218,7 +219,6 @@
     "OE/Section 02 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
     "OE/Section 02 - ASA/10 - ASA Static NAT/Notes.md",
     "OE/Section 02 - ASA/09 - ASA Dynamic PAT using Interface/Notes.md",
-    "OE/Section 2 - ASA/Untitled.md",
-    "OE/Section 02 - ASA/08 - ASA Dynamic PAT using IP/Notes.md"
+    "OE/Section 2 - ASA/Untitled.md"
   ]
 }
