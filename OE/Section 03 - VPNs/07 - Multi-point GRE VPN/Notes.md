@@ -147,6 +147,14 @@ int tunnel 1
 
 Still missing most of our routes, whats up with that?
 
+EIGRP Split Horizon
 
+Loop prevention - Hub is won't advertise routes back out the same interface it received them from. 
 
+Disable split horizon on hub router - Doha
+
+```
+interface tunnel 1
+	no ip split-horizon eigrp 1
+```
 
