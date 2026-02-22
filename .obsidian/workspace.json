@@ -174,6 +174,8 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "Media/0a3ff46278a129070ff222a4757fc92f_MD5.jpeg",
+    "Media/Pasted image 20260222103016.png",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP",
@@ -193,7 +195,6 @@
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
     "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN",
     "Media/ccec6f0e44d69a2306eb745d23392819_MD5.jpeg",
-    "Media/Pasted image 20260217193143.png",
     "OE/Section 03 - VPNs/03 - GRE over IPSEC/Notes.md",
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 02 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
     "OE/Section 02 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md",
     "OE/Section 02 - ASA/10 - ASA Static NAT/Notes.md",
-    "OE/Section 02 - ASA/09 - ASA Dynamic PAT using Interface/Notes.md",
-    "OE/Section 2 - ASA/Untitled.md"
+    "OE/Section 02 - ASA/09 - ASA Dynamic PAT using Interface/Notes.md"
   ]
 }
