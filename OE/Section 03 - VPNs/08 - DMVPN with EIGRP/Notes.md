@@ -24,7 +24,7 @@ int tunnel 1
 	tunnel source 1.1.1.2
 	tunnel mode gre multipoint
 	ip nhrp network-id 1
-	ip nhrp nhs 5.5.5.2
+	ip nhrp nhs 192.168.1.3
 	ip nhrp map 192.168.1.3 5.5.5.2
 ```
 
@@ -35,7 +35,7 @@ int tunnel 1
 	tunnel source 2.2.2.2
 	tunnel mode gre multipoint
 	ip nhrp network-id 1
-	ip nhrp nhs 5.5.5.2
+	ip nhrp nhs 192.168.1.3
 	ip nhrp map 192.168.1.3 5.5.5.2
 ```
 
@@ -46,7 +46,7 @@ int tunnel 1
 	tunnel source 3.3.3.2
 	tunnel mode gre multipoint
 	ip nhrp network-id 1
-	ip nhrp nhs 5.5.5.2
+	ip nhrp nhs 192.168.1.3
 	ip nhrp map 192.168.1.3 5.5.5.2
 ```
 
@@ -57,7 +57,7 @@ int tunnel 1
 	tunnel source 4.4.4.2
 	tunnel mode gre multipoint
 	ip nhrp network-id 1
-	ip nhrp nhs 5.5.5.2
+	ip nhrp nhs 192.168.1.3
 	ip nhrp map 192.168.1.3 5.5.5.2
 ```
 

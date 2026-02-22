@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
+                "file": "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,8 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
-    "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
+    "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "Media/0a3ff46278a129070ff222a4757fc92f_MD5.jpeg",
     "Media/Pasted image 20260222103016.png",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP",
