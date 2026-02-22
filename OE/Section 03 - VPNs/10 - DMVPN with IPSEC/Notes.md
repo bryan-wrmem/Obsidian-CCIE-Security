@@ -22,4 +22,15 @@ crypto isakmp key moshin123 address 0.0.0.0
 
 # Phase 2 Config
 
+crypto ipsec transform-set TS esp-3des esp-sha-hmac
+
+crypto ipsec profile DMVPNPROF
+	set transform-set TS
+
+# Apply to tunnel
+
+int tunnel 1
+	tunnel protection ipsec profile DMVPNPROF
+
 ```
+
