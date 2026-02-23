@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
+                "file": "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,12 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
+    "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3/Notes.md",
+    "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3",
     "Media/9f82852f05f834ef40c0ca20fe166d39_MD5.jpeg",
     "Media/Pasted image 20260222121431.png",
     "OE/Section 03 - VPNs/09 - DMVPN with OSPF/Notes.md",
-    "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC",
     "Media/9d465f43d5750c1a82381bd204735243_MD5.jpeg",
     "Media/Pasted image 20260222121208.png",
@@ -190,7 +192,6 @@
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "OE/Section 03 - VPNs/09 - DMVPN with OSPF",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
-    "Media/0a3ff46278a129070ff222a4757fc92f_MD5.jpeg",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP",
     "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN",
@@ -206,7 +207,6 @@
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction/Notes.md",
-    "OE/Section 03 - VPNs/01 - Introduction",
     "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
     "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
     "OE/Section 02 - ASA/13 - VPNs in Cisco ASA/Notes.md",
