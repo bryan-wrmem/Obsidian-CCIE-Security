@@ -99,11 +99,20 @@ NHRP Redirect
 Doha
 
 ```
-
+int tunnel 1
+	ip nhrp redirect
 ```
 
 Spokes
 
 ```
-
+int tunnel 1
+	ip nhrp shortcut
 ```
+
+First traceroute shows Tokyo going to hub first to get the redirect.
+Second traceroute shows tokyo now going direct after caching, overriding the routing table
+
+[Open: Pasted image 20260223105729.png](../../../Media/a4cff1a320b6f04c28c31732d479dd8c_MD5.jpeg)
+![](../../../Media/a4cff1a320b6f04c28c31732d479dd8c_MD5.jpeg)
+
