@@ -174,6 +174,8 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "Media/1f4e4f9e826693e3f487c76a5af4c96d_MD5.jpeg",
+    "Media/Pasted image 20260223101236.png",
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3/Notes.md",
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3",
@@ -188,7 +190,6 @@
     "Media/aadda3a16ad1c6eb57937110f8ae7c20_MD5.jpeg",
     "Media/Pasted image 20260222120745.png",
     "Media/878c47d3f3e040c10882cdbe503bbc8c_MD5.jpeg",
-    "Media/Pasted image 20260222115710.png",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "OE/Section 03 - VPNs/09 - DMVPN with OSPF",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 02 - ASA/16 - ASA Port-Channel/Notes.md",
     "OE/Section 02 - ASA/15 - ASA Interface Redundancy/Notes.md",
     "OE/Section 02 - ASA/14 - ASA Transparent mode/Notes.md",
-    "OE/Section 02 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md",
-    "OE/Section 02 - ASA/11 - ASA Static PAT or Port Forwarding/Notes.md"
+    "OE/Section 02 - ASA/12 - ASA Manual Destination NAT & ASA policy based NAT/Notes.md"
   ]
 }
