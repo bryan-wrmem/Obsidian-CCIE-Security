@@ -39,3 +39,9 @@ int e0/2
 	ip address 172.16.X.X 255.255.255.0
 ```
 
+Configure routing protocols
+
+```
+router eigrp 1
+	address-family ipv4 vrf HR autonomous-system 1
+```
