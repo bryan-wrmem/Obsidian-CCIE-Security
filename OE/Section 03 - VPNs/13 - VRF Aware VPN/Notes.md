@@ -30,5 +30,11 @@ int e0/0.2
 	
 # Configure Interfaces pointing to HR and Accounting
 
-
+int e0/1
+	ip vrf forwardng HR
+	ip address 172.16.X.X 255.255.255.0
+	
+int e0/2
+	ip vrf forwardng Accounting
+	ip address 172.16.X.X 255.255.255.0
 ```
