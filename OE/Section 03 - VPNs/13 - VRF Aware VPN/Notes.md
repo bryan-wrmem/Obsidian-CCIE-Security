@@ -73,3 +73,140 @@ router ospf 1 vrf Accounting
 !
 ```
 
+Apply IPSec to the tunnels
+
+Mel
+
+```
+
+# Configure phase 1
+
+crypto isakmp policy 10
+	auth pre-share
+	encryption 3des
+	hash md5
+	group 2
+	
+# Configure pre-share key (different command due to vrfs)
+
+crypto keyring keyring-HR vrf HR
+	pre-shared-key address 0.0.0.0 key moshin123
+	
+crypto keyring keyring-Accounting vrf Accounting
+	pre-shared-key address 0.0.0.0 key moshin123
+	
+# Apply keyring to isakmp profile
+
+crypto isakmp profile PROF-HR
+	vrf HR
+	keyring keyring-HR
+	match identity address 0.0.0.0 0.0.0.0 HR
+
+crypto isakmp profile PROF-Accounting
+	vrf Accounting
+	keyring keyring-Accounting
+	match identity address 0.0.0.0 0.0.0.0 Accounting
+	
+# Configure phase 2
+
+crypto ipsec transform-set TS esp-3des esp-sha-hmac
+
+crypto ipsec profile IPSECPROF
+	set transform-set TS
+	
+# Create access-list and crypto map to apply to HR interface
+
+access-list 102 permit ip 192.168.1.0 0.0.0.255 192.168.2.0 0.0.0.255
+
+crypto map C-HR isakmp-profile PROF-HR
+crypto map C-HR 10 ipsec-isakmp
+	match address 102
+	set peer 1.1.1.2
+	set transform-set TS
+
+int e0/0.1
+	crypto map C-HR
+
+
+# Create access-list and crypto map to apply to Accounting interface
+
+access-list 102 permit ip 192.168.1.0 0.0.0.255 192.168.2.0 0.0.0.255
+
+crypto map C-Accounting isakmp-profile PROF-Accounting
+crypto map C-Accounting 10 ipsec-isakmp
+	match address 102
+	set peer 2.2.2.2
+	set transform-set TS
+
+int e0/0.2
+	crypto map C-Accounting
+	
+```
+
+SYD
+
+```
+
+# Configure phase 1
+
+crypto isakmp policy 10
+	auth pre-share
+	encryption 3des
+	hash md5
+	group 2
+	
+# Configure pre-share key (different command due to vrfs)
+
+crypto keyring keyring-HR vrf HR
+	pre-shared-key address 0.0.0.0 key moshin123
+	
+crypto keyring keyring-Accounting vrf Accounting
+	pre-shared-key address 0.0.0.0 key moshin123
+	
+# Apply keyring to isakmp profile
+
+crypto isakmp profile PROF-HR
+	vrf HR
+	keyring keyring-HR
+	match identity address 0.0.0.0 0.0.0.0 HR
+
+crypto isakmp profile PROF-Accounting
+	vrf Accounting
+	keyring keyring-Accounting
+	match identity address 0.0.0.0 0.0.0.0 Accounting
+	
+# Configure phase 2
+
+crypto ipsec transform-set TS esp-3des esp-sha-hmac
+
+crypto ipsec profile IPSECPROF
+	set transform-set TS
+	
+# Create access-list and crypto map to apply to HR interface
+
+access-list 102 permit ip 192.168.2.0 0.0.0.255 192.168.1.0 0.0.0.255
+
+crypto map C-HR isakmp-profile PROF-HR
+crypto map C-HR 10 ipsec-isakmp
+	match address 102
+	set peer 1.1.1.1
+	set transform-set TS
+
+int e0/0.1
+	crypto map C-HR
+
+
+# Create access-list and crypto map to apply to Accounting interface
+
+access-list 102 permit ip 192.168.2.0 0.0.0.255 192.168.1.0 0.0.0.255
+
+crypto map C-Accounting isakmp-profile PROF-Accounting
+crypto map C-Accounting 10 ipsec-isakmp
+	match address 102
+	set peer 2.2.2.1
+	set transform-set TS
+
+int e0/0.2
+	crypto map C-Accounting
+	
+```
