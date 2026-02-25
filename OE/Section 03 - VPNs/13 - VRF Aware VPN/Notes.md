@@ -5,3 +5,13 @@
 
 Each site has an Accounting and HR Department. Accounting and HR are in two different VRFs - Accounting VRF (green), HR VRF (red).
 
+SYD/MEL Configs
+
+```
+# Configure VRFs
+
+ip vrf HR
+ip vrf Accounting
+
+
+```
