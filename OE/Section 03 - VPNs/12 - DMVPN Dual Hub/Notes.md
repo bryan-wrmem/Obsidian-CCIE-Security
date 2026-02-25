@@ -10,6 +10,8 @@ Doha-1
 ```
 int tunnel 1
 	ip nhrp map 192.168.1.10 6.6.6.2
+	ip nhrp map multicast dynamic
+	ip nhrp map multicast 6.6.6.2
 ```
 
 Doha-2 needs all new config
