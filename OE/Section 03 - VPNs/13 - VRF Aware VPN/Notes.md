@@ -90,22 +90,22 @@ crypto isakmp policy 10
 # Configure pre-share key (different command due to vrfs)
 
 crypto keyring keyring-HR vrf HR
-	pre-shared-key address 0.0.0.0 key moshin123
+	pre-shared-key address 1.1.1.2 key moshin123
 	
 crypto keyring keyring-Accounting vrf Accounting
-	pre-shared-key address 0.0.0.0 key moshin123
+	pre-shared-key address 2.2.2.2 key moshin123
 	
 # Apply keyring to isakmp profile
 
 crypto isakmp profile PROF-HR
 	vrf HR
 	keyring keyring-HR
-	match identity address 0.0.0.0 0.0.0.0 HR
+	match identity address 1.1.1.2 255.255.255.255 HR
 
 crypto isakmp profile PROF-Accounting
 	vrf Accounting
 	keyring keyring-Accounting
-	match identity address 0.0.0.0 0.0.0.0 Accounting
+	match identity address 2.2.2.2 255.255.255.255 Accounting
 	
 # Configure phase 2
 
@@ -141,6 +141,7 @@ crypto map C-Accounting 10 ipsec-isakmp
 int e0/0.2
 	crypto map C-Accounting
 	
+	
 ```
 
 SYD
@@ -158,22 +159,22 @@ crypto isakmp policy 10
 # Configure pre-share key (different command due to vrfs)
 
 crypto keyring keyring-HR vrf HR
-	pre-shared-key address 0.0.0.0 key moshin123
+	pre-shared-key address 1.1.1.1 key moshin123
 	
 crypto keyring keyring-Accounting vrf Accounting
-	pre-shared-key address 0.0.0.0 key moshin123
+	pre-shared-key address 2.2.2.1 key moshin123
 	
 # Apply keyring to isakmp profile
 
 crypto isakmp profile PROF-HR
 	vrf HR
 	keyring keyring-HR
-	match identity address 0.0.0.0 0.0.0.0 HR
+	match identity address 1.1.1.1 255.255.255.255 HR
 
 crypto isakmp profile PROF-Accounting
 	vrf Accounting
 	keyring keyring-Accounting
-	match identity address 0.0.0.0 0.0.0.0 Accounting
+	match identity address 2.2.2.1 255.255.255.255 Accounting
 	
 # Configure phase 2
 
@@ -210,4 +211,5 @@ int e0/0.2
 	crypto map C-Accounting
 	
 ```
+
 
