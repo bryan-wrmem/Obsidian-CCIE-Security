@@ -60,3 +60,12 @@ interface Tunnel1
  network 192.168.1.0
 ```
 
+For the spokes
+
+```
+int tunnel 1
+	ip nhrp map 192.168.1.10 6.6.6.2
+	ip nhrp map multicast 6.6.6.2
+	ip nhrp nhs 192.168.1.10
+```
+
