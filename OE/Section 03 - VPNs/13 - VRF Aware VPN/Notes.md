@@ -41,7 +41,35 @@ int e0/2
 
 Configure routing protocols
 
+MEL
+
 ```
 router eigrp 1
-	address-family ipv4 vrf HR autonomous-system 1
+ !
+ address-family ipv4 vrf HR autonomous-system 1
+  network 1.1.1.0 0.0.0.255
+  network 172.16.10.0 0.0.0.255
+ exit-address-family
+!
+router ospf 1 vrf Accounting
+ network 2.2.2.0 0.0.0.255 area 0
+ network 172.16.10.0 0.0.0.255 area 0
+!
 ```
+
+SYD
+
+```
+router eigrp 1
+ !
+ address-family ipv4 vrf HR autonomous-system 1
+  network 1.1.1.0 0.0.0.255
+  network 172.16.20.0 0.0.0.255
+ exit-address-family
+!
+router ospf 1 vrf Accounting
+ network 2.2.2.0 0.0.0.255 area 0
+ network 172.16.20.0 0.0.0.255 area 0
+!
+```
+
