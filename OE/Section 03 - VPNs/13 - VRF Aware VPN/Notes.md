@@ -38,3 +38,4 @@ int e0/2
 	ip vrf forwardng Accounting
 	ip address 172.16.X.X 255.255.255.0
 ```
+
