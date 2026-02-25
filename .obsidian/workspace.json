@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/12 - DMVPN Dual Hub/Notes.md",
+                "file": "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,14 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "Media/fbe7c6f09ed98eae7922803715756c62_MD5.jpeg",
+    "Media/Pasted image 20260225085008.png",
+    "OE/Section 03 - VPNs/12 - DMVPN Dual Hub/Notes.md",
+    "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md",
+    "OE/Section 03 - VPNs/13 - VRF Aware VPN",
     "Media/461f550e1520bccbec7b6541cc0d7d13_MD5.jpeg",
     "Media/Pasted image 20260224184502.png",
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3/Notes.md",
-    "OE/Section 03 - VPNs/12 - DMVPN Dual Hub/Notes.md",
     "OE/Section 03 - VPNs/12 - DMVPN Dual Hub",
     "Media/a4cff1a320b6f04c28c31732d479dd8c_MD5.jpeg",
     "Media/Pasted image 20260223105729.png",
@@ -187,10 +191,8 @@
     "Media/Pasted image 20260223104046.png",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "Media/178cf7c93a65a561c9dcfc048aefee14_MD5.jpeg",
-    "Media/Pasted image 20260223103106.png",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
-    "Media/1f4e4f9e826693e3f487c76a5af4c96d_MD5.jpeg",
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3",
     "OE/Section 03 - VPNs/09 - DMVPN with OSPF/Notes.md",
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC",
@@ -206,7 +208,6 @@
     "OE/Section 03 - VPNs/03 - GRE over IPSEC/Notes.md",
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
-    "OE/Section 03 - VPNs/03 - GRE over IPSEC",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction/Notes.md",
     "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 02 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
     "OE/Section 02 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
     "OE/Section 02 - ASA/16 - ASA Port-Channel/Notes.md",
-    "OE/Section 02 - ASA/15 - ASA Interface Redundancy/Notes.md",
-    "OE/Section 02 - ASA/14 - ASA Transparent mode/Notes.md"
+    "OE/Section 02 - ASA/15 - ASA Interface Redundancy/Notes.md"
   ]
 }
