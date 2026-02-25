@@ -13,5 +13,22 @@ SYD/MEL Configs
 ip vrf HR
 ip vrf Accounting
 
+# Configure Sub-interfaces on main routers
+
+int e0/0
+	no shut
+
+int e0/0.1
+	encapsulation dot1q 1
+	ip vrf forwarding HR
+	ip address 1.1.1.X 255.255.255.0
+	
+int e0/0.2
+	encapsulation dot1q 2
+	ip vrf fowarding Accounting
+	ip address 2.2.2.X 255.255.255.0
+	
+# Configure Interfaces pointing to HR and Accounting
+
 
 ```
