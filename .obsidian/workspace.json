@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md",
+                "file": "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,10 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
-    "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
     "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md",
+    "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
+    "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3",
+    "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
     "Media/fbe7c6f09ed98eae7922803715756c62_MD5.jpeg",
     "Media/Pasted image 20260225085008.png",
     "OE/Section 03 - VPNs/12 - DMVPN Dual Hub/Notes.md",
@@ -205,7 +207,6 @@
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
     "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN",
     "OE/Section 03 - VPNs/03 - GRE over IPSEC/Notes.md",
-    "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction/Notes.md",
