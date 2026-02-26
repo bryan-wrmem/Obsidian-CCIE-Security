@@ -174,6 +174,8 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "Media/7f6291e97e90be587772dec2bd1e658a_MD5.jpeg",
+    "Media/Pasted image 20260226094620.png",
     "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md",
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3",
@@ -191,7 +193,6 @@
     "Media/ad7140be18a90878aa5a91bfa1daae01_MD5.jpeg",
     "Media/Pasted image 20260223104203.png",
     "Media/6e23fb422814e117c7f54b603649710a_MD5.jpeg",
-    "Media/Pasted image 20260223104046.png",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3",
@@ -218,7 +219,6 @@
     "OE/Section 02 - ASA/19 - ASA HA active passive/Notes.md",
     "OE/Section 02 - ASA/18 - ASA Context using Subinterfaces/Notes.md",
     "OE/Section 02 - ASA/17 - ASA Context using  Physical Interfaces/Notes.md",
-    "OE/Section 02 - ASA/16 - ASA Port-Channel/Notes.md",
-    "OE/Section 02 - ASA/15 - ASA Interface Redundancy/Notes.md"
+    "OE/Section 02 - ASA/16 - ASA Port-Channel/Notes.md"
   ]
 }
