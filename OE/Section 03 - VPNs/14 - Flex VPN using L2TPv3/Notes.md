@@ -6,10 +6,10 @@ allows to tunnel protocols over l3
 
 useful for remote/branch sites to allow resources to be on the "same layer 2 network"
 
-R2/R3 Configs
+R2
 
 ```
-crypto ikev2 keyring key1
 
 
 ```
+
