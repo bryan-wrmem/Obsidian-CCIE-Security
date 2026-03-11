@@ -345,3 +345,163 @@ crypto pki authenticate SITES
 crypto pki enroll SITES
 ```
 
+CA Server will need to approve certificate requests
+
+View requests:
+
+```
+CA-Server#show crypto pki server Trust-CA requests
+Enrollment Request Database:
+
+Subordinate CA certificate requests:
+ReqID  State      Fingerprint                      SubjectName
+--------------------------------------------------------------
+
+RA certificate requests:
+ReqID  State      Fingerprint                      SubjectName
+--------------------------------------------------------------
+
+Router certificates requests:
+ReqID  State      Fingerprint                      SubjectName
+--------------------------------------------------------------
+4      pending    47614A96BD39BE01029689C9189C5FB6 serialNumber=69210114+ipadd
+ress=4.4.4.2+hostname=Perth.perth.xyz.com
+3      pending    E2557C61D28CC3DD8B50A63514E0903A serialNumber=69208065+ipadd
+ress=3.3.3.2+hostname=Melbourne.melbourne.xyz.com
+2      pending    8A8D9902FF104E6F0B43716315A821B3 serialNumber=69212163+ipadd
+ress=2.2.2.2+hostname=Riyadh.riyadh.xyz.com
+1      pending    6B52A8BBA5AF4FFC942CC820DAE69E75 serialNumber=69216261+ipadd
+ress=1.1.1.2+hostname=Tokyo.tokyo.xyz.com
+
+CA-Server#
+```
+
+Approve requests
+
+```
+crypto pki server Trust-CA grant all
+
+CA-Server#crypto pki server Trust-CA grant all
+CA-Server#show crypto pki server Trust-CA requests
+Enrollment Request Database:
+
+Subordinate CA certificate requests:
+ReqID  State      Fingerprint                      SubjectName
+--------------------------------------------------------------
+
+RA certificate requests:
+ReqID  State      Fingerprint                      SubjectName
+--------------------------------------------------------------
+
+Router certificates requests:
+ReqID  State      Fingerprint                      SubjectName
+--------------------------------------------------------------
+4      granted    47614A96BD39BE01029689C9189C5FB6 serialNumber=69210114+ipadd
+ress=4.4.4.2+hostname=Perth.perth.xyz.com
+3      granted    E2557C61D28CC3DD8B50A63514E0903A serialNumber=69208065+ipadd
+ress=3.3.3.2+hostname=Melbourne.melbourne.xyz.com
+2      granted    8A8D9902FF104E6F0B43716315A821B3 serialNumber=69212163+ipadd
+ress=2.2.2.2+hostname=Riyadh.riyadh.xyz.com
+1      granted    6B52A8BBA5AF4FFC942CC820DAE69E75 serialNumber=69216261+ipadd
+ress=1.1.1.2+hostname=Tokyo.tokyo.xyz.com
+
+CA-Server#
+
+```
+
+Configure Routers to authenticate S2S tunnels with certificates
+
+Tokyo <-> Melbourne
+
+Tokyo
+
+```
+crypto isakmp policy 10
+	authentication rsa-sig
+	hash md5
+	group 2
+	encryption 3des
+	
+crypto ipsec transform-set TS esp-3des esp-sha-hmac
+
+access-list 102 permit ip 172.16.0.0 0.0.255.255 172.16.0.0 0.0.255.255
+
+crypto map CMAP 10 ipsec-isakmp
+	set peer 3.3.3.2
+	set transform-set TS
+	match address 102
+	
+int e0/0
+	crypto map CMAP
+```
+
+Melbourne
+
+```
+crypto isakmp policy 10
+	authentication rsa-sig
+	hash md5
+	group 2
+	encryption 3des
+	
+crypto ipsec transform-set TS esp-3des esp-sha-hmac
+
+access-list 102 permit ip 172.16.0.0 0.0.255.255 172.16.0.0 0.0.255.255
+
+crypto map CMAP 10 ipsec-isakmp
+	set peer 1.1.1.2
+	set transform-set TS
+	match address 102
+	
+int e0/0
+	crypto map CMAP
+```
+
+
+
+
+Riyadh <-> Perth
+
+Riyadh
+
+```
+crypto isakmp policy 10
+	authentication rsa-sig
+	hash md5
+	group 2
+	encryption 3des
+	
+crypto ipsec transform-set TS esp-3des esp-sha-hmac
+
+access-list 102 permit ip 172.16.0.0 0.0.255.255 172.16.0.0 0.0.255.255
+
+crypto map CMAP 10 ipsec-isakmp
+	set peer 4.4.4.2
+	set transform-set TS
+	match address 102
+	
+int e0/0
+	crypto map CMAP
+```
+
+Melbourne
+
+```
+crypto isakmp policy 10
+	authentication rsa-sig
+	hash md5
+	group 2
+	encryption 3des
+	
+crypto ipsec transform-set TS esp-3des esp-sha-hmac
+
+access-list 102 permit ip 172.16.0.0 0.0.255.255 172.16.0.0 0.0.255.255
+
+crypto map CMAP 10 ipsec-isakmp
+	set peer 2.2.2.2
+	set transform-set TS
+	match address 102
+	
+int e0/0
+	crypto map CMAP
+```
