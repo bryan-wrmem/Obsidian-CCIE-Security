@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/15 - GET-VPN/Notes.md",
+                "file": "OE/Section 03 - VPNs/16 - Certificate based Site-2-site VPN/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,12 @@
   },
   "active": "c89b5e565bd3a60c",
   "lastOpenFiles": [
+    "OE/Section 03 - VPNs/15 - GET-VPN/Notes.md",
+    "OE/Section 03 - VPNs/16 - Certificate based Site-2-site VPN/Notes.md",
+    "OE/Section 03 - VPNs/16 - Certificate based Site-2-site VPN",
     "Media/520fddff07097b9560b10d57740caedc_MD5.jpeg",
     "Media/Pasted image 20260310081035.png",
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
-    "OE/Section 03 - VPNs/15 - GET-VPN/Notes.md",
     "OE/Section 03 - VPNs/15 - GET-VPN",
     "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
     "Media/7f6291e97e90be587772dec2bd1e658a_MD5.jpeg",
@@ -195,7 +197,6 @@
     "OE/Section 03 - VPNs/12 - DMVPN Dual Hub",
     "Media/a4cff1a320b6f04c28c31732d479dd8c_MD5.jpeg",
     "Media/Pasted image 20260223105729.png",
-    "Media/ad7140be18a90878aa5a91bfa1daae01_MD5.jpeg",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3",
@@ -206,7 +207,6 @@
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN",
     "OE/Section 03 - VPNs/Untitled.md",
     "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
-    "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN",
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
     "OE/Section 03 - VPNs/03 - GRE over IPSEC/Notes.md",
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",

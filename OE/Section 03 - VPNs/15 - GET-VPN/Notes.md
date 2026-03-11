@@ -80,7 +80,8 @@ crypto gdoi group GETVPN
 	identity number 112
 	server local
 	sa ipsec 5
-	match address ipv4 102
+		match address ipv4 102
+		profile GETVPN
 	exit
 	
 address ipv4 6.6.6.2
@@ -107,4 +108,17 @@ crypto map CMAP 10 gdoi
 int e0/0
 	crypto map CMAP
 
+```
+
+Re-Key Config
+
+```
+crypto key generate rsa module 2048 label moshin
+
+crypto gdoi group GETVPN
+	server local
+		rekey transport unicast
+		rekey authentication mypubkey rsa moshin
+		rekey algorithm 3des-cbc
+	
 ```
