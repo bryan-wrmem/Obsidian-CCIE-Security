@@ -206,7 +206,11 @@ wr
 CA Server Config
 
 ```
+ip domain-name ca-server.xyz.com
+
 crypto key generate rsa modulu 2048 label Trust-CA
+
+ip http server 
 
 crypto pki server Trust-CA
 	issuer-name CN=cisco L=NewZealand C=NZ
@@ -245,6 +249,48 @@ crypto pki trustpoint SITES
 crypto pki authenticate SITES
 	# Yes
 	
+Tokyo(config)#
+Tokyo(config)#crypto pki authenticate SITES
+Certificate has the following attributes:
+       Fingerprint MD5: B339BCA5 4B1894D0 5A18A187 E2E79EFC 
+      Fingerprint SHA1: F2EDB00B 8B6499F5 A31DC746 5DB02451 F2E42831 
+
+% Do you accept this certificate? [yes/no]: yes
+Trustpoint CA certificate accepted.
+Tokyo(config)#
+Tokyo(config)#
+	
 crypto pki enroll SITES
 	# Password
+	
+Tokyo(config)#crypto pki enroll SITES
+%
+% Start certificate enrollment .. 
+% Create a challenge password. You will need to verbally provide this
+   password to the CA Administrator in order to revoke your certificate.
+   For security reasons your password will not be saved in the configuration.
+   Please make a note of it.
+
+Password: 
+Re-enter password: 
+
+% The subject name in the certificate will include: Tokyo.tokyo.xyz.com
+% Include the router serial number in the subject name? [yes/no]: yes
+% The serial number in the certificate will be: 69216261
+% Include an IP address in the subject name? [no]: yes
+Enter Interface name or IP Address[]: e0/0
+% Bad interface or address. Try again.
+Enter Interface name or IP Address[]: 1.1.1.2    
+Request certificate from CA? [yes/no]: yes
+% Certificate request sent to Certificate Authority
+% The 'show crypto pki certificate verbose SITES' commandwill show the fingerp
+rint.
+
+Tokyo(config)#
+*Mar 11 18:19:04.508: CRYPTO_PKI:  Certificate Request Fingerprint MD5: 6B52A8
+BB A5AF4FFC 942CC820 DAE69E75 
+*Mar 11 18:19:04.508: CRYPTO_PKI:  Certificate Request Fingerprint SHA1: 613D1
+B08 FEE203EF 50C4CC6D 4696ABFA A2779A8A 
+Tokyo(config)#
 ```
+
