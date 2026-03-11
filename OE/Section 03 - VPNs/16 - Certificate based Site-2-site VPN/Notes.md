@@ -243,7 +243,7 @@ ip domain-name tokyo.xyz.com
 crypto key generate rsa modulus 2024
 
 crypto pki trustpoint SITES
-	enrollment url http://5.5.52
+	enrollment url http://5.5.5.2
 	revocation-check none
 	
 crypto pki authenticate SITES
@@ -294,3 +294,53 @@ B08 FEE203EF 50C4CC6D 4696ABFA A2779A8A
 Tokyo(config)#
 ```
 
+Riyadh
+
+```
+ip domain-name riyadh.xyz.com
+
+crypto key generate rsa modulus 2024
+
+crypto pki trustpoint SITES
+	enrollment url http://5.5.5.2
+	revocation-check none
+	
+crypto pki authenticate SITES
+	# Yes
+	
+crypto pki enroll SITES
+```
+
+Melbourne
+
+```
+ip domain-name melbourne.xyz.com
+
+crypto key generate rsa modulus 2024
+
+crypto pki trustpoint SITES
+	enrollment url http://5.5.5.2
+	revocation-check none
+	
+crypto pki authenticate SITES
+	# Yes
+	
+crypto pki enroll SITES
+```
+
+Perth
+
+```
+ip domain-name perth.xyz.com
+
+crypto key generate rsa modulus 2024
+
+crypto pki trustpoint SITES
+	enrollment url http://5.5.5.2
+	revocation-check none
+	
+crypto pki authenticate SITES
+	# Yes
+	
+crypto pki enroll SITES
+```
