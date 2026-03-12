@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
+                "file": "OE/Section 03 - VPNs/19 - FlexVPN SVTI to DVTI Point-2-Point/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,7 +174,11 @@
   },
   "active": "ddf868fc11b4afcb",
   "lastOpenFiles": [
+    "Media/afe8084f48d21bc9e5b75d08f1172769_MD5.jpeg",
+    "Media/Pasted image 20260312104938.png",
     "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN/Notes.md",
+    "OE/Section 03 - VPNs/19 - FlexVPN SVTI to DVTI Point-2-Point/Notes.md",
+    "OE/Section 03 - VPNs/19 - FlexVPN SVTI to DVTI Point-2-Point",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
     "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
     "Media/8ee8a36bfa0b7847b95c729f3c6d21d6_MD5.jpeg",
@@ -193,7 +197,6 @@
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
     "OE/Section 03 - VPNs/15 - GET-VPN",
     "Media/7f6291e97e90be587772dec2bd1e658a_MD5.jpeg",
-    "Media/Pasted image 20260226094620.png",
     "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md",
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3",
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
@@ -206,7 +209,6 @@
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3",
     "OE/Section 03 - VPNs/09 - DMVPN with OSPF/Notes.md",
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC",
-    "OE/Section 03 - VPNs/09 - DMVPN with OSPF",
     "OE/Section 03 - VPNs/Untitled.md",
     "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
@@ -217,7 +219,6 @@
     "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
     "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
     "OE/Section 02 - ASA/13 - VPNs in Cisco ASA/Notes.md",
-    "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
-    "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md"
+    "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md"
   ]
 }
