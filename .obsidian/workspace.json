@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN/Notes.md",
+                "file": "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,11 @@
   },
   "active": "ddf868fc11b4afcb",
   "lastOpenFiles": [
+    "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN/Notes.md",
+    "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
+    "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
     "Media/8ee8a36bfa0b7847b95c729f3c6d21d6_MD5.jpeg",
     "Media/Pasted image 20260312095515.png",
-    "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
-    "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN/Notes.md",
     "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN",
     "Media/697f8a01b61686fa05856bdd40cf51ba_MD5.jpeg",
     "Media/Pasted image 20260311180728.png",
@@ -191,13 +192,11 @@
     "Media/Pasted image 20260310081035.png",
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
     "OE/Section 03 - VPNs/15 - GET-VPN",
-    "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
     "Media/7f6291e97e90be587772dec2bd1e658a_MD5.jpeg",
     "Media/Pasted image 20260226094620.png",
     "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md",
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3",
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
-    "Media/fbe7c6f09ed98eae7922803715756c62_MD5.jpeg",
     "OE/Section 03 - VPNs/12 - DMVPN Dual Hub/Notes.md",
     "OE/Section 03 - VPNs/13 - VRF Aware VPN",
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3/Notes.md",

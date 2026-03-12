@@ -21,8 +21,8 @@ crypto ikev2 keyring UK
 	
 crypto ikev2 profile PROFILE
 	match identity remote address 2.1.1.2 255.255.255.255
-	authentication local pres-hare
-	authentication remote pres-hare
+	authentication local pre-share
+	authentication remote pre-share
 	keyring local UK
 	
 crypto ipsec transform-set TS esp-3des esp-sha-hmac
@@ -35,8 +35,8 @@ int tunnel 1
 	ip address 192.168.1.1 255.255.255.0
 	tunnel source 1.1.1.2
 	tunnel destination 2.1.1.2
-	tunnel mode ipsec ipv4
 	tunnel protection ipsec profile SVTIPROFILE
+	tunnel mode ipsec ipv4
 	
 router eigrp 1
 	network 192.168.1.0
@@ -63,8 +63,8 @@ crypto ikev2 keyring NZ
 	
 crypto ikev2 profile PROFILE
 	match identity remote address 1.1.1.2 255.255.255.255
-	authentication local pres-hare
-	authentication remote pres-hare
+	authentication local pre-share
+	authentication remote pre-share
 	keyring local NZ
 	
 crypto ipsec transform-set TS esp-3des esp-sha-hmac
