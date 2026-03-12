@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
+                "file": "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,14 @@
   },
   "active": "ddf868fc11b4afcb",
   "lastOpenFiles": [
+    "Media/8ee8a36bfa0b7847b95c729f3c6d21d6_MD5.jpeg",
+    "Media/Pasted image 20260312095515.png",
+    "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
+    "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN/Notes.md",
+    "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN",
     "Media/697f8a01b61686fa05856bdd40cf51ba_MD5.jpeg",
     "Media/Pasted image 20260311180728.png",
     "OE/Section 03 - VPNs/16 - Certificate based Site-2-site VPN/Notes.md",
-    "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel",
     "OE/Section 03 - VPNs/15 - GET-VPN/Notes.md",
     "Media/270913457de65eafcc70e8f12a420f06_MD5.jpeg",
@@ -194,10 +198,8 @@
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3",
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
     "Media/fbe7c6f09ed98eae7922803715756c62_MD5.jpeg",
-    "Media/Pasted image 20260225085008.png",
     "OE/Section 03 - VPNs/12 - DMVPN Dual Hub/Notes.md",
     "OE/Section 03 - VPNs/13 - VRF Aware VPN",
-    "Media/461f550e1520bccbec7b6541cc0d7d13_MD5.jpeg",
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3/Notes.md",
     "OE/Section 03 - VPNs/12 - DMVPN Dual Hub",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
@@ -206,7 +208,6 @@
     "OE/Section 03 - VPNs/09 - DMVPN with OSPF/Notes.md",
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC",
     "OE/Section 03 - VPNs/09 - DMVPN with OSPF",
-    "OE/Section 03 - VPNs/08 - DMVPN with EIGRP",
     "OE/Section 03 - VPNs/Untitled.md",
     "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
     "OE/Section 02 - ASA/13 - VPNs in Cisco ASA/Notes.md",
     "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
-    "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
-    "OE/Section 02 - ASA/19 - ASA HA active passive/Notes.md"
+    "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md"
   ]
 }
