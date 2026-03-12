@@ -94,6 +94,14 @@ int virtual-template 1 type tunnel
 	tunnel mode ipsec ipv4
 	tunnel protection ipsec profile DVTIPROF
 
+crypto ikev2 profile IKEV2-DOH
+ match identity remote address 0.0.0.0 
+ authentication remote pre-share
+ authentication local pre-share
+ keyring local DOHA
+ virtual-template 1
+!
+
 router eigrp 1
 	network 192.168.1.0
 	network 172.16.9.0 255.255.255.0
