@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/20 - FlexVPN SVTI to DVTI Multipoint/Notes.md",
+                "file": "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,16 @@
   },
   "active": "ddf868fc11b4afcb",
   "lastOpenFiles": [
+    "Media/ee3f6d9b2c2f14f0e262c6254c3a2584_MD5.jpeg",
+    "Media/Pasted image 20260317111300.png",
+    "Media/d645c487cb34ede921857f1b3fcc73d5_MD5.jpeg",
+    "Media/Pasted image 20260317111036.png",
+    "OE/Section 03 - VPNs/20 - FlexVPN SVTI to DVTI Multipoint/Notes.md",
+    "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md",
+    "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN",
     "Media/e9bb3db8c1ba341bd62b362a494f6ad6_MD5.jpeg",
     "Media/Pasted image 20260314114551.png",
     "OE/Section 03 - VPNs/19 - FlexVPN SVTI to DVTI Point-2-Point/Notes.md",
-    "OE/Section 03 - VPNs/20 - FlexVPN SVTI to DVTI Multipoint/Notes.md",
     "OE/Section 03 - VPNs/20 - FlexVPN SVTI to DVTI Multipoint",
     "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN/Notes.md",
     "Media/afe8084f48d21bc9e5b75d08f1172769_MD5.jpeg",
@@ -189,14 +195,10 @@
     "Media/Pasted image 20260312095515.png",
     "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN",
     "Media/697f8a01b61686fa05856bdd40cf51ba_MD5.jpeg",
-    "Media/Pasted image 20260311180728.png",
     "OE/Section 03 - VPNs/16 - Certificate based Site-2-site VPN/Notes.md",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel",
     "OE/Section 03 - VPNs/15 - GET-VPN/Notes.md",
-    "Media/270913457de65eafcc70e8f12a420f06_MD5.jpeg",
-    "Media/Pasted image 20260311134842.png",
     "OE/Section 03 - VPNs/16 - Certificate based Site-2-site VPN",
-    "Media/520fddff07097b9560b10d57740caedc_MD5.jpeg",
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
     "OE/Section 03 - VPNs/15 - GET-VPN",
     "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md",
@@ -208,7 +210,6 @@
     "OE/Section 03 - VPNs/12 - DMVPN Dual Hub",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
-    "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3",
     "OE/Section 03 - VPNs/09 - DMVPN with OSPF/Notes.md",
     "OE/Section 03 - VPNs/Untitled.md",
     "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction/Notes.md",
     "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
-    "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
-    "OE/Section 02 - ASA/13 - VPNs in Cisco ASA/Notes.md"
+    "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md"
   ]
 }
