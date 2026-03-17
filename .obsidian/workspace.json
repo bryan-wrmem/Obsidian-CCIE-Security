@@ -174,6 +174,8 @@
   },
   "active": "ddf868fc11b4afcb",
   "lastOpenFiles": [
+    "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
+    "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md",
     "Media/0c1edb9b80341cf5f993e2000ba2c021_MD5.jpeg",
     "Media/Pasted image 20260317112147.png",
     "Media/ee3f6d9b2c2f14f0e262c6254c3a2584_MD5.jpeg",
@@ -181,7 +183,6 @@
     "Media/d645c487cb34ede921857f1b3fcc73d5_MD5.jpeg",
     "Media/Pasted image 20260317111036.png",
     "OE/Section 03 - VPNs/20 - FlexVPN SVTI to DVTI Multipoint/Notes.md",
-    "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md",
     "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN",
     "Media/e9bb3db8c1ba341bd62b362a494f6ad6_MD5.jpeg",
     "Media/Pasted image 20260314114551.png",
@@ -193,7 +194,6 @@
     "OE/Section 03 - VPNs/19 - FlexVPN SVTI to DVTI Point-2-Point",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
     "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
-    "Media/8ee8a36bfa0b7847b95c729f3c6d21d6_MD5.jpeg",
     "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN",
     "OE/Section 03 - VPNs/16 - Certificate based Site-2-site VPN/Notes.md",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel",
@@ -218,7 +218,6 @@
     "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/01 - Introduction/Notes.md",
-    "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
-    "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md"
+    "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md"
   ]
 }
