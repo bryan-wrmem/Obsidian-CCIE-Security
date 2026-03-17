@@ -174,6 +174,9 @@
   },
   "active": "ddf868fc11b4afcb",
   "lastOpenFiles": [
+    "OE/Section 03 - VPNs/23 - Cisco ASA WebSSL VPN/Notes.md",
+    "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
+    "OE/Section 03 - VPNs/23 - Cisco ASA WebSSL VPN",
     "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
     "OE/Section 03 - VPNs/22 - Cisco Anyconnect VPN/Notes.md",
     "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md",
@@ -208,7 +211,6 @@
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3",
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
     "OE/Section 03 - VPNs/12 - DMVPN Dual Hub/Notes.md",
-    "OE/Section 03 - VPNs/13 - VRF Aware VPN",
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3/Notes.md",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
@@ -217,8 +219,6 @@
     "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
     "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md",
     "OE/Section 03 - VPNs/03 - GRE over IPSEC/Notes.md",
-    "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md",
-    "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
-    "OE/Section 03 - VPNs/01 - Introduction/Notes.md"
+    "OE/Section 03 - VPNs/02 - Basic GRE-Based VPN/Notes.md"
   ]
 }
