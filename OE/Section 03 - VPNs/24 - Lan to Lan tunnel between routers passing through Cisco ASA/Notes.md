@@ -12,5 +12,5 @@ crypto ipsakmp policy 10
 	enc 3des
 	group 2
 	
-crypto 
+crypto isakmp
 ```
