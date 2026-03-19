@@ -3,3 +3,14 @@
 
 S2S tunnel between R6/R4 passing through ASA
 
+Phase 1
+
+```
+crypto ipsakmp policy 10
+	auth pre-share
+	hash md5
+	enc 3des
+	group 2
+	
+crypto 
+```
