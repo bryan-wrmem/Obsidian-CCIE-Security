@@ -33,7 +33,7 @@ crypto ipsec transform-set TS esp-aes esp-sha-hmac
 access-list 102 permit ip 10.20.20.0 0.0.0.255 10.20.10.0 0.0.0.255
 
 crypto map CMAP 10 ipsec-isakmp
-	set peer 1.1.1.2
+	set peer 1.1.1.1
 	set transform-set TS
 	match address 102
 	
