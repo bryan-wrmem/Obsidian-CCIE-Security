@@ -54,3 +54,9 @@ int e0/0
 	
 ```
 
+Create ASA fw rules to allow R4 to hit R6 over isakmp (udp/500) and esp (esp/50)
+
+[Open: Pasted image 20260319175818.png](../../../Media/79f710eaf515855abb62b7192e1881c5_MD5.jpeg)
+![](../../../Media/79f710eaf515855abb62b7192e1881c5_MD5.jpeg)
+
+
