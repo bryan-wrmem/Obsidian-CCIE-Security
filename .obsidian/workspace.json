@@ -174,6 +174,8 @@
   },
   "active": "ddf868fc11b4afcb",
   "lastOpenFiles": [
+    "Media/69d24495a560b4ae578165561a4c21bc_MD5.jpeg",
+    "Media/Pasted image 20260323115349.png",
     "OE/Section 03 - VPNs/24 - Lan to Lan tunnel between routers passing through Cisco ASA/Notes.md",
     "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
     "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN",
@@ -195,7 +197,6 @@
     "Media/ee3f6d9b2c2f14f0e262c6254c3a2584_MD5.jpeg",
     "Media/Pasted image 20260317111300.png",
     "Media/d645c487cb34ede921857f1b3fcc73d5_MD5.jpeg",
-    "Media/Pasted image 20260317111036.png",
     "OE/Section 03 - VPNs/20 - FlexVPN SVTI to DVTI Multipoint/Notes.md",
     "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN",
     "OE/Section 03 - VPNs/19 - FlexVPN SVTI to DVTI Point-2-Point/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
     "OE/Section 03 - VPNs/09 - DMVPN with OSPF/Notes.md",
     "OE/Section 03 - VPNs/Untitled.md",
-    "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md",
-    "OE/Section 03 - VPNs/04 - GRE over IPSEC using Transport mode/Notes.md"
+    "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md"
   ]
 }
