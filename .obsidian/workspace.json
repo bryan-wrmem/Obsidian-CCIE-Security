@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddf868fc11b4afcb",
+            "id": "5500fc4ffc999340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles/Notes.md",
+                "file": "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,10 +172,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "ddf868fc11b4afcb",
+  "active": "5500fc4ffc999340",
   "lastOpenFiles": [
-    "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
     "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles/Notes.md",
+    "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
+    "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN",
+    "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
     "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
     "Media/922931fd28b915e5291d97a679073592_MD5.jpeg",
@@ -208,7 +210,6 @@
     "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
     "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN",
     "OE/Section 03 - VPNs/16 - Certificate based Site-2-site VPN/Notes.md",
-    "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel",
     "OE/Section 03 - VPNs/15 - GET-VPN/Notes.md",
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
     "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
     "OE/Section 03 - VPNs/09 - DMVPN with OSPF/Notes.md",
-    "OE/Section 03 - VPNs/Untitled.md",
-    "OE/Section 03 - VPNs/05 - Site-2-Site or Lan-2-Lan VPN/Notes.md"
+    "OE/Section 03 - VPNs/Untitled.md"
   ]
 }
