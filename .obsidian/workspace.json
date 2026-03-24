@@ -174,6 +174,8 @@
   },
   "active": "5500fc4ffc999340",
   "lastOpenFiles": [
+    "Media/1f534e31fd19f2644f4e5dbff6e29751_MD5.jpeg",
+    "Media/Pasted image 20260324084159.png",
     "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles/Notes.md",
     "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN",
@@ -191,7 +193,6 @@
     "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md",
     "OE/Section 03 - VPNs/24 - Lan to Lan tunnel between routers passing through Cisco ASA/Notes.md",
     "Media/9888af3e416dc1b20a1ce8931506be57_MD5.jpeg",
-    "Media/Pasted image 20260323120007.png",
     "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN",
     "OE/Section 03 - VPNs/23 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/24 - Lan to Lan tunnel between routers passing through Cisco ASA",
@@ -218,7 +219,6 @@
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3/Notes.md",
     "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
     "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md",
-    "OE/Section 03 - VPNs/09 - DMVPN with OSPF/Notes.md",
-    "OE/Section 03 - VPNs/Untitled.md"
+    "OE/Section 03 - VPNs/09 - DMVPN with OSPF/Notes.md"
   ]
 }
