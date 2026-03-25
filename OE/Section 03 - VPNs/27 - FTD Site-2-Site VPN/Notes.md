@@ -19,7 +19,7 @@ FMC Config
 
 R4 IKEv2 Policy
 Integrity - SHA
-Encryption - 3des
+Encryption - AES
 PRF - SHA
 DH - 14
 
@@ -29,4 +29,4 @@ DH - 14
 
 R4 IPSec Proposal
 HASH - SHA-1
-Encryption - 3des
+Encryption - AES
