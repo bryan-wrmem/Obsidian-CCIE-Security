@@ -72,6 +72,32 @@ EIGRP
 
 OSPF
 
-[Open: Pasted image 20260326110207.png](../../../Media/ffb4fffb70d2501fe419cc65ff4f3d0f_MD5.jpeg)
-![](../../../Media/ffb4fffb70d2501fe419cc65ff4f3d0f_MD5.jpeg)
+[Open: Pasted image 20260326111143.png](../../../Media/69930fa9a45996bc529d2119578cd32b_MD5.jpeg)
+![](../../../Media/69930fa9a45996bc529d2119578cd32b_MD5.jpeg)
+
+
+[Open: Pasted image 20260326111547.png](../../../Media/d4f92d02c7f39102536c3d442f81263c_MD5.jpeg)
+![](../../../Media/d4f92d02c7f39102536c3d442f81263c_MD5.jpeg)
+
+=====
+
+Default Route and BGP
+
+[Open: Pasted image 20260326111635.png](../../../Media/47dacf82cb72c374f28aad95f0eb9567_MD5.jpeg)
+![](../../../Media/47dacf82cb72c374f28aad95f0eb9567_MD5.jpeg)
+
+[Open: Pasted image 20260326111755.png](../../../Media/7c39486b8c1cbaba2c5cafd7a4f52b00_MD5.jpeg)
+![](../../../Media/7c39486b8c1cbaba2c5cafd7a4f52b00_MD5.jpeg)
+
+[Open: Pasted image 20260326111827.png](../../../Media/f8e012aca74b3dabbe2651126fae9be4_MD5.jpeg)
+![](../../../Media/f8e012aca74b3dabbe2651126fae9be4_MD5.jpeg)
+
+[Open: Pasted image 20260326112141.png](../../../Media/3700b6c1ba950993219b9f16492af207_MD5.jpeg)
+![](../../../Media/3700b6c1ba950993219b9f16492af207_MD5.jpeg)
+
+[Open: Pasted image 20260326112156.png](../../../Media/4297b1382c17aa38fc3d50182c9d76cf_MD5.jpeg)
+![](../../../Media/4297b1382c17aa38fc3d50182c9d76cf_MD5.jpeg)
+
+[Open: Pasted image 20260326112241.png](../../../Media/a345f3fad951247bf0f5e51097b6e0a8_MD5.jpeg)
+![](../../../Media/a345f3fad951247bf0f5e51097b6e0a8_MD5.jpeg)
 
