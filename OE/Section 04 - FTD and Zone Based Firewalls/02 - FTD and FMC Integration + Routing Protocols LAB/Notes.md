@@ -58,3 +58,20 @@ Interfaces
 
 Routing
 
+EIGRP
+
+[Open: Pasted image 20260326110010.png](../../../Media/fece8a96ebe991d3366d8df710eeeb8e_MD5.jpeg)
+![](../../../Media/fece8a96ebe991d3366d8df710eeeb8e_MD5.jpeg)
+
+[Open: Pasted image 20260326105829.png](../../../Media/52b7338780c9e47ef2da0613acaf3536_MD5.jpeg)
+![](../../../Media/52b7338780c9e47ef2da0613acaf3536_MD5.jpeg)
+
+[Open: Pasted image 20260326110044.png](../../../Media/617a1ce6ff8cab6e3e080fa0e33bdd08_MD5.jpeg)
+![](../../../Media/617a1ce6ff8cab6e3e080fa0e33bdd08_MD5.jpeg)
+====
+
+OSPF
+
+[Open: Pasted image 20260326110207.png](../../../Media/ffb4fffb70d2501fe419cc65ff4f3d0f_MD5.jpeg)
+![](../../../Media/ffb4fffb70d2501fe419cc65ff4f3d0f_MD5.jpeg)
+
