@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "285b17fd4ff648f8",
+        "id": "0f3183f571a5f172",
         "type": "tabs",
         "children": [
           {
-            "id": "5500fc4ffc999340",
+            "id": "35015613008352b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -172,8 +168,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "5500fc4ffc999340",
+  "active": "35015613008352b9",
   "lastOpenFiles": [
+    "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
+    "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
     "Media/fe14f153dd0bd8745a59691e021c3bee_MD5.jpeg",
     "Media/Pasted image 20260325140302.png",
     "Media/3ac78607d35d60b93b5ec6d8c3aff364_MD5.jpeg",
@@ -184,11 +182,8 @@
     "Media/Pasted image 20260325140018.png",
     "Media/778ec3a233c74cccd968f2ffdc504ed8_MD5.jpeg",
     "Media/Pasted image 20260325140005.png",
-    "Media/3af0159f1b8c21726982fc85f2639d49_MD5.jpeg",
     "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles/Notes.md",
-    "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN",
-    "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
     "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
     "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md",

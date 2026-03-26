@@ -30,3 +30,41 @@ DH - 14
 R4 IPSec Proposal
 HASH - SHA-1
 Encryption - AES
+
+R4 Config
+
+```
+crypto ikev2 proprosal v2-proposal
+	encryption aes-gcm-256
+	prf sha1
+	group 14
+
+crypto ikev2 policy v2-policy
+	proposal v2-proposal
+	
+crypto ikev2 keyring FTD
+	peer FTD
+	address 1.1.1.1
+	pre-share local cisco123
+	pre-share remote cisco123
+
+crypto ikev2 profile PROFILE
+	match identity remote address 1.1.1.1 255.255.255.255
+	authentication local pre-share
+	authentication remote pre-share
+	keyring local FTD
+
+crypto ipsec transform-set TS esp-aes esp-sha-hmac
+
+access-list 102 permit ip 10.20.20.0 0.0.0.255 10.20.10.0 0.0.0.255
+
+crypto map CMAP 10 ipsec-isakmp
+	set peer 1.1.1.1
+	set transform-set TS
+	match address 102
+	
+int e0/0
+	crypto map CMAP
+	
+```
+
