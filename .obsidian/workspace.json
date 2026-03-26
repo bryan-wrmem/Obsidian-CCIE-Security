@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 04 - FTD and Zone Based Firewalls/01 - FTD Course Information/Notes.md",
+                "file": "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,22 +174,24 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/e10e54b7bcbbf760139e78a343faeaeb_MD5.jpeg",
+    "Media/Pasted image 20260326102219.png",
+    "OE/Section 04 - FTD and Zone Based Firewalls/01 - FTD Course Information/Notes.md",
+    "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB/Notes.md",
+    "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB",
+    "Media/3d42ffb80552fbcd60df0c2707276af9_MD5.jpeg",
+    "Media/Pasted image 20260326101847.png",
     "Media/cf9ce09214bd718d23733c1d723e8894_MD5.jpeg",
     "Media/Pasted image 20260326101153.png",
     "Media/224c2e422d7f9026b50fc2e5fb10c74e_MD5.jpeg",
     "Media/Pasted image 20260326100250.png",
     "Media/13265a00de67cb49883cfb156571a9ef_MD5.jpeg",
     "Media/Pasted image 20260326095727.png",
-    "OE/Section 04 - FTD and Zone Based Firewalls/01 - FTD Course Information/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/01 - FTD Course Information",
     "OE/Section 04 - FTD and Zone Based Firewalls",
     "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
     "Media/fe14f153dd0bd8745a59691e021c3bee_MD5.jpeg",
-    "Media/Pasted image 20260325140302.png",
-    "Media/3ac78607d35d60b93b5ec6d8c3aff364_MD5.jpeg",
-    "Media/Pasted image 20260325140111.png",
-    "Media/b7604de2669c20dfb68be7f73041a86f_MD5.jpeg",
     "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles/Notes.md",
     "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN",
     "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles",
@@ -208,7 +210,6 @@
     "OE/Section 03 - VPNs/20 - FlexVPN SVTI to DVTI Multipoint/Notes.md",
     "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN",
     "OE/Section 03 - VPNs/19 - FlexVPN SVTI to DVTI Point-2-Point/Notes.md",
-    "OE/Section 03 - VPNs/20 - FlexVPN SVTI to DVTI Multipoint",
     "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN/Notes.md",
     "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
     "OE/Section 03 - VPNs/16 - Certificate based Site-2-site VPN/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
     "OE/Section 03 - VPNs/12 - DMVPN Dual Hub/Notes.md",
     "OE/Section 03 - VPNs/11 - DMVPN Phase 1, Phase 2 and Phase 3/Notes.md",
-    "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md",
-    "OE/Section 03 - VPNs/07 - Multi-point GRE VPN/Notes.md"
+    "OE/Section 03 - VPNs/08 - DMVPN with EIGRP/Notes.md"
   ]
 }
