@@ -35,8 +35,9 @@ Inside Router
 ```
 Inside-Traffic#sh run | s router
 router eigrp 1
- network 10.0.0.0
- network 172.16.0.0
+ network 10.10.10.0 0.0.0.255
+ network 172.16.1.0 0.0.0.255
+ network 172.16.2.0 0.0.0.255
 Inside-Traffic#
 ```
 
@@ -44,9 +45,9 @@ Outside Router
 
 ```
 router eigrp 1
- network 10.0.0.0
- network 192.168.1.0
- network 192.168.2.0
+ network 10.10.10.0 0.0.0.255
+ network 192.168.1.0 0.0.0.255
+ network 192.168.2.0 0.0.0.255
 ```
 
 Verification
