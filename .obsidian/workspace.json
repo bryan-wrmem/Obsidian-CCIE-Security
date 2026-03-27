@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode/Notes.md",
+                "file": "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,6 +174,11 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/a5de6ccfe29996bb297ba8e34a853b8c_MD5.jpeg",
+    "Media/Pasted image 20260327153727.png",
+    "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode/Notes.md",
+    "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging/Notes.md",
+    "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging",
     "Media/3ac6d767c2d8a67ee3093d6d27080a65_MD5.jpeg",
     "Media/Pasted image 20260327152719.png",
     "Media/2c1b4e5044423c9d635ad82400d0b490_MD5.jpeg",
@@ -183,10 +188,7 @@
     "Media/282afbee59644d6fa936f87a8246d830_MD5.jpeg",
     "Media/Pasted image 20260327144249.png",
     "Media/ef9ddc96feb71914bd833ffbad3e8a6f_MD5.jpeg",
-    "Media/Pasted image 20260327144232.png",
-    "Media/d6d5ea1dc448e66be72cdd348cf9ce63_MD5.jpeg",
     "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode",
     "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT",
@@ -205,7 +207,6 @@
     "OE/Section 03 - VPNs/24 - Lan to Lan tunnel between routers passing through Cisco ASA/Notes.md",
     "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN",
     "OE/Section 03 - VPNs/23 - Cisco ASA WebSSL VPN/Notes.md",
-    "OE/Section 03 - VPNs/24 - Lan to Lan tunnel between routers passing through Cisco ASA",
     "OE/Section 03 - VPNs/22 - Cisco Anyconnect VPN/Notes.md",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 03 - VPNs/15 - GET-VPN/Notes.md",
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
     "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md",
-    "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md",
-    "OE/Section 03 - VPNs/12 - DMVPN Dual Hub/Notes.md"
+    "OE/Section 03 - VPNs/10 - DMVPN with IPSEC/Notes.md"
   ]
 }
