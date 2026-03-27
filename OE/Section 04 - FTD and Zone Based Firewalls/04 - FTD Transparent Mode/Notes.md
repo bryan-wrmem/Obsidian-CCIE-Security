@@ -65,3 +65,9 @@ Outside-Traffic#
 
 Only getting one way route exchange..why? Also need to allow multicast traffic for eigrp
 
+[Open: Pasted image 20260327152605.png](../../../Media/2c1b4e5044423c9d635ad82400d0b490_MD5.jpeg)
+![](../../../Media/2c1b4e5044423c9d635ad82400d0b490_MD5.jpeg)
+
+[Open: Pasted image 20260327152719.png](../../../Media/3ac6d767c2d8a67ee3093d6d27080a65_MD5.jpeg)
+![](../../../Media/3ac6d767c2d8a67ee3093d6d27080a65_MD5.jpeg)
+
