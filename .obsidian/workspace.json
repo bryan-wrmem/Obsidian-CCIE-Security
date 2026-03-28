@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging/Notes.md",
+                "file": "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,14 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/f8717cb248a95108c13894780ed64fb6_MD5.jpeg",
+    "Media/Pasted image 20260328144134.png",
+    "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging/Notes.md",
+    "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging/Notes.md",
+    "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging",
     "Media/fe73534c407447c55b90c56854a2a173_MD5.jpeg",
     "Media/Pasted image 20260328143705.png",
     "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging",
     "Media/d2cfb5ac6eef3d044ac43b892a76bc0a_MD5.jpeg",
     "Media/Pasted image 20260327154406.png",
@@ -188,8 +192,6 @@
     "Media/3ac6d767c2d8a67ee3093d6d27080a65_MD5.jpeg",
     "Media/Pasted image 20260327152719.png",
     "Media/2c1b4e5044423c9d635ad82400d0b490_MD5.jpeg",
-    "Media/Pasted image 20260327152605.png",
-    "Media/c15ffcf2b76f79a3d58d8262f28aba5c_MD5.jpeg",
     "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode",
     "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB/Notes.md",
@@ -203,7 +205,6 @@
     "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
     "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles/Notes.md",
     "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN",
-    "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
     "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md",
     "OE/Section 03 - VPNs/24 - Lan to Lan tunnel between routers passing through Cisco ASA/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md",
     "OE/Section 03 - VPNs/16 - Certificate based Site-2-site VPN/Notes.md",
     "OE/Section 03 - VPNs/15 - GET-VPN/Notes.md",
-    "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
-    "OE/Section 03 - VPNs/13 - VRF Aware VPN/Notes.md"
+    "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md"
   ]
 }
