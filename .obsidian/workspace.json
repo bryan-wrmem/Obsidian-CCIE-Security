@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory/Notes.md",
+                "file": "OE/Section 05 - ISE/01 - Introduction/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -175,6 +175,9 @@
   "active": "35015613008352b9",
   "lastOpenFiles": [
     "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab/Notes.md",
+    "OE/Section 05 - ISE/01 - Introduction/Notes.md",
+    "OE/Section 05 - ISE/01 - Introduction",
+    "OE/Section 05 - ISE",
     "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory/Notes.md",
     "Media/9e1d015c64a6266f1a88cd80831faa78_MD5.jpeg",
     "Media/Pasted image 20260401114326.png",
@@ -203,9 +206,7 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging",
     "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging",
     "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging",
     "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/01 - FTD Course Information/Notes.md",
