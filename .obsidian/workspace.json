@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy/Notes.md",
+                "file": "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,9 +174,13 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/af2c55a593f1806db25b52df8552390e_MD5.jpeg",
+    "Media/Pasted image 20260331200217.png",
+    "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy/Notes.md",
+    "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability/Notes.md",
+    "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability",
     "Media/Pasted image 20260328150602.png",
     "OE/Section 04 - FTD and Zone Based Firewalls/09 - FTD Intrusion Policy & Logging/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy",
     "Media/4ffed2d5b9ba2203b1023c8349a65a0a_MD5.jpeg",
     "Media/Pasted image 20260328145653.png",
@@ -190,8 +194,6 @@
     "Media/Pasted image 20260328144835.png",
     "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/08 - FTD File-based policy & Logging",
-    "Media/f8717cb248a95108c13894780ed64fb6_MD5.jpeg",
-    "Media/Pasted image 20260328144134.png",
     "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging",
     "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging/Notes.md",
@@ -204,7 +206,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT",
     "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB/03 - FTD Policies & NAT",
     "OE/Section 04 - FTD and Zone Based Firewalls/01 - FTD Course Information/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB",
     "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
     "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
     "OE/Section 03 - VPNs/20 - FlexVPN SVTI to DVTI Multipoint/Notes.md",
     "OE/Section 03 - VPNs/19 - FlexVPN SVTI to DVTI Point-2-Point/Notes.md",
-    "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN/Notes.md",
-    "OE/Section 03 - VPNs/06 - Native IPSEC tunnel interface VPN/Notes.md"
+    "OE/Section 03 - VPNs/18 - IKEv2 S-VTI or Native IPSEC VPN/Notes.md"
   ]
 }
