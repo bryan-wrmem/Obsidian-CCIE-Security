@@ -24,7 +24,47 @@ Firepower Config
 R4 Config
 
 ```
+# Create IKEV2 Proposal
 
+crypto ikev2 proposal FTD-Proposal
+	encryption aes-cbc-128
+	integrity sha1
+	group 14
+	prf sha1
+	
+# Create key ring
+
+crypto ikev2 keyring FTD-Key
+	Peer FTD
+		address 1.1.1.1
+		pre-shared-key local cisco123
+		pre-shared-key remote cisco123
+
+# Create IKEv2 Policy
+
+crypto ikev2 policy FTD
+	crypto ikev2 proposal FTD-Proposal
+
+# Create IKEv2 Profile
+
+crypto ikev2 profile FTD-Profile
+	match identity remote address 1.1.1.1 255.255.255.255
+	authentication local pre-share
+	authentication remote pre-share
+	keyring local FTD-Key
+
+crypto ipsec transform-set TS esp-aes esp-sha-hmac
+	
+access-list 102 permit ip 172.16.2.0 0.0.0.255 172.16.1.0 0.0.255.255
+
+crypto map CMAP 10 ipsec-isakmp
+	set peer 1.1.1.1
+	set transform-set TS
+	match address 102
+	set ikev2-profile FTD-Profile
+
+int e0/0
+	crypto map CMAP
 
 
 ```
