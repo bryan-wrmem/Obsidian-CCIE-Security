@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN/Notes.md",
+                "file": "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,14 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
-    "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
+    "Media/18a699aba00cbb0651e53e9a2468e570_MD5.jpeg",
+    "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab/Notes.md",
+    "Media/Pasted image 20260401102518.png",
+    "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory/Notes.md",
+    "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab",
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN/Notes.md",
+    "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory",
+    "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
     "Media/9eb1f3a235703b5a3f3c911668dc4323_MD5.jpeg",
     "Media/Pasted image 20260401094452.png",
     "Media/847c28e32859e4c14de7cb2f123359bd_MD5.jpeg",
@@ -185,7 +191,6 @@
     "Media/031e0f4b79160e97b665143197a970f5_MD5.jpeg",
     "Media/Pasted image 20260401094344.png",
     "Media/62494ebe7e9cca4108538dd8eddc704c_MD5.jpeg",
-    "Media/Pasted image 20260401094228.png",
     "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN",
     "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy/Notes.md",
@@ -203,9 +208,7 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging",
     "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode",
     "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT",
     "OE/Section 04 - FTD and Zone Based Firewalls/01 - FTD Course Information/Notes.md",
     "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
@@ -216,8 +219,6 @@
     "OE/Section 03 - VPNs/22 - Cisco Anyconnect VPN/Notes.md",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
-    "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md",
-    "OE/Section 03 - VPNs/20 - FlexVPN SVTI to DVTI Multipoint/Notes.md",
-    "OE/Section 03 - VPNs/19 - FlexVPN SVTI to DVTI Point-2-Point/Notes.md"
+    "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md"
   ]
 }
