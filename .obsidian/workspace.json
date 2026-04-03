@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 05 - ISE/05 - Certificate Management in ISE/Notes.md",
+                "file": "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,19 +174,22 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
-    "OE/Section 05 - ISE/04 - 802.1x Theory/Notes.md",
+    "Media/6002d9c33ccca6648665ae4662b1e303_MD5.jpeg",
+    "Media/Pasted image 20260403103151.png",
+    "Media/3e62108af740a5030434f21e96c91d4b_MD5.jpeg",
+    "Media/Pasted image 20260403103056.png",
+    "Media/6dcb5ff0d42aa6d6045b8ca6622393e6_MD5.jpeg",
+    "Media/Pasted image 20260403103013.png",
+    "Media/283724063c17946a9dd0f59043b06ad5_MD5.jpeg",
+    "Media/Pasted image 20260403103000.png",
+    "Media/57c49991ab5721175079d62aa858293d_MD5.jpeg",
+    "Media/Pasted image 20260403102858.png",
     "OE/Section 05 - ISE/05 - Certificate Management in ISE/Notes.md",
+    "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
+    "OE/Section 05 - ISE/06 - Configuring AAA",
+    "Media/5f60212c00106c74bad192e87a057fbb_MD5.jpeg",
+    "OE/Section 05 - ISE/04 - 802.1x Theory/Notes.md",
     "OE/Section 05 - ISE/05 - Certificate Management in ISE",
-    "Media/7862e298481b39c1459096f2b7e43c18_MD5.jpeg",
-    "Media/Pasted image 20260403100358.png",
-    "Media/ef2996197576851cf8325a5210da6c1d_MD5.jpeg",
-    "Media/Pasted image 20260403100327.png",
-    "Media/68bad656daeacdf9be95ae0d4f61615a_MD5.jpeg",
-    "Media/Pasted image 20260403100248.png",
-    "Media/16d8bcb95392ba8dd4490e842ccaf0d9_MD5.jpeg",
-    "Media/Pasted image 20260403100219.png",
-    "Media/d26d654c7130ecc468c7e3e02f124d3c_MD5.jpeg",
-    "Media/Pasted image 20260403100209.png",
     "OE/Section 05 - ISE/03 - ISE Identity Management/Notes.md",
     "OE/Section 05 - ISE/04 - 802.1x Theory",
     "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
@@ -204,7 +207,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN",
     "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability",
     "OE/Section 04 - FTD and Zone Based Firewalls/09 - FTD Intrusion Policy & Logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/08 - FTD File-based policy & Logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging/Notes.md",
@@ -217,8 +219,6 @@
     "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
     "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles/Notes.md",
-    "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md",
-    "OE/Section 03 - VPNs/24 - Lan to Lan tunnel between routers passing through Cisco ASA/Notes.md",
-    "OE/Section 03 - VPNs/23 - Cisco ASA WebSSL VPN/Notes.md"
+    "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md"
   ]
 }
