@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 05 - ISE/01 - Introduction/Notes.md",
+                "file": "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,12 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
-    "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
+    "Media/4eff45da5d01ac462ef9dd862c27d7d7_MD5.jpeg",
+    "Media/Pasted image 20260403085118.png",
+    "Media/49009ada8514825240be391ac3a24293_MD5.jpeg",
+    "Media/Pasted image 20260403085027.png",
     "OE/Section 05 - ISE/01 - Introduction/Notes.md",
+    "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
     "OE/Section 05 - ISE/02 - What is AAA",
     "Media/a1ced5cd6489a9e0f1656736dd5df0d1_MD5.jpeg",
     "Media/Pasted image 20260403084504.png",
@@ -188,9 +192,6 @@
     "Media/3f772afbd93ac508eeac60fe4923567c_MD5.jpeg",
     "Media/Pasted image 20260401113911.png",
     "Media/bccf385d61722e00e89ddf78c7624e47_MD5.jpeg",
-    "Media/Pasted image 20260401113535.png",
-    "Media/18a699aba00cbb0651e53e9a2468e570_MD5.jpeg",
-    "Media/Pasted image 20260401102518.png",
     "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab",
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory",
@@ -218,7 +219,6 @@
     "OE/Section 03 - VPNs/24 - Lan to Lan tunnel between routers passing through Cisco ASA/Notes.md",
     "OE/Section 03 - VPNs/23 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/22 - Cisco Anyconnect VPN/Notes.md",
-    "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
-    "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md"
+    "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md"
   ]
 }
