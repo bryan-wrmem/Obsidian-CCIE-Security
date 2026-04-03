@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
+                "file": "OE/Section 05 - ISE/04 - 802.1x Theory/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,20 +174,23 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
-    "Media/66580428649c05a1480298d43a77ff4d_MD5.jpeg",
-    "Media/Pasted image 20260403085550.png",
-    "Media/4bd599e5900971cb14af9a681bff30ad_MD5.jpeg",
-    "Media/Pasted image 20260403085458.png",
-    "Media/9162e8e9a01d0fa880f9612997e414d6_MD5.jpeg",
-    "Media/Pasted image 20260403085426.png",
-    "Media/4eff45da5d01ac462ef9dd862c27d7d7_MD5.jpeg",
-    "Media/Pasted image 20260403085118.png",
-    "Media/49009ada8514825240be391ac3a24293_MD5.jpeg",
-    "Media/Pasted image 20260403085027.png",
-    "OE/Section 05 - ISE/01 - Introduction/Notes.md",
+    "OE/Section 05 - ISE/03 - ISE Identity Management/Notes.md",
+    "OE/Section 05 - ISE/04 - 802.1x Theory/Notes.md",
+    "OE/Section 05 - ISE/04 - 802.1x Theory",
+    "Media/30900bec0f10565d7eb957c8f8293429_MD5.jpeg",
+    "Media/Pasted image 20260403092335.png",
+    "Media/310890b4f9cae518fd7a9156cdbd700e_MD5.jpeg",
+    "Media/Pasted image 20260403092321.png",
+    "Media/f74127a61c0d16d13884221a52068647_MD5.jpeg",
+    "Media/Pasted image 20260403092229.png",
+    "Media/a990a4c9363e32b3f2c27c7338fe2115_MD5.jpeg",
+    "Media/Pasted image 20260403092159.png",
+    "Media/17329aa34232155180f899120d475c98_MD5.jpeg",
+    "Media/Pasted image 20260403092125.png",
     "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
+    "OE/Section 05 - ISE/03 - ISE Identity Management",
+    "OE/Section 05 - ISE/01 - Introduction/Notes.md",
     "OE/Section 05 - ISE/02 - What is AAA",
-    "Media/a1ced5cd6489a9e0f1656736dd5df0d1_MD5.jpeg",
     "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab/Notes.md",
     "OE/Section 05 - ISE/01 - Introduction",
     "OE/Section 05 - ISE",
@@ -203,9 +206,7 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/09 - FTD Intrusion Policy & Logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy",
     "OE/Section 04 - FTD and Zone Based Firewalls/08 - FTD File-based policy & Logging/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/09 - FTD Intrusion Policy & Logging",
     "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/08 - FTD File-based policy & Logging",
     "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md",
     "OE/Section 03 - VPNs/24 - Lan to Lan tunnel between routers passing through Cisco ASA/Notes.md",
     "OE/Section 03 - VPNs/23 - Cisco ASA WebSSL VPN/Notes.md",
-    "OE/Section 03 - VPNs/22 - Cisco Anyconnect VPN/Notes.md",
-    "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md"
+    "OE/Section 03 - VPNs/22 - Cisco Anyconnect VPN/Notes.md"
   ]
 }
