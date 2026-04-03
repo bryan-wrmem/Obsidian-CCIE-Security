@@ -174,8 +174,12 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
-    "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab/Notes.md",
+    "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
     "OE/Section 05 - ISE/01 - Introduction/Notes.md",
+    "OE/Section 05 - ISE/02 - What is AAA",
+    "Media/a1ced5cd6489a9e0f1656736dd5df0d1_MD5.jpeg",
+    "Media/Pasted image 20260403084504.png",
+    "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab/Notes.md",
     "OE/Section 05 - ISE/01 - Introduction",
     "OE/Section 05 - ISE",
     "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory/Notes.md",
@@ -191,8 +195,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
-    "Media/9eb1f3a235703b5a3f3c911668dc4323_MD5.jpeg",
-    "Media/Pasted image 20260401094452.png",
     "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN",
     "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy/Notes.md",
@@ -204,7 +206,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/08 - FTD File-based policy & Logging",
     "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging",
     "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 03 - VPNs/23 - Cisco ASA WebSSL VPN/Notes.md",
     "OE/Section 03 - VPNs/22 - Cisco Anyconnect VPN/Notes.md",
     "OE/Section 02 - ASA/24 - Cisco ASA WebSSL VPN/Notes.md",
-    "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md",
-    "OE/Section 02 - ASA/22 - Cisco ASA Lan to Lan VPN/Notes.md"
+    "OE/Section 02 - ASA/23 - Cisco Anyconnect VPN/Notes.md"
   ]
 }
