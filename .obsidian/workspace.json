@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
+                "file": "OE/Section 05 - ISE/07 - ISE Profiling Probes/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,19 +174,21 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/9b55e30327a13d78480bff69892c4797_MD5.jpeg",
+    "Media/Pasted image 20260403105838.png",
+    "Media/44cec46288187c0381a98f9f4dfeb2c8_MD5.jpeg",
+    "Media/Pasted image 20260403105722.png",
+    "Media/a53d937e4793f37558d556f5edb0d9f4_MD5.jpeg",
+    "Media/Pasted image 20260403105708.png",
+    "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
+    "OE/Section 05 - ISE/07 - ISE Profiling Probes/Notes.md",
+    "OE/Section 05 - ISE/07 - ISE Profiling Probes",
+    "Media/7ccd7b9912f5265c6af75caa5e0cb540_MD5.jpeg",
+    "Media/Pasted image 20260403105332.png",
     "Media/31f2fb17446ba427652a26d168512d81_MD5.jpeg",
     "Media/Pasted image 20260403105003.png",
     "Media/63d9a8c3f43d28f7250486445e3ad0e9_MD5.jpeg",
-    "Media/Pasted image 20260403104622.png",
-    "Media/6002d9c33ccca6648665ae4662b1e303_MD5.jpeg",
-    "Media/Pasted image 20260403103151.png",
-    "Media/3e62108af740a5030434f21e96c91d4b_MD5.jpeg",
-    "Media/Pasted image 20260403103056.png",
-    "Media/6dcb5ff0d42aa6d6045b8ca6622393e6_MD5.jpeg",
-    "Media/Pasted image 20260403103013.png",
-    "Media/283724063c17946a9dd0f59043b06ad5_MD5.jpeg",
     "OE/Section 05 - ISE/05 - Certificate Management in ISE/Notes.md",
-    "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
     "OE/Section 05 - ISE/06 - Configuring AAA",
     "OE/Section 05 - ISE/04 - 802.1x Theory/Notes.md",
     "OE/Section 05 - ISE/05 - Certificate Management in ISE",
@@ -205,7 +207,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN",
     "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/09 - FTD Intrusion Policy & Logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/08 - FTD File-based policy & Logging/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/01 - FTD Course Information/Notes.md",
     "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md",
-    "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles/Notes.md",
-    "OE/Section 03 - VPNs/21 - Cisco ASA IKEV1 Lan to Lan VPN/Notes.md"
+    "OE/Section 03 - VPNs/26 - Cisco ASA anyconnect VPN with multiple profiles/Notes.md"
   ]
 }
