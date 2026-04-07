@@ -59,6 +59,6 @@ Accounting VLAN 20
 
 Create Policy Set
 
-[Open: Pasted image 20260407095956.png](../../../Media/86db11d68a197ee34c622454521d8009_MD5.jpeg)
-![](../../../Media/86db11d68a197ee34c622454521d8009_MD5.jpeg)
+[Open: Pasted image 20260407100457.png](../../../Media/0e8a71544d9ec39bd2ca0cc31b523340_MD5.jpeg)
+![](../../../Media/0e8a71544d9ec39bd2ca0cc31b523340_MD5.jpeg)
 
