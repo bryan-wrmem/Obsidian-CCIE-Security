@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration/Notes.md",
+                "file": "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,12 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration/Notes.md",
+    "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md",
+    "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE",
     "Media/911b04306e1e99c2fc98dc681a15a1ed_MD5.jpeg",
     "Media/Pasted image 20260405151823.png",
     "OE/Section 05 - ISE/07 - ISE Profiling Probes/Notes.md",
-    "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration/Notes.md",
     "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration",
     "Media/74e45340778e05925ec833689d5f0c95_MD5.jpeg",
     "Media/Pasted image 20260403111354.png",
@@ -187,7 +189,6 @@
     "Media/Pasted image 20260403111244.png",
     "Media/972516318c5720519300a4e83bcabf9f_MD5.jpeg",
     "Media/Pasted image 20260403111139.png",
-    "Media/e572426f78b2092eea8d9743c7ce2edd_MD5.jpeg",
     "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
     "OE/Section 05 - ISE/07 - ISE Profiling Probes",
     "OE/Section 05 - ISE/05 - Certificate Management in ISE/Notes.md",
@@ -204,7 +205,6 @@
     "OE/Section 05 - ISE/01 - Introduction",
     "OE/Section 05 - ISE",
     "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab",
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability/Notes.md",
