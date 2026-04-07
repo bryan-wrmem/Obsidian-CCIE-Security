@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md",
+                "file": "OE/Section 05 - ISE/10 - Configuring dot1x on Switch and authenticating PCs using ISE/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,12 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
-    "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration/Notes.md",
+    "Media/74988ea0a42a9d26210b4a6738abb418_MD5.jpeg",
+    "Media/Pasted image 20260407091010.png",
     "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md",
+    "OE/Section 05 - ISE/10 - Configuring dot1x on Switch and authenticating PCs using ISE/Notes.md",
+    "OE/Section 05 - ISE/10 - Configuring dot1x on Switch and authenticating PCs using ISE",
+    "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration/Notes.md",
     "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE",
     "Media/911b04306e1e99c2fc98dc681a15a1ed_MD5.jpeg",
     "Media/Pasted image 20260405151823.png",
@@ -188,7 +192,6 @@
     "Media/1003c2e8bf23c3843c471f4a60c47571_MD5.jpeg",
     "Media/Pasted image 20260403111244.png",
     "Media/972516318c5720519300a4e83bcabf9f_MD5.jpeg",
-    "Media/Pasted image 20260403111139.png",
     "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
     "OE/Section 05 - ISE/07 - ISE Profiling Probes",
     "OE/Section 05 - ISE/05 - Certificate Management in ISE/Notes.md",
@@ -203,7 +206,6 @@
     "OE/Section 05 - ISE/02 - What is AAA",
     "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab/Notes.md",
     "OE/Section 05 - ISE/01 - Introduction",
-    "OE/Section 05 - ISE",
     "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
@@ -217,8 +219,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/01 - FTD Course Information/Notes.md",
-    "OE/Section 03 - VPNs/27 - FTD Site-2-Site VPN/Notes.md",
-    "OE/Section 03 - VPNs/25 - Cisco ASA IKEv2 LAN to LAN VPN/Notes.md"
+    "OE/Section 04 - FTD and Zone Based Firewalls/01 - FTD Course Information/Notes.md"
   ]
 }
