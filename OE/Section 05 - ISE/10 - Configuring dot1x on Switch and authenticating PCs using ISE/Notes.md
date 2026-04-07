@@ -32,8 +32,13 @@ dot1x pae authenticator
 no shut
 ```
 
-Create local ISE users
+Create local identity group
 
 [Open: Pasted image 20260407091010.png](../../../Media/74988ea0a42a9d26210b4a6738abb418_MD5.jpeg)
 ![](../../../Media/74988ea0a42a9d26210b4a6738abb418_MD5.jpeg)
+
+Create local users
+
+[Open: Pasted image 20260407091414.png](../../../Media/5dade4502860e7f15e0db77c22ee8405_MD5.jpeg)
+![](../../../Media/5dade4502860e7f15e0db77c22ee8405_MD5.jpeg)
 
