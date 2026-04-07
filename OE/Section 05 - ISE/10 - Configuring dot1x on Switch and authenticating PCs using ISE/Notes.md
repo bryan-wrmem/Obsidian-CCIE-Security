@@ -42,3 +42,18 @@ Create local users
 [Open: Pasted image 20260407091414.png](../../../Media/5dade4502860e7f15e0db77c22ee8405_MD5.jpeg)
 ![](../../../Media/5dade4502860e7f15e0db77c22ee8405_MD5.jpeg)
 
+Create authorization profiles
+
+Stick Sales in VLAN 10
+
+[Open: Pasted image 20260407092759.png](../../../Media/31d8e195e0c050b04b05822be8c9f113_MD5.jpeg)
+![](../../../Media/31d8e195e0c050b04b05822be8c9f113_MD5.jpeg)
+
+Accounting VLAN 20
+
+[Open: Pasted image 20260407092822.png](../../../Media/a3b472e1326e228d4dbfb65ec1333bec_MD5.jpeg)
+![](../../../Media/a3b472e1326e228d4dbfb65ec1333bec_MD5.jpeg)
+
+[Open: Pasted image 20260407092849.png](../../../Media/d067692f55685f3f14d243c3a20a7765_MD5.jpeg)
+![](../../../Media/d067692f55685f3f14d243c3a20a7765_MD5.jpeg)
+
