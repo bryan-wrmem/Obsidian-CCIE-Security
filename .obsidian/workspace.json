@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 05 - ISE/11 - Pushing DACLs/Notes.md",
+                "file": "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,20 +174,22 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/a617238ebf803a0573d862af0f074158_MD5.jpeg",
+    "Media/Pasted image 20260411102015.png",
+    "OE/Section 05 - ISE/11 - Pushing DACLs/Notes.md",
+    "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD/Notes.md",
+    "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD",
+    "Media/d59d04ce587a6625027af0b94d685e66_MD5.jpeg",
+    "Media/Pasted image 20260411101539.png",
+    "Media/4606d012598a458f34fb37e19aa85c90_MD5.jpeg",
+    "Media/Pasted image 20260411101509.png",
     "Media/a24a9f0d51879bbac8aca68513320550_MD5.jpeg",
     "Media/Pasted image 20260411101102.png",
     "Media/defc7455106407b63a7e3f84f71f81e9_MD5.jpeg",
     "Media/Pasted image 20260411101032.png",
     "OE/Section 05 - ISE/10 - Configuring dot1x on Switch and authenticating PCs using ISE/Notes.md",
-    "OE/Section 05 - ISE/11 - Pushing DACLs/Notes.md",
     "OE/Section 05 - ISE/11 - Pushing DACLs",
     "Media/0e8a71544d9ec39bd2ca0cc31b523340_MD5.jpeg",
-    "Media/Pasted image 20260407100457.png",
-    "Media/86db11d68a197ee34c622454521d8009_MD5.jpeg",
-    "Media/Pasted image 20260407095956.png",
-    "Media/d067692f55685f3f14d243c3a20a7765_MD5.jpeg",
-    "Media/Pasted image 20260407092849.png",
-    "Media/a3b472e1326e228d4dbfb65ec1333bec_MD5.jpeg",
     "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md",
     "OE/Section 05 - ISE/10 - Configuring dot1x on Switch and authenticating PCs using ISE",
     "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration/Notes.md",
@@ -205,7 +207,6 @@
     "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
     "OE/Section 05 - ISE/03 - ISE Identity Management",
     "OE/Section 05 - ISE/01 - Introduction/Notes.md",
-    "OE/Section 05 - ISE/02 - What is AAA",
     "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/05 - FTD Geolocation filtering & Logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/04 - FTD Transparent Mode/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/02 - FTD and FMC Integration + Routing Protocols LAB/Notes.md"
+    "OE/Section 04 - FTD and Zone Based Firewalls/03 - FTD Policies & NAT/Notes.md"
   ]
 }
