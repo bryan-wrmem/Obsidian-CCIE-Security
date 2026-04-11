@@ -12,3 +12,12 @@ Integrate ASA with ISE
 [Open: Pasted image 20260411114231.png](../../../Media/8e44b69a054ccee0e382fc40e4fd70d3_MD5.jpeg)
 ![](../../../Media/8e44b69a054ccee0e382fc40e4fd70d3_MD5.jpeg)
 
+[Open: Pasted image 20260411123423.png](../../../Media/fc661e6b5d8fce9a8f77bd8dfd5ac3e5_MD5.jpeg)
+![](../../../Media/fc661e6b5d8fce9a8f77bd8dfd5ac3e5_MD5.jpeg)
+
+[Open: Pasted image 20260411123516.png](../../../Media/73cb190b9fc35675e4e891d95c0fb594_MD5.jpeg)
+![](../../../Media/73cb190b9fc35675e4e891d95c0fb594_MD5.jpeg)
+
+[Open: Pasted image 20260411123607.png](../../../Media/f7546b61e7f7be22b2649d973e0475c2_MD5.jpeg)
+![](../../../Media/f7546b61e7f7be22b2649d973e0475c2_MD5.jpeg)
+
