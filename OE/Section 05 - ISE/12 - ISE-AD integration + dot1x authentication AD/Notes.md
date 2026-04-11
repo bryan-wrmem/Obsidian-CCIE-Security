@@ -15,3 +15,9 @@ https://www.cisco.com/c/en/us/support/docs/field-notices/743/fn74321.html
 [Open: Pasted image 20260411103509.png](../../../Media/d5ef96fb7b1c4c385d5b84eab3ce1077_MD5.jpeg)
 ![](../../../Media/d5ef96fb7b1c4c385d5b84eab3ce1077_MD5.jpeg)
 
+[Open: Pasted image 20260411103909.png](../../../Media/52c9a7e704b9019160a3dd56e4ccf91c_MD5.jpeg)
+![](../../../Media/52c9a7e704b9019160a3dd56e4ccf91c_MD5.jpeg)
+
+[Open: Pasted image 20260411103952.png](../../../Media/5eca4015188de88e0fd3e24618e2c982_MD5.jpeg)
+![](../../../Media/5eca4015188de88e0fd3e24618e2c982_MD5.jpeg)
+
