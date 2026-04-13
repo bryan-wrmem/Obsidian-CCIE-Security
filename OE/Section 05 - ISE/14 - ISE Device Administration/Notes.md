@@ -48,3 +48,6 @@ ISE Policy Set
 [Open: Pasted image 20260413194643.png](../../../Media/cd936cce884d2be933c6831b67de649e_MD5.jpeg)
 ![](../../../Media/cd936cce884d2be933c6831b67de649e_MD5.jpeg)
 
+[Open: Pasted image 20260413195137.png](../../../Media/794ccd569b0f586856ea377b09780101_MD5.jpeg)
+![](../../../Media/794ccd569b0f586856ea377b09780101_MD5.jpeg)
+
