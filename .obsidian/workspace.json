@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
+                "file": "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,20 +174,22 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/Pasted image 20260414184803.png",
+    "Media/Pasted image 20260414184758.png",
+    "Media/Pasted image 20260414184754.png",
+    "Media/Pasted image 20260414184743.png",
+    "Media/22d09777a878db081ab72d58cbd23154_MD5.jpeg",
+    "Media/Pasted image 20260414184729.png",
+    "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
+    "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities/Notes.md",
+    "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities",
     "Media/5c44372ed4ae159501f66bb8bfba18af_MD5.jpeg",
     "Media/Pasted image 20260414183535.png",
     "Media/3432a01f598a69baf51d8460db54bc26_MD5.jpeg",
     "Media/Pasted image 20260414183520.png",
     "Media/50dbdd65116ba05355090b3ddff9697f_MD5.jpeg",
-    "Media/Pasted image 20260414183503.png",
-    "Media/111d9ad1ca11896c00c6ee2f11367a5b_MD5.jpeg",
-    "Media/Pasted image 20260414183438.png",
-    "Media/e38427ba7e5dd60fe271876620b75eb1_MD5.jpeg",
-    "Media/Pasted image 20260414183338.png",
     "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md",
-    "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
     "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration",
-    "Media/169d39beb8de871e8b5110a743f5094d_MD5.jpeg",
     "OE/Section 05 - ISE/13 - Using ISE to authenticate Cisco Anyconnect VPN using AD/Notes.md",
     "OE/Section 05 - ISE/14 - ISE Device Administration",
     "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD/Notes.md",
@@ -205,7 +207,6 @@
     "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
     "OE/Section 05 - ISE/07 - ISE Profiling Probes",
     "OE/Section 05 - ISE/05 - Certificate Management in ISE/Notes.md",
-    "OE/Section 05 - ISE/06 - Configuring AAA",
     "OE/Section 05 - ISE/04 - 802.1x Theory/Notes.md",
     "OE/Section 05 - ISE/03 - ISE Identity Management/Notes.md",
     "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/09 - FTD Intrusion Policy & Logging/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/08 - FTD File-based policy & Logging/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/06 - FTD URL filtering & logging/Notes.md"
+    "OE/Section 04 - FTD and Zone Based Firewalls/07 - FTD Application Visibility Control & Logging/Notes.md"
   ]
 }
