@@ -172,8 +172,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d8ba848967611fae",
+  "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/e63792d8007ae3b629a0cc5ec97d1f68_MD5.jpeg",
+    "Media/Pasted image 20260415124938.png",
+    "Media/fb09033137d5f306bbd2c1db78e0e241_MD5.jpeg",
+    "Media/Pasted image 20260415124830.png",
     "OE/Section 05 - ISE/17 - Assigning authorisation polices to User identities based on access and testing/Notes.md",
     "OE/Section 06 - WSA & ESA/01 - ESA Theory and Basics/Notes.md",
     "OE/Section 06 - WSA & ESA/01 - ESA Theory and Basics",
@@ -188,9 +192,6 @@
     "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities/Notes.md",
     "OE/Section 05 - ISE/17 - Assigning authorisation polices to User identities based on access and testing",
     "Media/Pasted image 20260414184803.png",
-    "Media/Pasted image 20260414184758.png",
-    "Media/Pasted image 20260414184754.png",
-    "Media/Pasted image 20260414184743.png",
     "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
     "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities",
     "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN/Notes.md",
     "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/09 - FTD Intrusion Policy & Logging/Notes.md"
+    "OE/Section 04 - FTD and Zone Based Firewalls/10 - Custom FTD Intrusion Policy/Notes.md"
   ]
 }
