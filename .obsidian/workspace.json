@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 06 - WSA & ESA/03 -  WSA Theory and Basics/Notes.md",
+                "file": "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,10 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
-    "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
+    "Media/30ace796a637d8b858af6cdadc4ab19d_MD5.jpeg",
+    "Media/Pasted image 20260419094743.png",
     "OE/Section 06 - WSA & ESA/03 -  WSA Theory and Basics/Notes.md",
+    "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
     "Media/5891c1ac7886cc0e35107dc0a9164295_MD5.jpeg",
     "Media/Pasted image 20260415130404.png",
     "Media/9532abceb9a1364f848198283bd0847b_MD5.jpeg",
@@ -188,7 +190,6 @@
     "Media/3319ad212c3563414b67828997c6552a_MD5.jpeg",
     "Media/Pasted image 20260415125720.png",
     "Media/e4002673e6815ea2d42cf11b8dfd111d_MD5.jpeg",
-    "Media/Pasted image 20260415125504.png",
     "OE/Section 05 - ISE/17 - Assigning authorisation polices to User identities based on access and testing/Notes.md",
     "OE/Section 06 - WSA & ESA/01 - ESA Theory and Basics",
     "OE/Section 06 - WSA & ESA/Untitled.md",
@@ -218,7 +219,6 @@
     "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/13 - ZBF Theory/Notes.md",
     "OE/Section 04 - FTD and Zone Based Firewalls/12 - FTD Site-2-Site VPN/Notes.md",
-    "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/11 - FTD High Availability/Notes.md"
+    "OE/Section 03 - VPNs/17 - IKEv2 Site-2-Site or Lan-2-Lan tunnel/Notes.md"
   ]
 }
