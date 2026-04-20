@@ -31,3 +31,6 @@ Configure RAT to contain email domain
 [Open: Pasted image 20260419192134.png](../../../Media/679d6912eb6eb835eee304ad62656c06_MD5.jpeg)
 ![](../../../Media/679d6912eb6eb835eee304ad62656c06_MD5.jpeg)
 
+[Open: Pasted image 20260419200944.png](../../../Media/70c8a23504be6a5755a71c8b0264407a_MD5.jpeg)
+![](../../../Media/70c8a23504be6a5755a71c8b0264407a_MD5.jpeg)
+
