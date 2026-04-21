@@ -1,0 +1,10 @@
+[Open: Pasted image 20260415130057.png](487050a946be85db078994c7814ac1d8_MD5.jpeg)
+![](487050a946be85db078994c7814ac1d8_MD5.jpeg)
+
+[Open: Pasted image 20260415130109.png](9532abceb9a1364f848198283bd0847b_MD5.jpeg)
+![](9532abceb9a1364f848198283bd0847b_MD5.jpeg)
+
+[Open: Pasted image 20260415130404.png](5891c1ac7886cc0e35107dc0a9164295_MD5.jpeg)
+![](5891c1ac7886cc0e35107dc0a9164295_MD5.jpeg)
+
+ 
