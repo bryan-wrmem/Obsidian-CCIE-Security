@@ -45,3 +45,24 @@ May be asked to change HTTP Ports
 [Open: Pasted image 20260421191426.png](../../../Media/e85db974798d89d555818cdc2c7f9bf4_MD5.jpeg)
 ![](../../../Media/e85db974798d89d555818cdc2c7f9bf4_MD5.jpeg)
 
+## Configure WSA for WCCP
+
+[Open: Pasted image 20260421193157.png](../../../Media/841ddc7ef255652556cc7d62fa4aa448_MD5.jpeg)
+![](../../../Media/841ddc7ef255652556cc7d62fa4aa448_MD5.jpeg)
+
+[Open: Pasted image 20260421193224.png](../../../Media/a56ca0dffcc226ad96d31c66bd3b3239_MD5.jpeg)
+![](../../../Media/a56ca0dffcc226ad96d31c66bd3b3239_MD5.jpeg)
+
+[Open: Pasted image 20260421193306.png](../../../Media/50f229e55af0284069be25c754542432_MD5.jpeg)
+![](../../../Media/50f229e55af0284069be25c754542432_MD5.jpeg)
+
+[Open: Pasted image 20260421193500.png](../../../Media/f735e80b9d4c8149a55355d7ec03e8a8_MD5.jpeg)
+![](../../../Media/f735e80b9d4c8149a55355d7ec03e8a8_MD5.jpeg)
+
+(wccp pass: cisco123)
+
+[Open: Pasted image 20260421193552.png](../../../Media/59ece63a3c50e8d8180b5c2bddc3d67b_MD5.jpeg)
+![](../../../Media/59ece63a3c50e8d8180b5c2bddc3d67b_MD5.jpeg)
+
+## WCCP Config on SW/Router
+
