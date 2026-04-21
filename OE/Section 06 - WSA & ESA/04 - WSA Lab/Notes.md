@@ -27,3 +27,12 @@
 [Open: Pasted image 20260421185803.png](../../../Media/c0a5b23b551b54347dbdf285a7726d46_MD5.jpeg)
 ![](../../../Media/c0a5b23b551b54347dbdf285a7726d46_MD5.jpeg)
 
+[Open: Pasted image 20260421190420.png](../../../Media/0f601cd41a06ab6307af58584d923916_MD5.jpeg)
+![](../../../Media/0f601cd41a06ab6307af58584d923916_MD5.jpeg)
+
+[Open: Pasted image 20260421190503.png](../../../Media/90cecf4375fd55a7f66f7de5af84bada_MD5.jpeg)
+![](../../../Media/90cecf4375fd55a7f66f7de5af84bada_MD5.jpeg)
+
+[Open: Pasted image 20260421190526.png](../../../Media/e0ba8d740961b69b61ba11d995c0758e_MD5.jpeg)
+![](../../../Media/e0ba8d740961b69b61ba11d995c0758e_MD5.jpeg)
+
