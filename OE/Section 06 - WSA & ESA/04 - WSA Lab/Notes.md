@@ -76,5 +76,13 @@ access-list 102 permit tcp any any eq 443
 
 
 ip wccp 1 redirect-list 102 group-list 1 password cisco123
+
+! Configure WCCP Redirection
+
+int vlan 10
+ip wccp 1 redirect in
+
+int vlan 20
+ip wccp 1 redirect in
 ```
 
