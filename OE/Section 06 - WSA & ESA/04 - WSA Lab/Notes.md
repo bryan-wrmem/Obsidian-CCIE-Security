@@ -66,3 +66,15 @@ May be asked to change HTTP Ports
 
 ## WCCP Config on SW/Router
 
+```
+! Access list to permit traffic to WSA
+access-list 1 permit 10.254.254.33
+
+! Access list for web traffic
+access-list 102 permit tcp any any eq 80
+access-list 102 permit tcp any any eq 443
+
+
+ip wccp 1 redirect-list 102 group-list 1 password cisco123
+```
+
