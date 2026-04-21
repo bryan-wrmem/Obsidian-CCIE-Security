@@ -36,3 +36,12 @@
 [Open: Pasted image 20260421190526.png](../../../Media/e0ba8d740961b69b61ba11d995c0758e_MD5.jpeg)
 ![](../../../Media/e0ba8d740961b69b61ba11d995c0758e_MD5.jpeg)
 
+## Additional Settings to know for exam
+
+Security Settings -> Web Proxy
+
+May be asked to change HTTP Ports
+
+[Open: Pasted image 20260421191426.png](../../../Media/e85db974798d89d555818cdc2c7f9bf4_MD5.jpeg)
+![](../../../Media/e85db974798d89d555818cdc2c7f9bf4_MD5.jpeg)
+
