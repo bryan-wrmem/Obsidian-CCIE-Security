@@ -97,3 +97,6 @@ ip wccp 1 redirect in
 [Open: Pasted image 20260421201326.png](../../../Media/df86021a498626d85808555ba5c130dc_MD5.jpeg)
 ![](../../../Media/df86021a498626d85808555ba5c130dc_MD5.jpeg)
 
+[Open: Pasted image 20260421201851.png](../../../Media/6359a0997a3d218b2364f7c65e263366_MD5.jpeg)
+![](../../../Media/6359a0997a3d218b2364f7c65e263366_MD5.jpeg)
+
