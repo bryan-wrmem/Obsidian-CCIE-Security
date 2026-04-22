@@ -17,6 +17,18 @@ ip dhcp snooping vlan 10
 
 # Note - all dhcp will stop functioning unless we add trusted interface, interfaces that go to the authorized dhcp server
 
+# Need to configure e0/0 as a trused itnerface
 
+int e0/0
+	ip dhcp snooping trust
 
+# In certain Cisco environments you may need to disable sending dhcp options
+
+no ip dhcp snooping information option
+
+# In the topology, we also need to add trust to the firewall facing interface that is doing relay
+
+int e0/3
+	ip dhcp snooping trust
+	
 ```
