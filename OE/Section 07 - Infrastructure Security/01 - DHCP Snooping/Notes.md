@@ -4,3 +4,10 @@ Importance of DHCP snooping
 
 Prevents rogue/untrusted dhcp servers from handing out IP addresses to clients
 
+LAN Switch Config (main core)
+
+```
+ip dhcp snooping
+
+
+```
