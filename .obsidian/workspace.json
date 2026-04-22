@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
+                "file": "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,9 +174,11 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
+    "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
+    "OE/Section 07 - Infrastructure Security/02 - ARP Inspection",
     "Media/Pasted image 20260421204642.png",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
-    "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping",
     "OE/Section 07 - Infrastructure Security",
     "Media/6359a0997a3d218b2364f7c65e263366_MD5.jpeg",
@@ -188,7 +190,6 @@
     "Media/cd4ed7bf067de50379ca76b94469259f_MD5.jpeg",
     "Media/Pasted image 20260421200752.png",
     "Media/59ece63a3c50e8d8180b5c2bddc3d67b_MD5.jpeg",
-    "Media/Pasted image 20260421193552.png",
     "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab",
     "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics/Notes.md",
@@ -204,7 +205,6 @@
     "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
     "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities",
     "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md",
-    "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration",
     "OE/Section 05 - ISE/13 - Using ISE to authenticate Cisco Anyconnect VPN using AD/Notes.md",
     "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD/Notes.md",
     "OE/Section 05 - ISE/11 - Pushing DACLs/Notes.md",
