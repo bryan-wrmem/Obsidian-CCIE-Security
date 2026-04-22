@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
+                "file": "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,8 +172,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d8ba848967611fae",
+  "active": "35015613008352b9",
   "lastOpenFiles": [
+    "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
+    "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
+    "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping",
     "OE/Section 07 - Infrastructure Security",
     "Media/6359a0997a3d218b2364f7c65e263366_MD5.jpeg",
     "Media/Pasted image 20260421201851.png",
@@ -186,7 +189,6 @@
     "Media/59ece63a3c50e8d8180b5c2bddc3d67b_MD5.jpeg",
     "Media/Pasted image 20260421193552.png",
     "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
-    "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab",
     "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics/Notes.md",
     "OE/Section 06 - WSA & ESA/01 - ESA Theory and Basics/Notes.md",
@@ -203,9 +205,7 @@
     "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md",
     "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration",
     "OE/Section 05 - ISE/13 - Using ISE to authenticate Cisco Anyconnect VPN using AD/Notes.md",
-    "OE/Section 05 - ISE/14 - ISE Device Administration",
     "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD/Notes.md",
-    "OE/Section 05 - ISE/13 - Using ISE to authenticate Cisco Anyconnect VPN using AD",
     "OE/Section 05 - ISE/11 - Pushing DACLs/Notes.md",
     "OE/Section 05 - ISE/10 - Configuring dot1x on Switch and authenticating PCs using ISE/Notes.md",
     "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md",
