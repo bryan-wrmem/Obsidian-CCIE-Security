@@ -89,3 +89,11 @@ ip wccp 1 redirect in
 [Open: Pasted image 20260421200752.png](../../../Media/cd4ed7bf067de50379ca76b94469259f_MD5.jpeg)
 ![](../../../Media/cd4ed7bf067de50379ca76b94469259f_MD5.jpeg)
 
+## Create differentiated policies based on identity/subnet
+
+[Open: Pasted image 20260421201228.png](../../../Media/8137fd530b715e76ccabb2c9bbd9ea3a_MD5.jpeg)
+![](../../../Media/8137fd530b715e76ccabb2c9bbd9ea3a_MD5.jpeg)
+
+[Open: Pasted image 20260421201326.png](../../../Media/df86021a498626d85808555ba5c130dc_MD5.jpeg)
+![](../../../Media/df86021a498626d85808555ba5c130dc_MD5.jpeg)
+
