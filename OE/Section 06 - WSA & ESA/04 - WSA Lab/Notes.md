@@ -86,3 +86,6 @@ int vlan 20
 ip wccp 1 redirect in
 ```
 
+[Open: Pasted image 20260421200752.png](../../../Media/cd4ed7bf067de50379ca76b94469259f_MD5.jpeg)
+![](../../../Media/cd4ed7bf067de50379ca76b94469259f_MD5.jpeg)
+
