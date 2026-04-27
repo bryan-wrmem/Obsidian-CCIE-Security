@@ -7,7 +7,18 @@ ARP (Address Resolution Protocol) poisoning, also known as **ARP spoofing**, is 
 
 
 ```
-# command to create a static mac address/ip entry
+# command to create a static mac address/ip binding
 
 ip source binding xxxx.xxxx.xxxx vlan 100 192.168.10.3 int e1/0
+```
+
+[Open: Pasted image 20260427193714.png](../../../Media/31c2535251e4613362b107977b2282c2_MD5.jpeg)
+![](../../../Media/31c2535251e4613362b107977b2282c2_MD5.jpeg)
+
+```
+# enable ip arp inspection on interface pointing to dhcp server
+
+int e0/0
+	description to dhcp server
+	ip arp inspection trust
 ```

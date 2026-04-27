@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
+                "file": "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,15 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/Pasted image 20260427194107.png",
+    "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
+    "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
+    "OE/Section 07 - Infrastructure Security/03 - Port Security",
+    "Media/31c2535251e4613362b107977b2282c2_MD5.jpeg",
+    "Media/Pasted image 20260427193714.png",
     "Media/eb1c3a596e51f982db1a2c6c35174802_MD5.jpeg",
     "Media/Pasted image 20260427190625.png",
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
-    "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection",
     "Media/Pasted image 20260421204642.png",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
@@ -188,9 +193,6 @@
     "Media/df86021a498626d85808555ba5c130dc_MD5.jpeg",
     "Media/Pasted image 20260421201326.png",
     "Media/8137fd530b715e76ccabb2c9bbd9ea3a_MD5.jpeg",
-    "Media/Pasted image 20260421201228.png",
-    "Media/cd4ed7bf067de50379ca76b94469259f_MD5.jpeg",
-    "Media/Pasted image 20260421200752.png",
     "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab",
     "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics/Notes.md",
@@ -204,7 +206,6 @@
     "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities/Notes.md",
     "OE/Section 05 - ISE/17 - Assigning authorisation polices to User identities based on access and testing",
     "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
-    "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities",
     "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md",
     "OE/Section 05 - ISE/13 - Using ISE to authenticate Cisco Anyconnect VPN using AD/Notes.md",
     "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 05 - ISE/04 - 802.1x Theory/Notes.md",
     "OE/Section 05 - ISE/03 - ISE Identity Management/Notes.md",
     "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
-    "OE/Section 05 - ISE/01 - Introduction/Notes.md",
-    "OE/Section 04 - FTD and Zone Based Firewalls/14 - ZBF Lab/Notes.md"
+    "OE/Section 05 - ISE/01 - Introduction/Notes.md"
   ]
 }
