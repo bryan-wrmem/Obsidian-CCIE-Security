@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING/Notes.md",
+                "file": "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,10 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
-    "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing/Notes.md",
     "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING/Notes.md",
+    "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md",
+    "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers",
+    "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing/Notes.md",
     "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING",
     "OE/Section 07 - Infrastructure Security/05 - VLAN ACLs/Notes.md",
     "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing",
@@ -204,7 +206,6 @@
     "OE/Section 06 - WSA & ESA/04 - WSA Lab",
     "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics/Notes.md",
     "OE/Section 06 - WSA & ESA/01 - ESA Theory and Basics/Notes.md",
-    "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics",
     "OE/Section 05 - ISE/17 - Assigning authorisation polices to User identities based on access and testing/Notes.md",
     "OE/Section 06 - WSA & ESA/Untitled.md",
     "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration/Notes.md",
     "OE/Section 05 - ISE/07 - ISE Profiling Probes/Notes.md",
     "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
-    "OE/Section 05 - ISE/05 - Certificate Management in ISE/Notes.md",
-    "OE/Section 05 - ISE/04 - 802.1x Theory/Notes.md"
+    "OE/Section 05 - ISE/05 - Certificate Management in ISE/Notes.md"
   ]
 }
