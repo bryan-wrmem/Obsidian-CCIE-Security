@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
+                "file": "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,11 +174,17 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "OE/Section 07 - Infrastructure Security/05 - VLAN ACLs/Notes.md",
+    "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing/Notes.md",
+    "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing",
+    "OE/Section 07 - Infrastructure Security/04 - IP source guard on Switches/Notes.md",
+    "OE/Section 07 - Infrastructure Security/05 - VLAN ACLs",
+    "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
+    "OE/Section 07 - Infrastructure Security/04 - IP source guard on Switches",
     "Media/0231377246c7ca418773a8a45e4cc56f_MD5.png",
     "Media/8dc5146d35610bd812deaa93de2fa577_MD5.png",
     "Media/Pasted image 20260427194107.png",
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
-    "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
     "OE/Section 07 - Infrastructure Security/03 - Port Security",
     "Media/31c2535251e4613362b107977b2282c2_MD5.jpeg",
     "Media/Pasted image 20260427193714.png",
@@ -192,7 +198,6 @@
     "OE/Section 07 - Infrastructure Security",
     "Media/6359a0997a3d218b2364f7c65e263366_MD5.jpeg",
     "Media/Pasted image 20260421201851.png",
-    "Media/df86021a498626d85808555ba5c130dc_MD5.jpeg",
     "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab",
     "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics/Notes.md",
@@ -200,11 +205,8 @@
     "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics",
     "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB",
     "OE/Section 05 - ISE/17 - Assigning authorisation polices to User identities based on access and testing/Notes.md",
-    "OE/Section 06 - WSA & ESA/01 - ESA Theory and Basics",
     "OE/Section 06 - WSA & ESA/Untitled.md",
-    "OE/Section 06 - WSA & ESA",
     "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities/Notes.md",
-    "OE/Section 05 - ISE/17 - Assigning authorisation polices to User identities based on access and testing",
     "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
     "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md",
     "OE/Section 05 - ISE/13 - Using ISE to authenticate Cisco Anyconnect VPN using AD/Notes.md",
@@ -217,8 +219,6 @@
     "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
     "OE/Section 05 - ISE/05 - Certificate Management in ISE/Notes.md",
     "OE/Section 05 - ISE/04 - 802.1x Theory/Notes.md",
-    "OE/Section 05 - ISE/03 - ISE Identity Management/Notes.md",
-    "OE/Section 05 - ISE/02 - What is AAA/Notes.md",
-    "OE/Section 05 - ISE/01 - Introduction/Notes.md"
+    "OE/Section 05 - ISE/03 - ISE Identity Management/Notes.md"
   ]
 }
