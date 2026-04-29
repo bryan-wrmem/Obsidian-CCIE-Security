@@ -3,3 +3,16 @@
 
 NTP - network time protocol
 
+```
+# Set time zone
+clock timezone SYD 10
+
+# Set ntp stratum
+ntp master 1
+
+# Confgure NTP authentication
+ntp authenticate
+ntp authentication-key 111 md5 Cisco123
+ntp trusted-key 111
+```
+
