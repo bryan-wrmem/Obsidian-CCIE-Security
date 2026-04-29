@@ -174,6 +174,8 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/f48c3360ed3679b4b1d9cc8dbf39129b_MD5.jpeg",
+    "Media/Pasted image 20260429190041.png",
     "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md",
     "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
     "OE/Section 07 - Infrastructure Security/09 - uRPF implementation",
@@ -198,7 +200,6 @@
     "OE/Section 07 - Infrastructure Security/03 - Port Security",
     "Media/31c2535251e4613362b107977b2282c2_MD5.jpeg",
     "Media/Pasted image 20260427193714.png",
-    "Media/eb1c3a596e51f982db1a2c6c35174802_MD5.jpeg",
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 05 - ISE/10 - Configuring dot1x on Switch and authenticating PCs using ISE/Notes.md",
     "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md",
     "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration/Notes.md",
-    "OE/Section 05 - ISE/07 - ISE Profiling Probes/Notes.md",
-    "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md"
+    "OE/Section 05 - ISE/07 - ISE Profiling Probes/Notes.md"
   ]
 }
