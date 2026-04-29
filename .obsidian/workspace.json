@@ -174,6 +174,8 @@
   },
   "active": "35015613008352b9",
   "lastOpenFiles": [
+    "Media/10d840e96eb7f2b5332dd1c827b6f34d_MD5.jpeg",
+    "Media/Pasted image 20260429130257.png",
     "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING/Notes.md",
     "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md",
     "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers",
@@ -201,7 +203,6 @@
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping",
     "OE/Section 07 - Infrastructure Security",
     "Media/6359a0997a3d218b2364f7c65e263366_MD5.jpeg",
-    "Media/Pasted image 20260421201851.png",
     "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab",
     "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md",
     "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration/Notes.md",
     "OE/Section 05 - ISE/07 - ISE Profiling Probes/Notes.md",
-    "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md",
-    "OE/Section 05 - ISE/05 - Certificate Management in ISE/Notes.md"
+    "OE/Section 05 - ISE/06 - Configuring AAA/Notes.md"
   ]
 }
