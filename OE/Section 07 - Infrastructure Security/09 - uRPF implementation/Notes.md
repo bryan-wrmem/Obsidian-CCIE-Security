@@ -10,3 +10,4 @@ int e0/0
 [Open: Pasted image 20260429190041.png](../../../Media/f48c3360ed3679b4b1d9cc8dbf39129b_MD5.jpeg)
 ![](../../../Media/f48c3360ed3679b4b1d9cc8dbf39129b_MD5.jpeg)
 
+**IP Address: 10.254.254.91**
