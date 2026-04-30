@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f3183f571a5f172",
+        "id": "5cdea685303d0a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "35015613008352b9",
+            "id": "890d14b81f58ee79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -172,12 +168,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "35015613008352b9",
+  "active": "890d14b81f58ee79",
   "lastOpenFiles": [
+    "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
     "Media/f48c3360ed3679b4b1d9cc8dbf39129b_MD5.jpeg",
     "Media/Pasted image 20260429190041.png",
     "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md",
-    "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
     "OE/Section 07 - Infrastructure Security/09 - uRPF implementation",
     "Media/a0f12884173f21a4cba19a02392a0bac_MD5.jpeg",
     "Media/Pasted image 20260429182101.png",
@@ -199,7 +195,6 @@
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
     "OE/Section 07 - Infrastructure Security/03 - Port Security",
     "Media/31c2535251e4613362b107977b2282c2_MD5.jpeg",
-    "Media/Pasted image 20260427193714.png",
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
