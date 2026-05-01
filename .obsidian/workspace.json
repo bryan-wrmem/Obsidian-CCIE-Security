@@ -11,10 +11,14 @@
             "id": "890d14b81f58ee79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW/Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes"
             }
           }
         ]
@@ -171,6 +175,8 @@
   "active": "890d14b81f58ee79",
   "lastOpenFiles": [
     "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
+    "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW/Notes.md",
+    "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW",
     "Media/f48c3360ed3679b4b1d9cc8dbf39129b_MD5.jpeg",
     "Media/Pasted image 20260429190041.png",
     "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md",
@@ -199,7 +205,6 @@
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping",
-    "OE/Section 07 - Infrastructure Security",
     "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
     "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics/Notes.md",
     "OE/Section 06 - WSA & ESA/01 - ESA Theory and Basics/Notes.md",
