@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW/Notes.md",
+                "file": "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,11 @@
   },
   "active": "890d14b81f58ee79",
   "lastOpenFiles": [
-    "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
     "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW/Notes.md",
+    "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB/Notes.md",
+    "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB",
+    "OE/Section 07 - Infrastructure Security/11.md",
+    "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
     "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW",
     "Media/f48c3360ed3679b4b1d9cc8dbf39129b_MD5.jpeg",
     "Media/Pasted image 20260429190041.png",
@@ -204,7 +207,6 @@
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
-    "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping",
     "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
     "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics/Notes.md",
     "OE/Section 06 - WSA & ESA/01 - ESA Theory and Basics/Notes.md",
@@ -217,8 +219,6 @@
     "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD/Notes.md",
     "OE/Section 05 - ISE/11 - Pushing DACLs/Notes.md",
     "OE/Section 05 - ISE/10 - Configuring dot1x on Switch and authenticating PCs using ISE/Notes.md",
-    "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md",
-    "OE/Section 05 - ISE/08 - ISE Basic configuration & Base LAB configuration/Notes.md",
-    "OE/Section 05 - ISE/07 - ISE Profiling Probes/Notes.md"
+    "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md"
   ]
 }
