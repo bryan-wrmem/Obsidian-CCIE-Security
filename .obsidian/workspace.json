@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
+                "file": "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,10 @@
   },
   "active": "890d14b81f58ee79",
   "lastOpenFiles": [
-    "OE/Section 07 - Infrastructure Security/13 - DHCP Relay/Notes.md",
+    "Media/7c327e47d9ece9ea9cecbaa1754d2729_MD5.jpeg",
+    "Media/Pasted image 20260503102016.png",
     "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
+    "OE/Section 07 - Infrastructure Security/13 - DHCP Relay/Notes.md",
     "OE/Section 08 - Stealthwatch/01 - Introduction",
     "OE/Section 08 - Stealthwatch",
     "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
@@ -207,7 +209,6 @@
     "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing",
     "OE/Section 07 - Infrastructure Security/04 - IP source guard on Switches/Notes.md",
     "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
-    "Media/0231377246c7ca418773a8a45e4cc56f_MD5.png",
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
     "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities/Notes.md",
     "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
     "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md",
-    "OE/Section 05 - ISE/13 - Using ISE to authenticate Cisco Anyconnect VPN using AD/Notes.md",
-    "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD/Notes.md"
+    "OE/Section 05 - ISE/13 - Using ISE to authenticate Cisco Anyconnect VPN using AD/Notes.md"
   ]
 }
