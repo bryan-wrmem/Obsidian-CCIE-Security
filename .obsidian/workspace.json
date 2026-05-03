@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB/Notes.md",
+                "file": "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,15 @@
   },
   "active": "890d14b81f58ee79",
   "lastOpenFiles": [
-    "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW/Notes.md",
+    "OE/Section 07 - Infrastructure Security/13 - DHCP Relay/Notes.md",
+    "Media/Pasted image 20260503095410.png",
+    "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
+    "OE/Section 07 - Infrastructure Security/13 - DHCP Relay",
     "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB/Notes.md",
+    "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router",
+    "Media/20e833dd38c3a7d3404209acd3a038e7_MD5.jpeg",
+    "Media/Pasted image 20260503094846.png",
+    "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW/Notes.md",
     "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB",
     "OE/Section 07 - Infrastructure Security/11.md",
     "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
@@ -199,13 +206,8 @@
     "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
     "OE/Section 07 - Infrastructure Security/04 - IP source guard on Switches",
     "Media/0231377246c7ca418773a8a45e4cc56f_MD5.png",
-    "Media/8dc5146d35610bd812deaa93de2fa577_MD5.png",
-    "Media/Pasted image 20260427194107.png",
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
-    "OE/Section 07 - Infrastructure Security/03 - Port Security",
-    "Media/31c2535251e4613362b107977b2282c2_MD5.jpeg",
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
-    "OE/Section 07 - Infrastructure Security/02 - ARP Inspection",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
     "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
     "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics/Notes.md",
@@ -216,9 +218,6 @@
     "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
     "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md",
     "OE/Section 05 - ISE/13 - Using ISE to authenticate Cisco Anyconnect VPN using AD/Notes.md",
-    "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD/Notes.md",
-    "OE/Section 05 - ISE/11 - Pushing DACLs/Notes.md",
-    "OE/Section 05 - ISE/10 - Configuring dot1x on Switch and authenticating PCs using ISE/Notes.md",
-    "OE/Section 05 - ISE/09 - Configuring Radius access on Switch and adding device in ISE/Notes.md"
+    "OE/Section 05 - ISE/12 - ISE-AD integration + dot1x authentication AD/Notes.md"
   ]
 }
