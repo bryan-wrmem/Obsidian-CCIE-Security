@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5cdea685303d0a4c",
+        "id": "30855acc1534d554",
         "type": "tabs",
         "children": [
           {
-            "id": "890d14b81f58ee79",
+            "id": "f3886bd055d9349c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -172,15 +168,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "890d14b81f58ee79",
+  "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
     "Media/7c327e47d9ece9ea9cecbaa1754d2729_MD5.jpeg",
     "Media/Pasted image 20260503102016.png",
     "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
     "OE/Section 07 - Infrastructure Security/13 - DHCP Relay/Notes.md",
     "OE/Section 08 - Stealthwatch/01 - Introduction",
     "OE/Section 08 - Stealthwatch",
-    "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
     "Media/Pasted image 20260503095410.png",
     "OE/Section 07 - Infrastructure Security/13 - DHCP Relay",
@@ -200,7 +196,6 @@
     "Media/a0f12884173f21a4cba19a02392a0bac_MD5.jpeg",
     "Media/Pasted image 20260429182101.png",
     "Media/10d840e96eb7f2b5332dd1c827b6f34d_MD5.jpeg",
-    "Media/Pasted image 20260429130257.png",
     "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING/Notes.md",
     "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers",
     "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing/Notes.md",
