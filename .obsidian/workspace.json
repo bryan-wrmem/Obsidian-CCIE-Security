@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
+                "file": "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,9 +174,12 @@
   },
   "active": "890d14b81f58ee79",
   "lastOpenFiles": [
-    "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
-    "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
     "OE/Section 07 - Infrastructure Security/13 - DHCP Relay/Notes.md",
+    "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
+    "OE/Section 08 - Stealthwatch/01 - Introduction",
+    "OE/Section 08 - Stealthwatch",
+    "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
+    "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
     "Media/Pasted image 20260503095410.png",
     "OE/Section 07 - Infrastructure Security/13 - DHCP Relay",
     "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB/Notes.md",
@@ -203,9 +206,7 @@
     "OE/Section 07 - Infrastructure Security/05 - VLAN ACLs/Notes.md",
     "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing",
     "OE/Section 07 - Infrastructure Security/04 - IP source guard on Switches/Notes.md",
-    "OE/Section 07 - Infrastructure Security/05 - VLAN ACLs",
     "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
-    "OE/Section 07 - Infrastructure Security/04 - IP source guard on Switches",
     "Media/0231377246c7ca418773a8a45e4cc56f_MD5.png",
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
