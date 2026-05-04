@@ -11,10 +11,14 @@
             "id": "f3886bd055d9349c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes"
             }
           }
         ]
@@ -170,6 +174,8 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "Media/01eaaa9de730ecc5ca586c35b7061ffd_MD5.jpeg",
+    "Media/Pasted image 20260504131457.png",
     "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
     "Media/7c327e47d9ece9ea9cecbaa1754d2729_MD5.jpeg",
     "Media/Pasted image 20260503102016.png",
@@ -195,7 +201,6 @@
     "OE/Section 07 - Infrastructure Security/09 - uRPF implementation",
     "Media/a0f12884173f21a4cba19a02392a0bac_MD5.jpeg",
     "Media/Pasted image 20260429182101.png",
-    "Media/10d840e96eb7f2b5332dd1c827b6f34d_MD5.jpeg",
     "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING/Notes.md",
     "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers",
     "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing/Notes.md",
