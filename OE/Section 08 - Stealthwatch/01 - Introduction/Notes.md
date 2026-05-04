@@ -7,3 +7,6 @@
 [Open: Pasted image 20260504132754.png](../../../Media/0a36948f67eeaca5ba398945c95b1b3f_MD5.jpeg)
 ![](../../../Media/0a36948f67eeaca5ba398945c95b1b3f_MD5.jpeg)
 
+[Open: Pasted image 20260504133148.png](../../../Media/981970ac86444e42aea0e9712c38d007_MD5.jpeg)
+![](../../../Media/981970ac86444e42aea0e9712c38d007_MD5.jpeg)
+
