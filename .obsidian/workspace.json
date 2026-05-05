@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/Notes.md",
+                "file": "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,6 +174,12 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "Media/4bcb3faf866794b5fc0ba013ae0cd7ab_MD5.jpeg",
+    "Media/Pasted image 20260505095125.png",
+    "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/Notes.md",
+    "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration/Notes.md",
+    "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration",
+    "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/03 -",
     "Media/657f480a93e4ef0ffe6eebb8eca42309_MD5.jpeg",
     "Media/Pasted image 20260504134708.png",
     "Media/572360be32eb6b9fd295d574273c715c_MD5.jpeg",
@@ -183,10 +189,7 @@
     "Media/6ce8d6f3b7a20c8ed7a160d14680be3f_MD5.jpeg",
     "Media/Pasted image 20260504134215.png",
     "Media/6738a2ae07db622ab3ae041df0175e65_MD5.jpeg",
-    "Media/Pasted image 20260504134045.png",
-    "Media/472747af294e29878e35e7b570cd786d_MD5.jpeg",
     "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
-    "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/Notes.md",
     "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components",
     "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
     "OE/Section 07 - Infrastructure Security/13 - DHCP Relay/Notes.md",
@@ -204,9 +207,7 @@
     "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md",
     "OE/Section 07 - Infrastructure Security/09 - uRPF implementation",
     "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING/Notes.md",
-    "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers",
     "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing/Notes.md",
-    "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING",
     "OE/Section 07 - Infrastructure Security/05 - VLAN ACLs/Notes.md",
     "OE/Section 07 - Infrastructure Security/04 - IP source guard on Switches/Notes.md",
     "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 05 - ISE/17 - Assigning authorisation polices to User identities based on access and testing/Notes.md",
     "OE/Section 06 - WSA & ESA/Untitled.md",
     "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities/Notes.md",
-    "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
-    "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md"
+    "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md"
   ]
 }
