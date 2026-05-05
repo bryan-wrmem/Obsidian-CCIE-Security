@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
+                "file": "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,23 +174,25 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
-    "Media/981970ac86444e42aea0e9712c38d007_MD5.jpeg",
-    "Media/Pasted image 20260504133148.png",
-    "Media/0a36948f67eeaca5ba398945c95b1b3f_MD5.jpeg",
-    "Media/Pasted image 20260504132754.png",
-    "Media/18ee5299cf30c1bf487d5f961940448a_MD5.jpeg",
-    "Media/Pasted image 20260504132633.png",
-    "Media/01eaaa9de730ecc5ca586c35b7061ffd_MD5.jpeg",
-    "Media/Pasted image 20260504131457.png",
-    "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
-    "Media/7c327e47d9ece9ea9cecbaa1754d2729_MD5.jpeg",
-    "Media/Pasted image 20260503102016.png",
+    "Media/657f480a93e4ef0ffe6eebb8eca42309_MD5.jpeg",
+    "Media/Pasted image 20260504134708.png",
+    "Media/572360be32eb6b9fd295d574273c715c_MD5.jpeg",
+    "Media/Pasted image 20260504134502.png",
+    "Media/97c03cf624a4430d390e0e0fdc48f958_MD5.jpeg",
+    "Media/Pasted image 20260504134313.png",
+    "Media/6ce8d6f3b7a20c8ed7a160d14680be3f_MD5.jpeg",
+    "Media/Pasted image 20260504134215.png",
+    "Media/6738a2ae07db622ab3ae041df0175e65_MD5.jpeg",
+    "Media/Pasted image 20260504134045.png",
+    "Media/472747af294e29878e35e7b570cd786d_MD5.jpeg",
     "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
+    "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/Notes.md",
+    "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components",
+    "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
     "OE/Section 07 - Infrastructure Security/13 - DHCP Relay/Notes.md",
     "OE/Section 08 - Stealthwatch/01 - Introduction",
     "OE/Section 08 - Stealthwatch",
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
-    "Media/Pasted image 20260503095410.png",
     "OE/Section 07 - Infrastructure Security/13 - DHCP Relay",
     "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB/Notes.md",
     "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router",
@@ -206,7 +208,6 @@
     "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing/Notes.md",
     "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING",
     "OE/Section 07 - Infrastructure Security/05 - VLAN ACLs/Notes.md",
-    "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing",
     "OE/Section 07 - Infrastructure Security/04 - IP source guard on Switches/Notes.md",
     "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 06 - WSA & ESA/Untitled.md",
     "OE/Section 05 - ISE/16 - Assigning permission+commands to respective user identities/Notes.md",
     "OE/Section 05 - ISE/15 - Configuring User identities for ISE-device administration/Notes.md",
-    "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md",
-    "OE/Section 05 - ISE/13 - Using ISE to authenticate Cisco Anyconnect VPN using AD/Notes.md"
+    "OE/Section 05 - ISE/14 - ISE Device Administration/Notes.md"
   ]
 }
