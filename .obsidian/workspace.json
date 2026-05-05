@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration/Notes.md",
+                "file": "OE/Section 08 - Stealthwatch/04 - Understading Indicators of Compromise & Hostgroups/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,13 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration/Notes.md",
+    "OE/Section 08 - Stealthwatch/04 - Understading Indicators of Compromise & Hostgroups/Notes.md",
+    "OE/Section 08 - Stealthwatch/04 - Understading Indicators of Compromise & Hostgroups/Untitled",
+    "OE/Section 08 - Stealthwatch/04 - Understading Indicators of Compromise & Hostgroups",
     "Media/4bcb3faf866794b5fc0ba013ae0cd7ab_MD5.jpeg",
     "Media/Pasted image 20260505095125.png",
     "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/Notes.md",
-    "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration/Notes.md",
     "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration",
     "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/03 -",
     "Media/657f480a93e4ef0ffe6eebb8eca42309_MD5.jpeg",
@@ -188,7 +191,6 @@
     "Media/Pasted image 20260504134313.png",
     "Media/6ce8d6f3b7a20c8ed7a160d14680be3f_MD5.jpeg",
     "Media/Pasted image 20260504134215.png",
-    "Media/6738a2ae07db622ab3ae041df0175e65_MD5.jpeg",
     "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
     "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components",
     "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
@@ -203,9 +205,7 @@
     "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB",
     "OE/Section 07 - Infrastructure Security/11.md",
     "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
-    "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW",
     "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md",
-    "OE/Section 07 - Infrastructure Security/09 - uRPF implementation",
     "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING/Notes.md",
     "OE/Section 07 - Infrastructure Security/06 - Anti-Spoofing/Notes.md",
     "OE/Section 07 - Infrastructure Security/05 - VLAN ACLs/Notes.md",
