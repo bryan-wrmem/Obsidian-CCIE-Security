@@ -13,3 +13,5 @@ Enable SSH on smc. SSH to smc with sysadmin account. Walk through wizard to enab
 [Open: Pasted image 20260507191017.png](../../../Media/d4346d30185ee72e792ef9c637462ddb_MD5.jpeg)
 ![](../../../Media/d4346d30185ee72e792ef9c637462ddb_MD5.jpeg)
 
+[Open: Pasted image 20260507191850.png](../../../Media/ae09bb905dfc1b8c56b0c23034cf0321_MD5.jpeg)
+![](../../../Media/ae09bb905dfc1b8c56b0c23034cf0321_MD5.jpeg)
