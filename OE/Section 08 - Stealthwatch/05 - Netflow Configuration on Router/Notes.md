@@ -8,3 +8,8 @@ Follow link to central management
 [Open: Pasted image 20260507184610.png](../../../Media/414e239a51089059a4449631bec2dbef_MD5.jpeg)
 ![](../../../Media/414e239a51089059a4449631bec2dbef_MD5.jpeg)
 
+Enable SSH on smc. SSH to smc with sysadmin account. Walk through wizard to enable initialize datastores
+
+[Open: Pasted image 20260507191017.png](../../../Media/d4346d30185ee72e792ef9c637462ddb_MD5.jpeg)
+![](../../../Media/d4346d30185ee72e792ef9c637462ddb_MD5.jpeg)
+
