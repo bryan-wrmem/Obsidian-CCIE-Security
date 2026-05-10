@@ -15,3 +15,6 @@ Create a policy
 [Open: Pasted image 20260510191922.png](../../../Media/d8bb2ffc5822c46687c498838a99e3b7_MD5.jpeg)
 ![](../../../Media/d8bb2ffc5822c46687c498838a99e3b7_MD5.jpeg)
 
+[Open: Pasted image 20260510192611.png](../../../Media/c2d2f51018bab06405e3781079ceefee_MD5.jpeg)
+![](../../../Media/c2d2f51018bab06405e3781079ceefee_MD5.jpeg)
+
