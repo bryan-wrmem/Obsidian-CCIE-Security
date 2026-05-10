@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 08 - Stealthwatch/06 - Exploring Stealthwatch Management Console and GUI/Notes.md",
+                "file": "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,6 +174,9 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "OE/Section 08 - Stealthwatch/06 - Exploring Stealthwatch Management Console and GUI/Notes.md",
+    "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy/Notes.md",
+    "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy",
     "Media/7b6bf42f1fd2b349a26044dca6ff7e9c_MD5.jpeg",
     "Media/Pasted image 20260509104329.png",
     "Media/60a6cc1240bdf16a440a6b8d9cfef2d4_MD5.jpeg",
@@ -183,11 +186,9 @@
     "Media/745482e502cd7268de95f50362f8f7b0_MD5.jpeg",
     "Media/Pasted image 20260509102958.png",
     "OE/Section 08 - Stealthwatch/05 - Netflow Configuration on Router/Notes.md",
-    "OE/Section 08 - Stealthwatch/06 - Exploring Stealthwatch Management Console and GUI/Notes.md",
     "OE/Section 08 - Stealthwatch/06 - Exploring Stealthwatch Management Console and GUI",
     "Media/ae09bb905dfc1b8c56b0c23034cf0321_MD5.jpeg",
     "Media/Pasted image 20260507191850.png",
-    "Media/d4346d30185ee72e792ef9c637462ddb_MD5.jpeg",
     "OE/Section 08 - Stealthwatch/04 - Understading Indicators of Compromise & Hostgroups/Notes.md",
     "OE/Section 08 - Stealthwatch/05 - Netflow Configuration on Router",
     "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration/Notes.md",
@@ -203,7 +204,6 @@
     "OE/Section 08 - Stealthwatch/01 - Introduction",
     "OE/Section 08 - Stealthwatch",
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
-    "OE/Section 07 - Infrastructure Security/13 - DHCP Relay",
     "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB/Notes.md",
     "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW/Notes.md",
     "OE/Section 07 - Infrastructure Security/11.md",
