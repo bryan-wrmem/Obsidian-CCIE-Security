@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy/Notes.md",
+                "file": "OE/Section 08 - Stealthwatch/08 - Testing ICMP Flood DDOS attack/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,6 +174,9 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy/Notes.md",
+    "OE/Section 08 - Stealthwatch/08 - Testing ICMP Flood DDOS attack/Notes.md",
+    "OE/Section 08 - Stealthwatch/08 - Testing ICMP Flood DDOS attack",
     "Media/c2d2f51018bab06405e3781079ceefee_MD5.jpeg",
     "Media/Pasted image 20260510192611.png",
     "Media/d8bb2ffc5822c46687c498838a99e3b7_MD5.jpeg",
@@ -184,9 +187,7 @@
     "Media/Pasted image 20260510191657.png",
     "Media/d2519c873741052eedf912af36d8e423_MD5.jpeg",
     "Media/Pasted image 20260510191645.png",
-    "Media/a5d75ee750955ef7f83ed3047cd6b257_MD5.jpeg",
     "OE/Section 08 - Stealthwatch/06 - Exploring Stealthwatch Management Console and GUI/Notes.md",
-    "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy/Notes.md",
     "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy",
     "OE/Section 08 - Stealthwatch/05 - Netflow Configuration on Router/Notes.md",
     "OE/Section 08 - Stealthwatch/06 - Exploring Stealthwatch Management Console and GUI",
@@ -203,7 +204,6 @@
     "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
     "OE/Section 07 - Infrastructure Security/13 - DHCP Relay/Notes.md",
     "OE/Section 08 - Stealthwatch/01 - Introduction",
-    "OE/Section 08 - Stealthwatch",
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
     "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB/Notes.md",
     "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW/Notes.md",
