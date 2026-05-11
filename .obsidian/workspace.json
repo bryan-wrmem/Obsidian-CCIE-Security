@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 09 - Secure Endpoint/01 - AMP/Notes.md",
+                "file": "OE/Section 09 - Secure Endpoint/02 - AMP Lab/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,22 +174,24 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
-    "OE/Section 08 - Stealthwatch/08 - Testing ICMP Flood DDOS attack/Notes.md",
     "OE/Section 09 - Secure Endpoint/01 - AMP/Notes.md",
+    "OE/Section 09 - Secure Endpoint/02 - AMP Lab/Notes.md",
+    "OE/Section 09 - Secure Endpoint/02 - AMP Lab",
+    "Media/94fd961de47520364e483cc57a278c17_MD5.jpeg",
+    "Media/Pasted image 20260511183442.png",
+    "Media/91d7f5b8b1ecaec940bfca21482027f7_MD5.jpeg",
+    "Media/Pasted image 20260511183230.png",
+    "Media/a37b2acaf3b504ccd329db39e6949bfc_MD5.jpeg",
+    "Media/Pasted image 20260511182950.png",
+    "Media/31c73e24fc074c24d0346475175d6184_MD5.jpeg",
+    "Media/Pasted image 20260511182849.png",
+    "Media/20d24275fa9bbdf2940d76964ae6c18a_MD5.jpeg",
+    "Media/Pasted image 20260511182644.png",
+    "OE/Section 08 - Stealthwatch/08 - Testing ICMP Flood DDOS attack/Notes.md",
     "OE/Section 09 - Secure Endpoint/01 - AMP",
     "OE/Section 09 - Secure Endpoint",
-    "Media/40e8d8dead9319d905708f351e9de0a9_MD5.jpeg",
-    "Media/Pasted image 20260510194100.png",
     "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy/Notes.md",
     "OE/Section 08 - Stealthwatch/08 - Testing ICMP Flood DDOS attack",
-    "Media/c2d2f51018bab06405e3781079ceefee_MD5.jpeg",
-    "Media/Pasted image 20260510192611.png",
-    "Media/d8bb2ffc5822c46687c498838a99e3b7_MD5.jpeg",
-    "Media/Pasted image 20260510191922.png",
-    "Media/8f76a999383a082261c3bba52b67ac60_MD5.jpeg",
-    "Media/Pasted image 20260510191750.png",
-    "Media/afbcb50884e4dfcba9918e8bab745312_MD5.jpeg",
-    "Media/Pasted image 20260510191657.png",
     "OE/Section 08 - Stealthwatch/06 - Exploring Stealthwatch Management Console and GUI/Notes.md",
     "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy",
     "OE/Section 08 - Stealthwatch/05 - Netflow Configuration on Router/Notes.md",
@@ -201,7 +203,6 @@
     "OE/Section 08 - Stealthwatch/04 - Understading Indicators of Compromise & Hostgroups",
     "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/Notes.md",
     "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration",
-    "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/03 -",
     "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
     "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
     "OE/Section 07 - Infrastructure Security/13 - DHCP Relay/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 07 - Infrastructure Security/03 - Port Security/Notes.md",
     "OE/Section 07 - Infrastructure Security/02 - ARP Inspection/Notes.md",
     "OE/Section 06 - WSA & ESA/04 - WSA Lab/Notes.md",
-    "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md",
-    "OE/Section 06 - WSA & ESA/03 - WSA Theory and Basics/Notes.md"
+    "OE/Section 06 - WSA & ESA/02 - Cisco Email Security Appliance LAB/Notes.md"
   ]
 }
