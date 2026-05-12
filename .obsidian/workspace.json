@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client/Notes.md",
+                "file": "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,20 +174,22 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
-    "Media/01c56624bbd6d55cd195113eb3b31d09_MD5.jpeg",
-    "Media/Pasted image 20260512125349.png",
-    "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM/Notes.md",
+    "Media/a1d9711a31afaa83092155896eeec69e_MD5.jpeg",
+    "Media/Pasted image 20260512130733.png",
+    "Media/79eaf9c77b2ce7c73b44a5caf6a37695_MD5.jpeg",
+    "Media/Pasted image 20260512130622.png",
+    "Media/58b48dc494f763ebc4932d83fbf29e61_MD5.jpeg",
+    "Media/Pasted image 20260512130546.png",
+    "Media/42a59a077e8f74ac22d2abb77cabff02_MD5.jpeg",
+    "Media/Pasted image 20260512130443.png",
+    "Media/7c394bf33f517e3520bd3409782d0165_MD5.jpeg",
+    "Media/Pasted image 20260512130332.png",
+    "Media/fe704a95282a8d952f6c263b352e1f67_MD5.jpeg",
     "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client/Notes.md",
+    "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
+    "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint",
+    "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM/Notes.md",
     "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client",
-    "Media/b26bff3bf43253fa5db8a4c1cd23a3d1_MD5.jpeg",
-    "Media/Pasted image 20260512124833.png",
-    "Media/89537f9d7d52a1edcb06d9712d0bf1e3_MD5.jpeg",
-    "Media/Pasted image 20260512124633.png",
-    "Media/53189ff3605e3cbe2c7fbd735532943e_MD5.jpeg",
-    "Media/Pasted image 20260512124557.png",
-    "Media/fc2d5c6896f335b9fcf586b0a7971169_MD5.jpeg",
-    "Media/Pasted image 20260512124303.png",
-    "Media/5f1b7d63d8a8b243ba000094091c2e91_MD5.jpeg",
     "OE/Section 10 - Umbrella/04 - Adding your Public Networks in Umbrella and forwarding your DNS traffic/Notes.md",
     "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM",
     "OE/Section 10 - Umbrella/04 - Adding your Public Networks in Umbrella and forwarding your DNS traffic/05",
@@ -203,7 +205,6 @@
     "OE/Section 09 - Secure Endpoint/01 - AMP/Notes.md",
     "OE/Section 09 - Secure Endpoint/02 - AMP Lab",
     "OE/Section 08 - Stealthwatch/08 - Testing ICMP Flood DDOS attack/Notes.md",
-    "OE/Section 09 - Secure Endpoint/01 - AMP",
     "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy/Notes.md",
     "OE/Section 08 - Stealthwatch/06 - Exploring Stealthwatch Management Console and GUI/Notes.md",
     "OE/Section 08 - Stealthwatch/05 - Netflow Configuration on Router/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW/Notes.md",
     "OE/Section 07 - Infrastructure Security/11.md",
     "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
-    "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md",
-    "OE/Section 07 - Infrastructure Security/07 - Configure external SYSLOGGING/Notes.md"
+    "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md"
   ]
 }
