@@ -34,3 +34,12 @@ Security Groups get added in DNAC
 [Open: Pasted image 20260513141808.png](../../../Media/925ae579bdec44a8dd2036c1eda1104a_MD5.jpeg)
 ![](../../../Media/925ae579bdec44a8dd2036c1eda1104a_MD5.jpeg)
 
+[Open: Pasted image 20260513142347.png](../../../Media/dccdc8049846357acb68de697236261a_MD5.jpeg)
+![](../../../Media/dccdc8049846357acb68de697236261a_MD5.jpeg)
+
+[Open: Pasted image 20260513142659.png](../../../Media/81ebb3465f0520dd9fdf511ac27bce8a_MD5.jpeg)
+![](../../../Media/81ebb3465f0520dd9fdf511ac27bce8a_MD5.jpeg)
+
+[Open: Pasted image 20260513142836.png](../../../Media/ab4042bc498261650cf3f86985c54b9d_MD5.jpeg)
+![](../../../Media/ab4042bc498261650cf3f86985c54b9d_MD5.jpeg)
+
