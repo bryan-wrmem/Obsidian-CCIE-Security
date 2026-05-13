@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
+                "file": "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,6 +174,11 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
+    "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md",
+    "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration",
+    "Media/cf8e3470bfb5c46c52a0fe681a3c1afe_MD5.jpeg",
+    "Media/Pasted image 20260513124738.png",
     "Media/24a7c41e957df7d36e540ea2c080f5c1_MD5.jpeg",
     "Media/Pasted image 20260513121744.png",
     "Media/2b54c02f5c124cab09888e87349ed76b_MD5.jpeg",
@@ -182,12 +187,8 @@
     "Media/Pasted image 20260513121425.png",
     "Media/4bf28dd275295e6301fe39fc82a39205_MD5.jpeg",
     "Media/Pasted image 20260513121222.png",
-    "Media/d07929fe10a950496eba0a33e9b788dd_MD5.jpeg",
-    "Media/Pasted image 20260513120543.png",
     "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md",
-    "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
     "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction",
-    "Media/33a256f7285967bb7d99702deaaa4c9f_MD5.jpeg",
     "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
     "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE",
     "OE/Section 11 - SDN & DNAC",
@@ -203,7 +204,6 @@
     "OE/Section 10 - Umbrella/02 - Cisco Umbrella Deployment Models/Notes.md",
     "OE/Section 10 - Umbrella/03 - Exploring Cisco Umbrella GUI",
     "OE/Section 10 - Umbrella/01 - Cisco Umbrella Theory/Notes.md",
-    "OE/Section 10 - Umbrella/02 - Cisco Umbrella Deployment Models",
     "OE/Section 09 - Secure Endpoint/02 - AMP Lab/Notes.md",
     "OE/Section 09 - Secure Endpoint/01 - AMP/Notes.md",
     "OE/Section 08 - Stealthwatch/08 - Testing ICMP Flood DDOS attack/Notes.md",

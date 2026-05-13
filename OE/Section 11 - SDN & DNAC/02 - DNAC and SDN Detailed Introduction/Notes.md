@@ -83,4 +83,17 @@ IP Pools
 
 VRF / DNAC Called them VN (virtual network)
 
-Macro and Micro segementation
+Macro and Micro segmentation
+
+
+Macro - use VNs
+
+[Open: Pasted image 20260513124738.png](../../../Media/cf8e3470bfb5c46c52a0fe681a3c1afe_MD5.jpeg)
+![](../../../Media/cf8e3470bfb5c46c52a0fe681a3c1afe_MD5.jpeg)
+
+
+Micro - how to segment within a virtual network?
+Use SGTs/dACLs
+
+DNAC contracts will use tags
+
