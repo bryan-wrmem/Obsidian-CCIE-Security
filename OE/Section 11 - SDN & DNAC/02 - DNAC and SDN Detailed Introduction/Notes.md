@@ -58,3 +58,13 @@ Remote sites
 [Open: Pasted image 20260513121744.png](../../../Media/24a7c41e957df7d36e540ea2c080f5c1_MD5.jpeg)
 ![](../../../Media/24a7c41e957df7d36e540ea2c080f5c1_MD5.jpeg)
 
+IS-IS as underlay
+
+Data pools - will use anycast for gateways
+LISP
+Endpoint table - shared over vxlan
+
+Underlay - IS-IS
+Overlay - VXLAN
+
+DNAC uses netconf/ssh to configure devices/mgmt plane
