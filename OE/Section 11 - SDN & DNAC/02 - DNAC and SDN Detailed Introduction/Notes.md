@@ -68,3 +68,12 @@ Underlay - IS-IS
 Overlay - VXLAN
 
 DNAC uses netconf/ssh to configure devices/mgmt plane
+
+-------
+
+Integrations to know:
+ISE
+
+Important to know:
+SGTs
+
