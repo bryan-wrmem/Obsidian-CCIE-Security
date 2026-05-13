@@ -77,3 +77,10 @@ ISE
 Important to know:
 SGTs
 
+AuthZ Policies
+
+IP Pools
+
+VRF / DNAC Called them VN (virtual network)
+
+Macro and Micro segementation
