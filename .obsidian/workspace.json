@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
+                "file": "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,19 +174,24 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "Media/d07929fe10a950496eba0a33e9b788dd_MD5.jpeg",
+    "Media/Pasted image 20260513120543.png",
+    "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md",
+    "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
+    "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction",
+    "Media/33a256f7285967bb7d99702deaaa4c9f_MD5.jpeg",
+    "Media/Pasted image 20260513115027.png",
+    "Media/88d9b0211e02c168dc90a0bb95865104_MD5.jpeg",
+    "Media/Pasted image 20260513114853.png",
+    "Media/e99549a7f1d8936aadbe29631101757d_MD5.jpeg",
+    "Media/Pasted image 20260513114802.png",
+    "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
+    "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE",
+    "OE/Section 11 - SDN & DNAC",
     "Media/d6a861a4ec7c6f735683a456a9703636_MD5.jpeg",
     "Media/Pasted image 20260512131151.png",
     "Media/a1d9711a31afaa83092155896eeec69e_MD5.jpeg",
-    "Media/Pasted image 20260512130733.png",
-    "Media/79eaf9c77b2ce7c73b44a5caf6a37695_MD5.jpeg",
-    "Media/Pasted image 20260512130622.png",
-    "Media/58b48dc494f763ebc4932d83fbf29e61_MD5.jpeg",
-    "Media/Pasted image 20260512130546.png",
-    "Media/42a59a077e8f74ac22d2abb77cabff02_MD5.jpeg",
-    "Media/Pasted image 20260512130443.png",
-    "Media/7c394bf33f517e3520bd3409782d0165_MD5.jpeg",
     "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client/Notes.md",
-    "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
     "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint",
     "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM/Notes.md",
     "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client",
@@ -200,10 +205,7 @@
     "OE/Section 10 - Umbrella/01 - Cisco Umbrella Theory/Notes.md",
     "OE/Section 10 - Umbrella/02 - Cisco Umbrella Deployment Models",
     "OE/Section 09 - Secure Endpoint/02 - AMP Lab/Notes.md",
-    "OE/Section 10 - Umbrella/01 - Cisco Umbrella Theory",
-    "OE/Section 10 - Umbrella",
     "OE/Section 09 - Secure Endpoint/01 - AMP/Notes.md",
-    "OE/Section 09 - Secure Endpoint/02 - AMP Lab",
     "OE/Section 08 - Stealthwatch/08 - Testing ICMP Flood DDOS attack/Notes.md",
     "OE/Section 08 - Stealthwatch/07 - Creating Host Group Policy/Notes.md",
     "OE/Section 08 - Stealthwatch/06 - Exploring Stealthwatch Management Console and GUI/Notes.md",
@@ -217,8 +219,6 @@
     "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
     "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB/Notes.md",
     "OE/Section 07 - Infrastructure Security/10 - TCP Throttling using Zone-Based FW/Notes.md",
-    "OE/Section 07 - Infrastructure Security/11.md",
-    "OE/Section 07 - Infrastructure Security/09 - uRPF implementation/Notes.md",
-    "OE/Section 07 - Infrastructure Security/08 - Configuring and Securing NTP on Routers/Notes.md"
+    "OE/Section 07 - Infrastructure Security/11.md"
   ]
 }
