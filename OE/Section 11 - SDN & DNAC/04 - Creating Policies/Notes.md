@@ -27,3 +27,10 @@ Users /Groups/AuthZ policies are created in ISE
 
 [Open: Pasted image 20260513140159.png](../../../Media/f921b952bb3f6b9d900793ca1959d620_MD5.jpeg)
 ![](../../../Media/f921b952bb3f6b9d900793ca1959d620_MD5.jpeg)
+
+
+Security Groups get added in DNAC
+
+[Open: Pasted image 20260513141808.png](../../../Media/925ae579bdec44a8dd2036c1eda1104a_MD5.jpeg)
+![](../../../Media/925ae579bdec44a8dd2036c1eda1104a_MD5.jpeg)
+
