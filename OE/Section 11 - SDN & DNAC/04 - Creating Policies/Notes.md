@@ -22,4 +22,8 @@ Users /Groups/AuthZ policies are created in ISE
 [Open: Pasted image 20260513134513.png](../../../Media/53ac026d7b180ade406d8bc0a33eb281_MD5.jpeg)
 ![](../../../Media/53ac026d7b180ade406d8bc0a33eb281_MD5.jpeg)
 
+[Open: Pasted image 20260513135907.png](../../../Media/228c7d4f8f227ad6abeef2b44ee40080_MD5.jpeg)
+![](../../../Media/228c7d4f8f227ad6abeef2b44ee40080_MD5.jpeg)
 
+[Open: Pasted image 20260513140159.png](../../../Media/f921b952bb3f6b9d900793ca1959d620_MD5.jpeg)
+![](../../../Media/f921b952bb3f6b9d900793ca1959d620_MD5.jpeg)
