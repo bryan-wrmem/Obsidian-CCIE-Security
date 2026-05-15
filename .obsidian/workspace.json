@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md",
+                "file": "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,6 +174,11 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md",
+    "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits/Notes.md",
+    "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits",
+    "OE/Section 12 - Network Automation",
+    "OE/Section 11 - SDN & DNAC/Untitled",
     "Media/ab4042bc498261650cf3f86985c54b9d_MD5.jpeg",
     "Media/Pasted image 20260513142836.png",
     "Media/81ebb3465f0520dd9fdf511ac27bce8a_MD5.jpeg",
@@ -184,8 +189,6 @@
     "Media/Pasted image 20260513141808.png",
     "Media/f921b952bb3f6b9d900793ca1959d620_MD5.jpeg",
     "Media/Pasted image 20260513140159.png",
-    "Media/228c7d4f8f227ad6abeef2b44ee40080_MD5.jpeg",
-    "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md",
     "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md",
     "OE/Section 11 - SDN & DNAC/04 - Creating Policies",
     "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
@@ -200,10 +203,7 @@
     "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM/Notes.md",
     "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client",
     "OE/Section 10 - Umbrella/04 - Adding your Public Networks in Umbrella and forwarding your DNS traffic/Notes.md",
-    "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM",
-    "OE/Section 10 - Umbrella/04 - Adding your Public Networks in Umbrella and forwarding your DNS traffic/05",
     "OE/Section 10 - Umbrella/03 - Exploring Cisco Umbrella GUI/Notes.md",
-    "OE/Section 10 - Umbrella/04 - Adding your Public Networks in Umbrella and forwarding your DNS traffic",
     "OE/Section 10 - Umbrella/02 - Cisco Umbrella Deployment Models/Notes.md",
     "OE/Section 10 - Umbrella/01 - Cisco Umbrella Theory/Notes.md",
     "OE/Section 09 - Secure Endpoint/02 - AMP Lab/Notes.md",
