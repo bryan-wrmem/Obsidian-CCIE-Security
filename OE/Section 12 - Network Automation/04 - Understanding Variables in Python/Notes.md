@@ -16,5 +16,20 @@ a = b = c = 100
 >>> print(c)
 40
 >>>
+>>> first_name="Bryan"
+>>> last_name="Lastname"
+>>> print(first_name + ' ' + last_name)
+Bryan Lastname
+
+# Use indexes to retrieve a character from a known position
+
+>>> string='abcdefghijklmnopqrstuvwxyz'
+>>> print(string[0])
+a
+>>> print(string[25])
+z
+>>> print(string[0:10])
+abcdefghij
+>>>
 ```
 
