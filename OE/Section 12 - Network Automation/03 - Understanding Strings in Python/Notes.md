@@ -15,6 +15,8 @@ anothertest
 >>>
 >>> print ('this' ' ' 'is' ' ' 'our' ' ' '\n' 'test') 
 this is our test
+>>> print(10 * 'hello')
+hellohellohellohellohellohellohellohellohellohello
 ```
 
 \n = new line
