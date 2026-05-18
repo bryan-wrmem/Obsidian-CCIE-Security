@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits/Notes.md",
+                "file": "OE/Section 12 - Network Automation/02 - Python Installation & performing basic Math functions/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,10 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
-    "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md",
     "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits/Notes.md",
+    "OE/Section 12 - Network Automation/02 - Python Installation & performing basic Math functions/Notes.md",
+    "OE/Section 12 - Network Automation/02 - Python Installation & performing basic Math functions",
+    "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md",
     "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits",
     "OE/Section 12 - Network Automation",
     "OE/Section 11 - SDN & DNAC/Untitled",
@@ -201,7 +203,6 @@
     "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client/Notes.md",
     "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint",
     "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM/Notes.md",
-    "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client",
     "OE/Section 10 - Umbrella/04 - Adding your Public Networks in Umbrella and forwarding your DNS traffic/Notes.md",
     "OE/Section 10 - Umbrella/03 - Exploring Cisco Umbrella GUI/Notes.md",
     "OE/Section 10 - Umbrella/02 - Cisco Umbrella Deployment Models/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md",
     "OE/Section 07 - Infrastructure Security/12 - DHCP basics and configuration of Cisco router/Notes.md",
     "OE/Section 07 - Infrastructure Security/13 - DHCP Relay/Notes.md",
-    "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md",
-    "OE/Section 07 - Infrastructure Security/11 - Infrastructure Security Base configuration LAB/Notes.md"
+    "OE/Section 07 - Infrastructure Security/01 - DHCP Snooping/Notes.md"
   ]
 }
