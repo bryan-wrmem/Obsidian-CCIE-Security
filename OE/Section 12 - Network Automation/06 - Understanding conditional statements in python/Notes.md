@@ -1,5 +1,18 @@
 # Understanding Conditional Statements in Python
 
+```
+>>> A=6
+>>> Y=A%2
+>>> print(Y)
+0
+>>> if Y == 0:
+...     print("your number is even")
+...
+your number is even
+```
+
+[Open: Pasted image 20260519123744.png](../../../Media/2c85a9448298814f1f1743d8062ca8d6_MD5.jpeg)
+![](../../../Media/2c85a9448298814f1f1743d8062ca8d6_MD5.jpeg)
 
 -----
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 12 - Network Automation/06 - Understanding conditional statements in python/Notes.md",
+                "file": "OE/Section 12 - Network Automation/07 - Understanding Loops in Python/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,12 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
-    "OE/Section 12 - Network Automation/05 - Understanding Operators in Python/Notes.md",
     "OE/Section 12 - Network Automation/06 - Understanding conditional statements in python/Notes.md",
+    "OE/Section 12 - Network Automation/07 - Understanding Loops in Python/Notes.md",
+    "OE/Section 12 - Network Automation/07 - Understanding Loops in Python",
+    "Media/2c85a9448298814f1f1743d8062ca8d6_MD5.jpeg",
+    "Media/Pasted image 20260519123744.png",
+    "OE/Section 12 - Network Automation/05 - Understanding Operators in Python/Notes.md",
     "OE/Section 12 - Network Automation/06 - Understanding conditional statements in python",
     "OE/Section 12 - Network Automation/04 - Understanding Variables in Python/Notes.md",
     "OE/Section 12 - Network Automation/05 - Understanding Operators in Python",
@@ -197,12 +201,9 @@
     "Media/Pasted image 20260513142347.png",
     "Media/925ae579bdec44a8dd2036c1eda1104a_MD5.jpeg",
     "Media/Pasted image 20260513141808.png",
-    "Media/f921b952bb3f6b9d900793ca1959d620_MD5.jpeg",
-    "Media/Pasted image 20260513140159.png",
     "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md",
     "OE/Section 11 - SDN & DNAC/04 - Creating Policies",
     "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
-    "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration",
     "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md",
     "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
     "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 08 - Stealthwatch/06 - Exploring Stealthwatch Management Console and GUI/Notes.md",
     "OE/Section 08 - Stealthwatch/05 - Netflow Configuration on Router/Notes.md",
     "OE/Section 08 - Stealthwatch/04 - Understading Indicators of Compromise & Hostgroups/Notes.md",
-    "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration/Notes.md",
-    "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/Notes.md"
+    "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration/Notes.md"
   ]
 }
