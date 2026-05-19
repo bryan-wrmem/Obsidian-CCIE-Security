@@ -1,6 +1,6 @@
 # Understanding Operators in Python
 
-Examples
+Examples:
 
 ```
 op=10
@@ -18,6 +18,15 @@ False
 >>> k>=l
 True
 >>>
+>>> z=16
+>>> x=12
+>>> x>z and z<x
+False
+>>> x<z and z>x
+True
+>>>
+>>> x<16 or z<12
+True
 
 ```
 
