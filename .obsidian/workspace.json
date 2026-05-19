@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 12 - Network Automation/05 - Understanding Operators in Python/Notes.md",
+                "file": "OE/Section 12 - Network Automation/06 - Understanding conditional statements in python/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,10 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
-    "OE/Section 12 - Network Automation/04 - Understanding Variables in Python/Notes.md",
     "OE/Section 12 - Network Automation/05 - Understanding Operators in Python/Notes.md",
+    "OE/Section 12 - Network Automation/06 - Understanding conditional statements in python/Notes.md",
+    "OE/Section 12 - Network Automation/06 - Understanding conditional statements in python",
+    "OE/Section 12 - Network Automation/04 - Understanding Variables in Python/Notes.md",
     "OE/Section 12 - Network Automation/05 - Understanding Operators in Python",
     "OE/Section 12 - Network Automation/03 - Understanding Strings in Python/Notes.md",
     "OE/Section 12 - Network Automation/04 - Understanding Variables in Python",
@@ -202,7 +204,6 @@
     "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
     "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration",
     "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md",
-    "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction",
     "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
     "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client/Notes.md",
     "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 08 - Stealthwatch/05 - Netflow Configuration on Router/Notes.md",
     "OE/Section 08 - Stealthwatch/04 - Understading Indicators of Compromise & Hostgroups/Notes.md",
     "OE/Section 08 - Stealthwatch/03 - Cisco SMC LAB base configuration/Notes.md",
-    "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/Notes.md",
-    "OE/Section 08 - Stealthwatch/01 - Introduction/Notes.md"
+    "OE/Section 08 - Stealthwatch/02 - Stealthwatch Components/Notes.md"
   ]
 }
