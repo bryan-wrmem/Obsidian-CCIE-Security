@@ -9,9 +9,18 @@ For and While loops
 While - runs until condition is true
 For - run for each x in y
 
-
-
-
+```
+>>> name='Bryan'
+>>> for x in name:
+...     print(x)
+...
+B
+r
+y
+a
+n
+>>>
+```
 
 
 -----
