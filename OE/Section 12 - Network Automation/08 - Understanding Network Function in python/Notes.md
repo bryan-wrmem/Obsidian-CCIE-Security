@@ -1,5 +1,7 @@
 Netmiko
 
+[Open: Pasted image 20260520193446.png](../../../Media/c79606e20b185a14c46470a80b50c96d_MD5.jpeg)
+![](../../../Media/c79606e20b185a14c46470a80b50c96d_MD5.jpeg)
 
 
 ```
@@ -31,7 +33,24 @@ conn.save_config()                               # Write mem
 conn.disconnect()
 ```
 
+```
+# create virtual env
 
+python3 -m venv myenv
+
+# start venv
+
+source myenv/bin/activate
+
+# install netmiko
+
+pip install netmiko
+
+# run script
+
+
+
+```
 
 ----
 
