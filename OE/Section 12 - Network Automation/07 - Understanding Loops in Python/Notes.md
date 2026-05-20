@@ -22,6 +22,8 @@ n
 >>>
 ```
 
+[Open: Pasted image 20260519125426.png](../../../Media/e16704efcd83ffe96460551ff8f3bdcb_MD5.jpeg)
+![](../../../Media/e16704efcd83ffe96460551ff8f3bdcb_MD5.jpeg)
 
 -----
 
