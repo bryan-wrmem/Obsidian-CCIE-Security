@@ -1,7 +1,6 @@
 Netmiko
 
-[Open: Pasted image 20260520193446.png](../../../Media/c79606e20b185a14c46470a80b50c96d_MD5.jpeg)
-![](../../../Media/c79606e20b185a14c46470a80b50c96d_MD5.jpeg)
+
 
 
 ```
