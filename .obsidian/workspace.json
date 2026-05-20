@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 12 - Network Automation/07 - Understanding Loops in Python/Notes.md",
+                "file": "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,12 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "OE/Section 12 - Network Automation/07 - Understanding Loops in Python/Notes.md",
+    "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md",
+    "OE/Section 12 - Network Automation/08 - Understanding Network Function in python",
     "Media/e16704efcd83ffe96460551ff8f3bdcb_MD5.jpeg",
     "Media/Pasted image 20260519125426.png",
     "OE/Section 12 - Network Automation/06 - Understanding conditional statements in python/Notes.md",
-    "OE/Section 12 - Network Automation/07 - Understanding Loops in Python/Notes.md",
     "OE/Section 12 - Network Automation/07 - Understanding Loops in Python",
     "Media/2c85a9448298814f1f1743d8062ca8d6_MD5.jpeg",
     "Media/Pasted image 20260519123744.png",
@@ -201,9 +203,7 @@
     "Media/Pasted image 20260513142659.png",
     "Media/dccdc8049846357acb68de697236261a_MD5.jpeg",
     "Media/Pasted image 20260513142347.png",
-    "Media/925ae579bdec44a8dd2036c1eda1104a_MD5.jpeg",
     "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md",
-    "OE/Section 11 - SDN & DNAC/04 - Creating Policies",
     "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
     "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md",
     "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
