@@ -2,6 +2,35 @@ Netmiko
 
 
 
+```
+from netmiko import ConnectHandler
+
+# Define device
+device = {
+    'device_type': 'cisco_ios',
+    'host': '10.253.253.99',
+    'username': 'admin',
+    'password': 'cisco123',
+    'secret': 'cisco123',
+}
+
+# Connect
+conn = ConnectHandler(**device)
+conn.enable()                                    # Enter enable mode
+
+# Show commands
+output = conn.send_command('show ip int brief')  # Run show command
+output = conn.send_command('show version', use_textfsm=True)  # Parsed output
+
+# Config commands
+conn.send_config_set(['interface Gi0/1', 'description AUTOMATED'])
+conn.send_config_from_file('config_changes.txt')
+conn.save_config()                               # Write mem
+
+# Disconnect
+conn.disconnect()
+```
+
 
 
 ----
