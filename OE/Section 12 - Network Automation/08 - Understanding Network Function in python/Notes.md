@@ -23,10 +23,7 @@ conn.enable()                                    # Enter enable mode
 output = conn.send_command('show ip int brief')  # Run show command
 output = conn.send_command('show version', use_textfsm=True)  # Parsed output
 
-# Config commands
-conn.send_config_set(['interface Gi0/1', 'description AUTOMATED'])
-conn.send_config_from_file('config_changes.txt')
-conn.save_config()                               # Write mem
+print(output)
 
 # Disconnect
 conn.disconnect()
@@ -50,6 +47,9 @@ pip install netmiko
 
 
 ```
+
+[Open: Pasted image 20260520201040.png](../../../Media/898cbaacd51bb36b56ba1e544a73f4f4_MD5.jpeg)
+![](../../../Media/898cbaacd51bb36b56ba1e544a73f4f4_MD5.jpeg)
 
 ----
 
