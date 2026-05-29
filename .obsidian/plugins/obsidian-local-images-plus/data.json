@@ -20,7 +20,7 @@
   "removeMediaFolder": true,
   "removeOrphansCompl": false,
   "PngToJpeg": false,
-  "PngToJpegLocal": true,
+  "PngToJpegLocal": false,
   "JpegQuality": 80,
   "DoNotCreateObsFolder": false,
   "DateFormat": "YYYY MM DD"
