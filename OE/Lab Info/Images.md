@@ -12,3 +12,6 @@
 [Open: Pasted image 20260528234014.png](../../Media/b8229735072d60bb79ed5ef8f5914027_MD5.jpeg)
 ![](../../Media/b8229735072d60bb79ed5ef8f5914027_MD5.jpeg)
 
+[Open: Pasted image 20260529000125.png](../../Media/0518805b69a031ffc815f433e04a61b6_MD5.jpeg)
+![](../../Media/0518805b69a031ffc815f433e04a61b6_MD5.jpeg)
+
