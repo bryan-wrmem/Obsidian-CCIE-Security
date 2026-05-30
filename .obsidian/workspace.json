@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Lab Info/Images.md",
+                "file": "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Images"
+              "title": "10 - Creating VLANs and assiging them to ports on switch using python script"
             }
           }
         ]
@@ -174,6 +174,8 @@
   },
   "active": "f3886bd055d9349c",
   "lastOpenFiles": [
+    "OE/Lab Info/Images.md",
+    "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script.md",
     "Media/4aa67f3370a693664c2cae550a865e44_MD5.png",
     "Media/a728a892df0c44c0c1d15060b02d8995_MD5.jpeg",
     "Media/Pasted image 20260529102641.png",
@@ -184,9 +186,7 @@
     "Media/72453d7633bc572313c1d367032015b2_MD5.jpeg",
     "Media/Pasted image 20260528233225.png",
     "Media/afcccfa7eaa3cdcc5a6cef17995c894a_MD5.jpeg",
-    "Media/Pasted image 20260528233215.png",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router/Notes.md",
-    "OE/Lab Info/Images.md",
     "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router",
     "OE/Section 12 - Network Automation/07 - Understanding Loops in Python/Notes.md",
