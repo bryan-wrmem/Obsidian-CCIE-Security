@@ -76,6 +76,6 @@ except Exception as e:
     print(f"An error occurred: {e}")
 ```
 
-[Open: Pasted image 20260530125725.png](../../Media/c3ecfd224b2a2abba5897f590f1b55d2_MD5.png)
-![](../../Media/c3ecfd224b2a2abba5897f590f1b55d2_MD5.png)
+[Open: Pasted image 20260530125725.png](c3ecfd224b2a2abba5897f590f1b55d2_MD5.png)
+![](c3ecfd224b2a2abba5897f590f1b55d2_MD5.png)
 
