@@ -174,6 +174,7 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "Media/416f22e4fac3ccf8f3a2c4831b83c0aa_MD5.png",
     "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script/Notes.md",
     "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script/Notes.md",
     "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script",
@@ -218,7 +219,6 @@
     "OE/Section 10 - Umbrella/02 - Cisco Umbrella Deployment Models/Notes.md",
     "OE/Section 10 - Umbrella/01 - Cisco Umbrella Theory/Notes.md",
     "OE/Section 09 - Secure Endpoint/02 - AMP Lab/Notes.md",
-    "OE/Section 09 - Secure Endpoint/01 - AMP/Notes.md",
-    "OE/Section 08 - Stealthwatch/08 - Testing ICMP Flood DDOS attack/Notes.md"
+    "OE/Section 09 - Secure Endpoint/01 - AMP/Notes.md"
   ]
 }
