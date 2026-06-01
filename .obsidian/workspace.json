@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script/Notes.md",
+                "file": "OE/Section 12 - Network Automation/12 - Using SSH to configure commands on router with python/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,9 +174,11 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script/Notes.md",
+    "OE/Section 12 - Network Automation/12 - Using SSH to configure commands on router with python/Notes.md",
+    "OE/Section 12 - Network Automation/12 - Using SSH to configure commands on router with python",
     "Media/416f22e4fac3ccf8f3a2c4831b83c0aa_MD5.png",
     "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script/Notes.md",
-    "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script/Notes.md",
     "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script",
     "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script",
     "Media/c3ecfd224b2a2abba5897f590f1b55d2_MD5.png",
@@ -189,7 +191,6 @@
     "Media/b8229735072d60bb79ed5ef8f5914027_MD5.jpeg",
     "Media/Pasted image 20260528234014.png",
     "Media/72453d7633bc572313c1d367032015b2_MD5.jpeg",
-    "Media/Pasted image 20260528233225.png",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router/Notes.md",
     "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router",
@@ -206,7 +207,6 @@
     "OE/Section 12 - Network Automation/02 - Python Installation & performing basic Math functions/Notes.md",
     "OE/Section 12 - Network Automation/03 - Understanding Strings in Python",
     "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits/Notes.md",
-    "OE/Section 12 - Network Automation/02 - Python Installation & performing basic Math functions",
     "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md",
     "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md",
     "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
