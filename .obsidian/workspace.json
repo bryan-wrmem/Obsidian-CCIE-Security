@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 12 - Network Automation/13 -/Notes.md",
+                "file": "OE/Section 12 - Network Automation/14 - Configuring routing protocols on multiple routers using python/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,9 +174,11 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "OE/Section 12 - Network Automation/13 - SSH python script to talk to Switch/Notes.md",
+    "OE/Section 12 - Network Automation/14 - Configuring routing protocols on multiple routers using python/Notes.md",
+    "OE/Section 12 - Network Automation/14 - Configuring routing protocols on multiple routers using python",
     "OE/Section 12 - Network Automation/12 - Using SSH to configure commands on router with python/Notes.md",
-    "OE/Section 12 - Network Automation/13 -/Notes.md",
-    "OE/Section 12 - Network Automation/13 -",
+    "OE/Section 12 - Network Automation/13 - SSH python script to talk to Switch",
     "Media/a5a5f016213bbf87472815bdc800959a_MD5.png",
     "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script/Notes.md",
     "OE/Section 12 - Network Automation/12 - Using SSH to configure commands on router with python",
@@ -205,7 +207,6 @@
     "OE/Section 12 - Network Automation/04 - Understanding Variables in Python/Notes.md",
     "OE/Section 12 - Network Automation/05 - Understanding Operators in Python",
     "OE/Section 12 - Network Automation/03 - Understanding Strings in Python/Notes.md",
-    "OE/Section 12 - Network Automation/04 - Understanding Variables in Python",
     "OE/Section 12 - Network Automation/02 - Python Installation & performing basic Math functions/Notes.md",
     "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits/Notes.md",
     "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 10 - Umbrella/04 - Adding your Public Networks in Umbrella and forwarding your DNS traffic/Notes.md",
     "OE/Section 10 - Umbrella/03 - Exploring Cisco Umbrella GUI/Notes.md",
     "OE/Section 10 - Umbrella/02 - Cisco Umbrella Deployment Models/Notes.md",
-    "OE/Section 10 - Umbrella/01 - Cisco Umbrella Theory/Notes.md",
-    "OE/Section 09 - Secure Endpoint/02 - AMP Lab/Notes.md"
+    "OE/Section 10 - Umbrella/01 - Cisco Umbrella Theory/Notes.md"
   ]
 }
