@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Lab Info/Images.md",
+                "file": "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Images"
+              "title": "Notes"
             }
           }
         ]
@@ -172,8 +172,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "490b2e6b61e05371",
+  "active": "d8ba848967611fae",
   "lastOpenFiles": [
+    "OE/Lab Info/Images.md",
     "Media/01c73b95bf37452b5ad2c9a3c2aad7e7_MD5.png",
     "Media/Pasted image 20260611222848.png",
     "Media/2015fd465866b6d2297c6d313b1c7027_MD5.png",
@@ -198,11 +199,9 @@
     "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script",
     "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script",
     "Media/c3ecfd224b2a2abba5897f590f1b55d2_MD5.png",
-    "OE/Lab Info/Images.md",
     "Media/4aa67f3370a693664c2cae550a865e44_MD5.png",
     "Media/a728a892df0c44c0c1d15060b02d8995_MD5.jpeg",
     "Media/Pasted image 20260529102641.png",
-    "Media/0518805b69a031ffc815f433e04a61b6_MD5.jpeg",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router/Notes.md",
     "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router",
