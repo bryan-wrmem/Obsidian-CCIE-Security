@@ -18,3 +18,7 @@
 [Open: Pasted image 20260529102717.png](../../Media/4aa67f3370a693664c2cae550a865e44_MD5.png)
 ![](../../Media/4aa67f3370a693664c2cae550a865e44_MD5.png)
 
+
+[Open: Pasted image 20260611223031.png](../../Media/01c73b95bf37452b5ad2c9a3c2aad7e7_MD5.png)
+![](../../Media/01c73b95bf37452b5ad2c9a3c2aad7e7_MD5.png)
+

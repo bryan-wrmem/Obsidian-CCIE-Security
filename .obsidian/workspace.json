@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
+                "file": "OE/Lab Info/Images.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Images"
             }
           }
         ]
@@ -174,8 +174,11 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
-    "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO/Notes.md",
+    "Media/01c73b95bf37452b5ad2c9a3c2aad7e7_MD5.png",
+    "Media/Pasted image 20260611222848.png",
+    "Media/2015fd465866b6d2297c6d313b1c7027_MD5.png",
     "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
+    "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO/Notes.md",
     "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13",
     "Media/4aa6ba61b87e8ff7f6a47e09802c9399_MD5.png",
     "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO",
@@ -200,8 +203,6 @@
     "Media/a728a892df0c44c0c1d15060b02d8995_MD5.jpeg",
     "Media/Pasted image 20260529102641.png",
     "Media/0518805b69a031ffc815f433e04a61b6_MD5.jpeg",
-    "Media/Pasted image 20260529000125.png",
-    "Media/b8229735072d60bb79ed5ef8f5914027_MD5.jpeg",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router/Notes.md",
     "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router",
@@ -218,7 +219,6 @@
     "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md",
     "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
     "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client/Notes.md",
-    "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM/Notes.md",
-    "OE/Section 10 - Umbrella/04 - Adding your Public Networks in Umbrella and forwarding your DNS traffic/Notes.md"
+    "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM/Notes.md"
   ]
 }
