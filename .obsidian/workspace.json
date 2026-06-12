@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO/Notes.md",
+                "file": "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,12 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO/Notes.md",
+    "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
+    "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13",
     "Media/4aa6ba61b87e8ff7f6a47e09802c9399_MD5.png",
     "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO",
     "OE/Section 12 - Network Automation/15 - Real Life change implementation plan using Python/Notes.md",
-    "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO/Notes.md",
     "OE/Section 13 - Mega Lab",
     "OE/Section 12 - Network Automation/14 - Configuring routing protocols on multiple routers using python/Notes.md",
     "OE/Section 12 - Network Automation/15 - Real Life change implementation plan using Python",
@@ -200,12 +202,10 @@
     "Media/0518805b69a031ffc815f433e04a61b6_MD5.jpeg",
     "Media/Pasted image 20260529000125.png",
     "Media/b8229735072d60bb79ed5ef8f5914027_MD5.jpeg",
-    "Media/Pasted image 20260528234014.png",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router/Notes.md",
     "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router",
     "OE/Section 12 - Network Automation/07 - Understanding Loops in Python/Notes.md",
-    "OE/Section 12 - Network Automation/08 - Understanding Network Function in python",
     "OE/Section 12 - Network Automation/06 - Understanding conditional statements in python/Notes.md",
     "OE/Section 12 - Network Automation/05 - Understanding Operators in Python/Notes.md",
     "OE/Section 12 - Network Automation/04 - Understanding Variables in Python/Notes.md",
