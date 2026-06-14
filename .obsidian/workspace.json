@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 348.5
   },
   "right": {
     "id": "4bde3fc496e1b661",
@@ -172,13 +172,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d8ba848967611fae",
+  "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
+    "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
+    "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
     "OE/Lab Info/Images.md",
     "Media/01c73b95bf37452b5ad2c9a3c2aad7e7_MD5.png",
     "Media/Pasted image 20260611222848.png",
     "Media/2015fd465866b6d2297c6d313b1c7027_MD5.png",
-    "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
     "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO/Notes.md",
     "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13",
     "Media/4aa6ba61b87e8ff7f6a47e09802c9399_MD5.png",
@@ -217,7 +219,6 @@
     "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
     "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md",
     "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
-    "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client/Notes.md",
-    "OE/Section 10 - Umbrella/05 - Downloading and Configuring Umbrella VM/Notes.md"
+    "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client/Notes.md"
   ]
 }
