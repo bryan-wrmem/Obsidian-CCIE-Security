@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
+                "file": "OE/Section 13 - Mega Lab/03 - Configure Clustering relationship between ASA20 and ASA21/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,9 +174,11 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
+    "OE/Section 13 - Mega Lab/03 - Configure Clustering relationship between ASA20 and ASA21/Notes.md",
+    "OE/Section 13 - Mega Lab/03 - Configure Clustering relationship between ASA20 and ASA21",
     "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
     "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
-    "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
     "OE/Lab Info/Images.md",
     "Media/01c73b95bf37452b5ad2c9a3c2aad7e7_MD5.png",
     "Media/Pasted image 20260611222848.png",
@@ -206,7 +208,6 @@
     "Media/Pasted image 20260529102641.png",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router/Notes.md",
     "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md",
-    "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router",
     "OE/Section 12 - Network Automation/07 - Understanding Loops in Python/Notes.md",
     "OE/Section 12 - Network Automation/06 - Understanding conditional statements in python/Notes.md",
     "OE/Section 12 - Network Automation/05 - Understanding Operators in Python/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md",
     "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
     "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md",
-    "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md",
-    "OE/Section 10 - Umbrella/06 - Download and Install Umbrella roaming client/Notes.md"
+    "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md"
   ]
 }
