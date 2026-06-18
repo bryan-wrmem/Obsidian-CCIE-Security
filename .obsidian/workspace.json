@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 13 - Mega Lab/03 - Configure Clustering relationship between ASA20 and ASA21/Notes.md",
+                "file": "OE/Section 13 - Mega Lab/04 - Configure AnyConnect VPN on London Site/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,11 +172,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "490b2e6b61e05371",
+  "active": "d8ba848967611fae",
   "lastOpenFiles": [
+    "OE/Section 13 - Mega Lab/03 - Configure Clustering relationship between ASA20 and ASA21/Notes.md",
+    "OE/Section 13 - Mega Lab/04 - Configure AnyConnect VPN on London Site/Notes.md",
+    "OE/Section 13 - Mega Lab/04 - Configure AnyConnect VPN on London Site",
     "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
     "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
-    "OE/Section 13 - Mega Lab/03 - Configure Clustering relationship between ASA20 and ASA21/Notes.md",
     "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
     "OE/Section 13 - Mega Lab/03 - Configure Clustering relationship between ASA20 and ASA21",
     "OE/Lab Info/Images.md",
@@ -201,7 +203,6 @@
     "Media/416f22e4fac3ccf8f3a2c4831b83c0aa_MD5.png",
     "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script/Notes.md",
     "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script",
-    "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script",
     "Media/c3ecfd224b2a2abba5897f590f1b55d2_MD5.png",
     "Media/4aa67f3370a693664c2cae550a865e44_MD5.png",
     "Media/a728a892df0c44c0c1d15060b02d8995_MD5.jpeg",
@@ -218,7 +219,6 @@
     "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md",
     "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md",
     "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
-    "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md",
-    "OE/Section 10 - Umbrella/07 - Creating Umbrella Polices and testing endpoint/Notes.md"
+    "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md"
   ]
 }
