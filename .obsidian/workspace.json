@@ -172,8 +172,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d8ba848967611fae",
+  "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "Media/0bc12e0b085301b24222291478c746d6_MD5.png",
     "OE/Section 13 - Mega Lab/03 - Configure Clustering relationship between ASA20 and ASA21/Notes.md",
     "OE/Section 13 - Mega Lab/04 - Configure AnyConnect VPN on London Site/Notes.md",
     "OE/Section 13 - Mega Lab/04 - Configure AnyConnect VPN on London Site",
@@ -218,7 +219,6 @@
     "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits/Notes.md",
     "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md",
     "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md",
-    "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md",
-    "OE/Section 11 - SDN & DNAC/01 - Course Introduction DNAC-ISE/Notes.md"
+    "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md"
   ]
 }
