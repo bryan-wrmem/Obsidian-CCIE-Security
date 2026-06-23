@@ -174,6 +174,8 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "Media/Pasted image 20260623191915.png",
+    "Media/f0b6e905a0680f026f978594a348258b_MD5.png",
     "OE/Section 13 - Mega Lab/04 - Configure AnyConnect VPN on London Site/Notes.md",
     "OE/Section 13 - Mega Lab/05 - Configure Clientless SSL VPN for Dubai Remote-Site/Notes.md",
     "OE/Section 13 - Mega Lab/05 - Configure Clientless SSL VPN for Dubai Remote-Site",
@@ -207,7 +209,6 @@
     "Media/416f22e4fac3ccf8f3a2c4831b83c0aa_MD5.png",
     "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script/Notes.md",
     "Media/c3ecfd224b2a2abba5897f590f1b55d2_MD5.png",
-    "Media/4aa67f3370a693664c2cae550a865e44_MD5.png",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router/Notes.md",
     "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md",
     "OE/Section 12 - Network Automation/07 - Understanding Loops in Python/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 12 - Network Automation/02 - Python Installation & performing basic Math functions/Notes.md",
     "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits/Notes.md",
     "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md",
-    "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md",
-    "OE/Section 11 - SDN & DNAC/02 - DNAC and SDN Detailed Introduction/Notes.md"
+    "OE/Section 11 - SDN & DNAC/03 - DNAC-ISE integration/Notes.md"
   ]
 }
