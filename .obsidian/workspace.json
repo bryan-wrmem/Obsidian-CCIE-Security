@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 13 - Mega Lab/06 - Configure Site-2-Site IKEv1 VPN between DC23 and Gisborne/Notes.md",
+                "file": "OE/Section 13 - Mega Lab/07 - Configure Flex VPN between Napier & Nelson branch/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,12 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "OE/Section 13 - Mega Lab/06 - Configure Site-2-Site IKEv1 VPN between DC23 and Gisborne/Notes.md",
+    "OE/Section 13 - Mega Lab/07 - Configure Flex VPN between Napier & Nelson branch/Notes.md",
+    "OE/Section 13 - Mega Lab/07 - Configure Flex VPN between Napier & Nelson branch",
     "Media/9ba6ace6e9c78f8e591dca51fa587ffb_MD5.png",
     "Media/5f2e1c699ce1c1c16b1be45153033328_MD5.png",
     "OE/Section 13 - Mega Lab/05 - Configure Clientless SSL VPN for Dubai Remote-Site/Notes.md",
-    "OE/Section 13 - Mega Lab/06 - Configure Site-2-Site IKEv1 VPN between DC23 and Gisborne/Notes.md",
     "OE/Section 13 - Mega Lab/06 - Configure Site-2-Site IKEv1 VPN between DC23 and Gisborne",
     "Media/Pasted image 20260623191915.png",
     "Media/f0b6e905a0680f026f978594a348258b_MD5.png",
@@ -206,8 +208,6 @@
     "OE/Section 12 - Network Automation/13 - SSH python script to talk to Switch/Notes.md",
     "OE/Section 12 - Network Automation/14 - Configuring routing protocols on multiple routers using python",
     "OE/Section 12 - Network Automation/12 - Using SSH to configure commands on router with python/Notes.md",
-    "OE/Section 12 - Network Automation/13 - SSH python script to talk to Switch",
-    "Media/a5a5f016213bbf87472815bdc800959a_MD5.png",
     "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script/Notes.md",
     "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script/Notes.md",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router/Notes.md",
