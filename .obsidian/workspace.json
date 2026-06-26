@@ -174,8 +174,10 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
-    "OE/Section 13 - Mega Lab/06 - Configure Site-2-Site IKEv1 VPN between DC23 and Gisborne/Notes.md",
+    "Media/ab486cfbd0ef324c7cb69a09882ba0c6_MD5.png",
+    "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
     "OE/Section 13 - Mega Lab/07 - Configure Flex VPN between Napier & Nelson branch/Notes.md",
+    "OE/Section 13 - Mega Lab/06 - Configure Site-2-Site IKEv1 VPN between DC23 and Gisborne/Notes.md",
     "OE/Section 13 - Mega Lab/07 - Configure Flex VPN between Napier & Nelson branch",
     "Media/9ba6ace6e9c78f8e591dca51fa587ffb_MD5.png",
     "Media/5f2e1c699ce1c1c16b1be45153033328_MD5.png",
@@ -217,8 +219,6 @@
     "OE/Section 12 - Network Automation/05 - Understanding Operators in Python/Notes.md",
     "OE/Section 12 - Network Automation/04 - Understanding Variables in Python/Notes.md",
     "OE/Section 12 - Network Automation/03 - Understanding Strings in Python/Notes.md",
-    "OE/Section 12 - Network Automation/02 - Python Installation & performing basic Math functions/Notes.md",
-    "OE/Section 12 - Network Automation/01 - Introduction to Network Automation & Benefits/Notes.md",
-    "OE/Section 11 - SDN & DNAC/04 - Creating Policies/Notes.md"
+    "OE/Section 12 - Network Automation/02 - Python Installation & performing basic Math functions/Notes.md"
   ]
 }
