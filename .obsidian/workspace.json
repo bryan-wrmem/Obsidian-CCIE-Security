@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 13 - Mega Lab/07 - Configure Flex VPN between Napier & Nelson branch/Notes.md",
+                "file": "OE/Section 13 - Mega Lab/08 - Configure Site-2-Site VPN between DC400 & DC500 branch/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,9 +174,12 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "Media/be325ab41b507e73cbebac11245e1e5d_MD5.png",
+    "OE/Section 13 - Mega Lab/07 - Configure Flex VPN between Napier & Nelson branch/Notes.md",
+    "OE/Section 13 - Mega Lab/08 - Configure Site-2-Site VPN between DC400 & DC500 branch/Notes.md",
+    "OE/Section 13 - Mega Lab/08 - Configure Site-2-Site VPN between DC400 & DC500 branch",
     "Media/ab486cfbd0ef324c7cb69a09882ba0c6_MD5.png",
     "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
-    "OE/Section 13 - Mega Lab/07 - Configure Flex VPN between Napier & Nelson branch/Notes.md",
     "OE/Section 13 - Mega Lab/06 - Configure Site-2-Site IKEv1 VPN between DC23 and Gisborne/Notes.md",
     "OE/Section 13 - Mega Lab/07 - Configure Flex VPN between Napier & Nelson branch",
     "Media/9ba6ace6e9c78f8e591dca51fa587ffb_MD5.png",
@@ -201,14 +204,12 @@
     "Media/2015fd465866b6d2297c6d313b1c7027_MD5.png",
     "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO/Notes.md",
     "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13",
-    "Media/4aa6ba61b87e8ff7f6a47e09802c9399_MD5.png",
     "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO",
     "OE/Section 12 - Network Automation/15 - Real Life change implementation plan using Python/Notes.md",
     "OE/Section 13 - Mega Lab",
     "OE/Section 12 - Network Automation/14 - Configuring routing protocols on multiple routers using python/Notes.md",
     "OE/Section 12 - Network Automation/15 - Real Life change implementation plan using Python",
     "OE/Section 12 - Network Automation/13 - SSH python script to talk to Switch/Notes.md",
-    "OE/Section 12 - Network Automation/14 - Configuring routing protocols on multiple routers using python",
     "OE/Section 12 - Network Automation/12 - Using SSH to configure commands on router with python/Notes.md",
     "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script/Notes.md",
     "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 12 - Network Automation/06 - Understanding conditional statements in python/Notes.md",
     "OE/Section 12 - Network Automation/05 - Understanding Operators in Python/Notes.md",
     "OE/Section 12 - Network Automation/04 - Understanding Variables in Python/Notes.md",
-    "OE/Section 12 - Network Automation/03 - Understanding Strings in Python/Notes.md",
-    "OE/Section 12 - Network Automation/02 - Python Installation & performing basic Math functions/Notes.md"
+    "OE/Section 12 - Network Automation/03 - Understanding Strings in Python/Notes.md"
   ]
 }
