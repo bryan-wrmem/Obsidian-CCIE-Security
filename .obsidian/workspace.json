@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 13 - Mega Lab/09 - Configure Dot1x and Mab for Customerservice-PC & IT-PC/Notes.md",
+                "file": "OE/Section 13 - Mega Lab/12 - Configure WSA redirection on Call center router/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,13 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "Media/658054c2f3014184f02a6c2ea7ae5acf_MD5.png",
+    "Media/b1211e0768b5ea39ce593a470057f8a9_MD5.png",
+    "Media/b10706ae9e28db405cc1c22a2437c602_MD5.png",
+    "OE/Section 13 - Mega Lab/09 - Configure Dot1x and Mab for Customerservice-PC & IT-PC/Notes.md",
     "OE/Section 13 - Mega Lab/13 - Optimization Troubleshooting/Notes.md",
     "OE/Section 13 - Mega Lab/12 - Configure WSA redirection on Call center router/Notes.md",
     "OE/Section 13 - Mega Lab/13 - Optimization Troubleshooting",
-    "OE/Section 13 - Mega Lab/09 - Configure Dot1x and Mab for Customerservice-PC & IT-PC/Notes.md",
     "OE/Section 13 - Mega Lab/12 - Configure WSA redirection on Call center router",
     "OE/Section 13 - Mega Lab/10 - Configure NTP server on your NTP router/Notes.md",
     "OE/Section 13 - Mega Lab/11 - Configure SYSLOG on R9/Notes.md",
@@ -208,8 +211,6 @@
     "OE/Section 02 - ASA/20 - ASA Active Active/Notes.md",
     "OE/Section 13 - Mega Lab/02 - Configure ActiveActive relationship between ASA12 and ASA13/Notes.md",
     "OE/Lab Info/Images.md",
-    "Media/01c73b95bf37452b5ad2c9a3c2aad7e7_MD5.png",
-    "Media/Pasted image 20260611222848.png",
     "OE/Section 13 - Mega Lab/01 - ASAv1 and ASAv2 Active-Passive FO/Notes.md",
     "OE/Section 12 - Network Automation/15 - Real Life change implementation plan using Python/Notes.md",
     "OE/Section 12 - Network Automation/14 - Configuring routing protocols on multiple routers using python/Notes.md",
@@ -218,7 +219,6 @@
     "OE/Section 12 - Network Automation/11 - Configuring ASA using telnet with python script/Notes.md",
     "OE/Section 12 - Network Automation/10 - Creating VLANs and assiging them to ports on switch using python script/Notes.md",
     "OE/Section 12 - Network Automation/09 - Creating Base lab for automation and running OSPF and BGP using python script on router/Notes.md",
-    "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md",
-    "OE/Section 12 - Network Automation/07 - Understanding Loops in Python/Notes.md"
+    "OE/Section 12 - Network Automation/08 - Understanding Network Function in python/Notes.md"
   ]
 }
