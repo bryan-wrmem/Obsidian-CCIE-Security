@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OE/Section 13 - Mega Lab/12 - Configure WSA redirection on Call center router/Notes.md",
+                "file": "OE/Section 03 - VPNs/14 - Flex VPN using L2TPv3/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,12 +174,12 @@
   },
   "active": "490b2e6b61e05371",
   "lastOpenFiles": [
+    "OE/Section 13 - Mega Lab/12 - Configure WSA redirection on Call center router/Notes.md",
     "Media/658054c2f3014184f02a6c2ea7ae5acf_MD5.png",
     "Media/b1211e0768b5ea39ce593a470057f8a9_MD5.png",
     "Media/b10706ae9e28db405cc1c22a2437c602_MD5.png",
     "OE/Section 13 - Mega Lab/09 - Configure Dot1x and Mab for Customerservice-PC & IT-PC/Notes.md",
     "OE/Section 13 - Mega Lab/13 - Optimization Troubleshooting/Notes.md",
-    "OE/Section 13 - Mega Lab/12 - Configure WSA redirection on Call center router/Notes.md",
     "OE/Section 13 - Mega Lab/13 - Optimization Troubleshooting",
     "OE/Section 13 - Mega Lab/12 - Configure WSA redirection on Call center router",
     "OE/Section 13 - Mega Lab/10 - Configure NTP server on your NTP router/Notes.md",
@@ -204,7 +204,6 @@
     "OE/Section 13 - Mega Lab/04 - Configure AnyConnect VPN on London Site/Notes.md",
     "OE/Section 13 - Mega Lab/05 - Configure Clientless SSL VPN for Dubai Remote-Site",
     "Media/a6c468d778d3c287b6ce0dd4f9feeaf1_MD5.png",
-    "Media/0bc12e0b085301b24222291478c746d6_MD5.png",
     "OE/Section 13 - Mega Lab/03 - Configure Clustering relationship between ASA20 and ASA21/Notes.md",
     "OE/Section 13 - Mega Lab/04 - Configure AnyConnect VPN on London Site",
     "OE/Section 02 - ASA/21 - ASA Clustering/Notes.md",
